@@ -1,4 +1,0 @@
-type: block
-name: Copper Wall
-destructible: 50
-description: A basic wall made of copper.

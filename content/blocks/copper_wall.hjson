@@ -1,0 +1,4 @@
+type: wall
+name: Copper-Wall
+destructable: 50
+description: A basic wall made of copper.
