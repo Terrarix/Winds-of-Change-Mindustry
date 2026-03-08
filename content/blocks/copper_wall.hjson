@@ -1,4 +1,15 @@
-type: wall
+type: block
 name: Copper-Wall
-destructable: 50
+destructable: true
+solid: true
+buildCost: 100
 description: A basic wall made of copper.
+health: 50
+size: 2
+category: defense
+requirements: [
+    copper_ore/50
+]
+breakable: true
+targetable: true
+buildVisibility: shown
