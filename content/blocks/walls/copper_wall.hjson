@@ -8,7 +8,7 @@ health: 50
 size: 2
 category: defense
 requirements: [
-    copper_ore/50
+    copper-ore/50
 ]
 breakable: true
 targetable: true
