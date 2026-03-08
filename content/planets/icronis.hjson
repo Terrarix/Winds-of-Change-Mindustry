@@ -2,7 +2,7 @@ generator: "PlanetGenerator"
 solarSystem: sun
 parent: sun
 orbitRadius: 101.21
-
+localizedName: Iconis
 clearSectorOnLose: true
 allowLaunchSchematics: false
 allowLaunchToNumbered: false
@@ -13,7 +13,7 @@ visible: true
 updateLighting: false
 defaultCore: core-shard
 sectorSize: 2
-radius: 0.8
+radius: 0.9
 bloom: false
 
 startSector: 2
