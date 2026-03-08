@@ -1,0 +1,146 @@
+generator: "PlanetGenerator"
+solarSystem: sun
+parent: sun
+orbitRadius: 101.21
+
+clearSectorOnLose: true
+allowLaunchSchematics: false
+allowLaunchToNumbered: false
+allowLaunchLoadout: false
+allowSectorInvasion: false
+hasAtmosphere: true
+visible: true
+updateLighting: false
+defaultCore: core-shard
+sectorSize: 2
+radius: 0.8
+bloom: false
+
+startSector: 2
+iconColor: f3c3e7
+
+accessible: true
+alwaysUnlocked: true
+
+campaignRuleDefaults: {
+	fog: false
+	showSpawns: true
+}
+
+mesh: [
+	{
+	//sand/desert
+		type: NoiseMesh
+		planet: icronis
+		divisions: 5
+		radius: 0.9
+		color1: FFFFFF
+		color2: E8F3FF
+		octaves: 3
+		persistence: 1.4
+		mag: 2.35
+		scl: 14
+	}
+	{
+		//Carbon
+		type: NoiseMesh
+		planet: icronis
+		divisions: 5
+		radius: 1
+		color1: 3c4448
+		color2: 282b34
+		octaves: 3
+		persistence: 1.4
+		mag: 1
+		scl: 1
+		seed: 2
+	}
+	{
+		//Resonarum
+		type: NoiseMesh
+		planet: icronis
+		divisions: 5
+		radius: 0.9
+		color1: ABDEFF
+		color2: 8CD2FF
+		octaves: 3
+		persistence: 1
+		mag: 1.8
+		scl: 1
+		seed: 2
+	}
+	{
+		//Meld stone
+		type: NoiseMesh
+		planet: icronis
+		divisions: 5
+		radius: 1.1
+		color1: EBF4FF
+		color2: D9EAFF
+		octaves: 6
+		persistence: 0.4
+		mag: 0.3
+		scl: 7
+	}
+    {
+        //Backdrop?
+		//Meld stone
+		type: NoiseMesh
+		planet: icronis
+		divisions: 5
+		radius: 0.9
+		color1: 576075
+		color2: 52607D
+		octaves: 4
+		persistence: 0.4
+		mag: 2.5
+		scl: 14
+    }
+]
+cloudMesh: [
+ {
+   type: HexSkyMesh
+   planet: icronis
+   speed: 0.8
+   radius: 0.1
+   divisions: 6
+   color: EDF7FF
+   octaves: 3
+   persistence: 0.3
+   scl: 3
+   thresh: 0.6
+  }
+ {
+   type: HexSkyMesh
+   planet: icronis
+   speed: 0.5
+   radius: 0.12
+   divisions: 6
+   color: EDF7FF
+   octaves: 3
+   persistence: 0.3
+   scl: 3
+   thresh: 0.2
+  }
+ {
+   type: HexSkyMesh
+   planet: icronis
+   speed: 1.2
+   radius: -0.1
+   divisions: 6
+   color: EDF7FF
+   octaves: 3
+   persistence: 0.3
+   scl: 3
+   thresh: 0.4
+  }
+]
+
+research: {
+	planet: icronis
+	root: true
+	requiresUnlock: false
+	name: "icronis"
+}
+
+shownPlanets: [icronis]
