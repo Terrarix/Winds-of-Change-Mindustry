@@ -3,6 +3,9 @@ name: Nuke
 description: oh lord. Upon destruction will destroy EVERYTHING that isnt on the placers team.
 buildVisibility: sandboxOnly
 health: 1
+size: 1
+category: defense
+radioactivity: 1
 destroyBullet: {
   instantDisappear: true
   damage: 0
