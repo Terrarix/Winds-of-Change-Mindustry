@@ -122,18 +122,6 @@ cloudMesh: [
    scl: 3
    thresh: 0.2
   }
- {
-   type: HexSkyMesh
-   planet: icronis
-   speed: 1.2
-   radius: -0.1
-   divisions: 6
-   color: EDF7FF
-   octaves: 3
-   persistence: 0.1
-   scl: 3
-   thresh: 0.4
-  }
 ]
 
 research: {
