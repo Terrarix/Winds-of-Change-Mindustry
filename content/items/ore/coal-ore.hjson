@@ -1,3 +1,4 @@
 type: item
 name: Coal Ore
 description: A piece of coal ore.
+buildable: false

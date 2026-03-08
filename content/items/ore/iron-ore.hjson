@@ -1,3 +1,4 @@
 type: item
 name: Iron Ore
 description: A piece of iron ore.
+buildable: true
