@@ -2,4 +2,4 @@ type: item
 name: Nickel
 description: A piece of raw nickel.
 buildable: true
-healthScaling: 1.5
+healthScaling: 0.75

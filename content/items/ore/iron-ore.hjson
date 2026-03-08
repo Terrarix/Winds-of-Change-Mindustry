@@ -2,4 +2,4 @@ type: item
 name: Iron
 description: A piece of raw iron.
 buildable: true
-healthScaling: 1.5
+healthScaling: 0.5
