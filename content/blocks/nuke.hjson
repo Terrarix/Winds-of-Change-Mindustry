@@ -1,0 +1,24 @@
+type: Wall
+name: Nuke
+description: oh lord. Upon destruction will destroy EVERYTHING that isnt on the placers team.
+buildVisibility: sandboxOnly
+health: 1
+destroyBullet: {
+  instantDisappear: true
+  damage: 0
+  speed: 0
+  fragBullets: 1
+  fragBullet: {
+    type: BasicBulletType
+    speed: 0
+    lifetime: 0
+    pierce: true
+    width: 1000000
+    height: 1000000
+    pierceCap: 1000000
+    homingPower: 0.1
+    damage: 100000010000001000000
+    mixColorFrom: ff0000ff
+    mixColorTo: 00000000
+  }
+}
