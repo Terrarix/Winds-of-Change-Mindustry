@@ -1,5 +1,5 @@
-type: block
-name: Copper-Wall
+type: wall
+name: Copper Wall
 destructable: true
 solid: true
 buildCost: 100
