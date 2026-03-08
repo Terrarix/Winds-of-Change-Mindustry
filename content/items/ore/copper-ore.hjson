@@ -2,3 +2,4 @@ type: item
 name: Copper Ore
 description: A piece of copper ore.
 buildable: true
+healthScaling: 1.2
