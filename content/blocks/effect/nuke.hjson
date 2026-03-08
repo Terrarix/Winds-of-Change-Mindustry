@@ -2,7 +2,7 @@ type: Wall
 name: Nuke
 description: oh lord. Upon destruction will destroy EVERYTHING that isnt on the placers team.
 buildVisibility: sandboxOnly
-category: Effect
+category: effect
 health: 1
 destroyBullet: {
   instantDisappear: true
@@ -22,4 +22,5 @@ destroyBullet: {
     mixColorFrom: ff0000ff
     mixColorTo: 00000000
   }
+
 }
