@@ -13,7 +13,7 @@ visible: true
 updateLighting: false
 defaultCore: core-shard
 sectorSize: 2
-radius: 0.9
+radius: 0.88
 bloom: false
 
 startSector: 2
@@ -33,7 +33,7 @@ mesh: [
 		type: NoiseMesh
 		planet: icronis
 		divisions: 5
-		radius: 0.9
+		radius: 0.72
 		color1: FFFFFF
 		color2: E8F3FF
 		octaves: 3
@@ -46,7 +46,7 @@ mesh: [
 		type: NoiseMesh
 		planet: icronis
 		divisions: 5
-		radius: 1
+		radius: 0.76
 		color1: 3c4448
 		color2: 282b34
 		octaves: 3
@@ -60,7 +60,7 @@ mesh: [
 		type: NoiseMesh
 		planet: icronis
 		divisions: 5
-		radius: 0.9
+		radius: 0.72
 		color1: ABDEFF
 		color2: 8CD2FF
 		octaves: 3
@@ -74,7 +74,7 @@ mesh: [
 		type: NoiseMesh
 		planet: icronis
 		divisions: 5
-		radius: 1.1
+		radius: 0.76
 		color1: EBF4FF
 		color2: D9EAFF
 		octaves: 6
@@ -88,7 +88,7 @@ mesh: [
 		type: NoiseMesh
 		planet: icronis
 		divisions: 5
-		radius: 0.9
+		radius: 0.72
 		color1: 576075
 		color2: 52607D
 		octaves: 4
@@ -102,7 +102,7 @@ cloudMesh: [
    type: HexSkyMesh
    planet: icronis
    speed: 0.8
-   radius: 0.1
+   radius: 0.08
    divisions: 6
    color: EDF7FF
    octaves: 3
@@ -114,7 +114,7 @@ cloudMesh: [
    type: HexSkyMesh
    planet: icronis
    speed: 0.5
-   radius: 0.12
+   radius: 0.096
    divisions: 6
    color: EDF7FF
    octaves: 3
