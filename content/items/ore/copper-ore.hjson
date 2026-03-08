@@ -2,4 +2,4 @@ type: item
 name: Copper
 description: A piece of raw copper.
 buildable: true
-healthScaling: 0.1
+healthScaling: 0.2
