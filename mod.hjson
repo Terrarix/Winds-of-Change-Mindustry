@@ -4,5 +4,6 @@ author: Terrarix&Aces-Anomaly
 description: "A mod made by a small team to new content for Mindustry. We hope you enjoy it!"
 version: "1.0"
 minGameVersion: "153"
+repo: Terrarix/Winds-of-Change-Mindustry
 dependencies: [ ]
 hidden: false
