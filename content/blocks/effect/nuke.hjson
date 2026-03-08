@@ -8,10 +8,10 @@ destroyBullet: {
   instantDisappear: true
   damage: 0
   speed: 0
-  fragBullets: 10
+  fragBullets: 50
   fragBullet: {
     type: BasicBulletType
-    speed: 10
+    speed: 1000
     lifetime: 100
     pierce: true
     width: 100
@@ -24,6 +24,7 @@ destroyBullet: {
   }
 
 }
+
 
 
 
