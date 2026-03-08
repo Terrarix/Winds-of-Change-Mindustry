@@ -1,4 +1,5 @@
 type: OreBlock
 name: Iced Copper Ore
-itemDrop: copper-ice
+itemDrop: iron-ice
+
 varients: 3
