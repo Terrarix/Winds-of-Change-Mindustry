@@ -4,7 +4,7 @@ destructable: true
 solid: true
 buildCost: 100
 description: A basic wall made of copper.
-health: 50
+scaledHealth: 50
 size: 2
 category: defense
 requirements: [
