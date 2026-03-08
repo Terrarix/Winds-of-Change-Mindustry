@@ -1,6 +1,6 @@
 type: Wall
 name: Nuke
-description: oh lord. Upon destruction will destroy EVERYTHING that isnt on the placers team.
+description: oh lord. Upon destruction will destroy EVERYTHING that gets hit.
 buildVisibility: sandboxOnly
 category: effect
 health: 1
@@ -24,6 +24,8 @@ destroyBullet: {
   }
 
 }
+
+
 
 
 
