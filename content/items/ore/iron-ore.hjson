@@ -1,5 +1,5 @@
 type: item
-name: Iron Ore
-description: A piece of iron ore.
+name: Iron
+description: A piece of raw iron.
 buildable: true
 healthScaling: 1.5

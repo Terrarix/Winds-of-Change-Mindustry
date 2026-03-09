@@ -1,4 +1,5 @@
 type: item
-name: Coal Ore
-description: A piece of coal ore.
+name: Coal
+description: A piece of raw coal.
 buildable: false
+flammability: 0.1

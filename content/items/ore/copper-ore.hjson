@@ -1,5 +1,5 @@
 type: item
-name: Copper Ore
-description: A piece of copper ore.
+name: Copper
+description: A piece of raw copper.
 buildable: true
 healthScaling: 1.2
