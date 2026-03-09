@@ -1,16 +1,10 @@
 type: wall
 localizedName: Copper Wall
-destructable: true
-solid: true
-buildCost: 100
 description: A basic wall made of copper.
 size: 2
 category: defense
 requirements: [
     copper-ore/50
 ]
-breakable: true
-targetable: true
-buildVisibility: shown
 buildCostMultiplier: 0.4
 health: 50
