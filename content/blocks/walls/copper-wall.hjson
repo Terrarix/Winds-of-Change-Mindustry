@@ -13,3 +13,4 @@ breakable: true
 targetable: true
 buildVisibility: shown
 buildCostMultiplier: 0.4
+health: 50

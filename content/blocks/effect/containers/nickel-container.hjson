@@ -1,0 +1,16 @@
+type: storageblock
+localizedName: Nickel Container
+destructable: true
+solid: true
+buildCost: 125
+description: A basic container made of nickel.
+size: 2
+category: effect
+requirements: [
+    nickel/50
+]
+breakable: true
+targetable: true
+buildVisibility: shown
+buildCostMultiplier: 0.4
+health: 55
