@@ -13,3 +13,4 @@ requirements: [
 breakable: true
 targetable: true
 buildVisibility: shown
+buildCostMultiplier: 0.4
