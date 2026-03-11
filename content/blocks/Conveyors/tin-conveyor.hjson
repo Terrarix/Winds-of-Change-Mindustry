@@ -4,3 +4,6 @@ description: A basic conveyor made of tin.
 size: 1
 speed: 4.5
 category: distribution
+requirements: [
+    tin/1
+]

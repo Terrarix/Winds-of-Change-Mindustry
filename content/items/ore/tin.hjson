@@ -1,0 +1,5 @@
+type: item
+name: Tin
+description: A piece of raw tin.
+buildable: true
+healthScaling: 0.75
