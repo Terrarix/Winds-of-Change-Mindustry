@@ -3,6 +3,7 @@ localizedName: Nickel Container
 description: A basic container made of nickel.
 size: 2
 category: effect
+itemCapacity: 120
 requirements: [
     nickel/50
 ]
