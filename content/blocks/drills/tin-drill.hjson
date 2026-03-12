@@ -8,7 +8,7 @@ drillTime: 3600
 hasPower: true
 consumesPower: true
 consumes:
-  power: 0.2
+power/0.2
 requirements: {
     tin/50
 }
