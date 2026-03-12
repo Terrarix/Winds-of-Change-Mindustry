@@ -6,10 +6,9 @@ description: A slow drill, made of tin.
 warmupSpeed: 0.05
 drillTime: 3600
 hasPower: true
-powercapacity: 100
-consumes: [
-  power/0.2
-]
+consumes: {
+  power: 0.2
+}
 requirements: [
     tin/50
 ]
