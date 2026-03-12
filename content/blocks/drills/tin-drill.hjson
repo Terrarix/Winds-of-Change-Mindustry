@@ -13,3 +13,5 @@ requirements: [
     tin/50
 ]
 category: production
+rotateSpeed: 0.2
+tint: ffffff
