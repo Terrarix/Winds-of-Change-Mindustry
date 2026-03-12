@@ -1,7 +1,7 @@
 type: Drill
 tier: 1
 size: 3
-name: tin-drill
+localizedName: Tin Drill
 description: A slow drill, made of tin.
 warmupSpeed: 0.05
 drillTime: 3600
