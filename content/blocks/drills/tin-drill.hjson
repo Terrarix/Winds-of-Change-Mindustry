@@ -9,7 +9,7 @@ hasPower: true
 consumesPower: true
 consumes:
   power: 0.2
-requirements: [
+requirements: {
     tin/50
-]
+}
 category: production
