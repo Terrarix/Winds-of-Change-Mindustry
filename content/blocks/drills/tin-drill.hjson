@@ -4,7 +4,8 @@ size: 3
 name: tin-drill
 description: A slow drill, made of tin.
 warmupSpeed: 0.05
-drillTime: 1800
+drillTime: 3600
+consumesPower: true
 consumes:
   power: 0.2
 requirements: [
