@@ -1,6 +1,0 @@
-type: liquid
-localizedName: Heat
-description: Heat used to keep machines running.
-barColor: #dd9e00ff
-color: #dd9e00ff
-temperature: 0.7

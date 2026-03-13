@@ -1,10 +1,12 @@
-type: GenericCrafter
+type: HeatCrafter
 size: 3
 localizedName: Synthetic Insulation Factory
 description: A factory that takes in steam and nickel and produces synthetic rubber.
 hasPower: true
 craftTime: 300
 hasLiquids: true
+hasHeat: true
+heatRequirement: 2
 outputItem: {
   item: synthetic-rubber
   amount: 6
@@ -13,7 +15,6 @@ consumes: {
   power: 2
   liquids: [
     steam/0.02
-    heat/0.1
   ]
   items: [
     nickel/2
