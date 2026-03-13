@@ -2,7 +2,8 @@ type: Duct
 localizedName: Tin Conveyor
 description: A basic conveyor made of tin.
 size: 1
-speed: 0.2
+speed: 15
+itemCapacity: 3
 category: distribution
 requirements: [
     tin/1

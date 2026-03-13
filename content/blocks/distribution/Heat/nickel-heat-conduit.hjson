@@ -1,0 +1,11 @@
+type: HeatConductor
+localizedName: Nickel Heat Conduit
+description: A basic heat conduit made of nickel & synthetic rubber.
+size: 1
+category: distribution
+requirements: [
+    nickel/4
+    synthetic-rubber/4
+]
+tint: ffffff
+splitHeat: true

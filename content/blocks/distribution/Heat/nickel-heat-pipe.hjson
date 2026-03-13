@@ -1,0 +1,10 @@
+type: HeatConductor
+localizedName: Nickel Heat Pipe
+description: A basic heat pipe made of nickel & synthetic rubber.
+size: 1
+category: distribution
+requirements: [
+    nickel/2
+    synthetic-rubber/2
+]
+tint: ffffff
