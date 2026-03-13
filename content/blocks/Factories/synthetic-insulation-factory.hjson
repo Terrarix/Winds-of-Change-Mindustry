@@ -10,10 +10,10 @@ outputItem: {
   amount: 6
 }
 consumes: {
-  power: 1
+  power: 2
   liquids: [
     steam/0.02
-    heat/0.01
+    heat/0.1
   ]
   items: [
     nickel/2

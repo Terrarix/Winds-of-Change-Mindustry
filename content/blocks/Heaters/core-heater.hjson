@@ -10,7 +10,7 @@ outputLiquid: {
   amount: 0.2
 }
 consumes: {
-  power: 0.2
+  power: 3
 }
 requirements: [
     tin/500
