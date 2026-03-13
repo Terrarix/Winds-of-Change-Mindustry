@@ -7,12 +7,13 @@ craftTime: 300
 hasLiquids: true
 outputItem: {
   item: synthetic-rubber
-  amount: 3
+  amount: 6
 }
 consumes: {
-  power: 0.2
+  power: 1
   liquids: [
-    steam/0.5
+    steam/0.02
+    heat/0.01
   ]
   items: [
     nickel/2

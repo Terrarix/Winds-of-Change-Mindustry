@@ -1,0 +1,18 @@
+type: GenericCrafter
+size: 3
+localizedName: Core heater
+description: A simple heater.
+hasPower: true
+craftTime: 300
+hasLiquids: true
+outputLiquid: {
+  liquid: heat
+  amount: 0.2
+}
+consumes: {
+  power: 0.2
+}
+requirements: [
+    tin/500
+]
+category: crafting
