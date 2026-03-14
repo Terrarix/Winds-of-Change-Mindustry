@@ -1,4 +1,4 @@
-type: tank
+type: mech
 localizedName: Snowtreker
 description: The scout's mech.
 flying: false
