@@ -1,0 +1,22 @@
+type: ItemTurret
+size: 2
+health: 20
+localizedName: snowball
+description: Basic early game cheap turret.
+requirements: [
+  tin: 40
+]
+range: 10
+inaccuracy: 2
+reload: 30
+shots: 1
+ammo: {
+    tin/1
+}
+ammo-types: {
+    type: BasicBulletType
+    lifetime: 60
+    speed: 3
+    damage: 10
+    hitSize: 4
+}
