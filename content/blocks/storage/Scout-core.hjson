@@ -1,0 +1,11 @@
+type: CoreBlock
+localizedName: Scout
+unitType: snowtreker
+description: Your frist and weakest core.
+size: 5
+category: effect
+itemCapacity: 5000
+requirements: [
+    nickel/1500
+]
+buildCostMultiplier: 3

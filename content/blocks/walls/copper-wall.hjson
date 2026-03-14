@@ -7,4 +7,4 @@ requirements: [
     copper-ore/50
 ]
 buildCostMultiplier: 0.4
-health: 50
+health: 1400

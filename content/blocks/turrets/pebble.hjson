@@ -8,16 +8,21 @@ targetAir: false
 requirements: [
   tin/120
 ]
-range: 100
-powerUse: 2
+range: 90
 inaccuracy: 2
-reload: 30
-shots: 3
-spread: 5
+reload: 70
+shoot: {
+    shots: 3
+    shotDelay: 0
+    spread: 40
+}
+consumes: {
+    power: 5
+}
 shootType: {
     type: BasicBulletType
     lifetime: 60
-    speed: 10
-    damage: 20
+    speed: 3
+    damage: 30
     hitSize: 4
 }

@@ -1,0 +1,41 @@
+type: tank
+localizedName: Snowtreker
+description: The scout's mech.
+flying: false
+canBoost: true
+speed: 3
+maxSpeed: 20
+boostSpeed: 3
+drag: 1.0
+mass: 1.1
+health: 250
+canMine: true
+buildSpeed: 1.5
+mineTier: 1
+mineSpeed: 1.5
+minerange: 20
+rotateToBuilding: true
+drillPower: -1
+itemCapacity: 15
+turnCursor: true
+drawItems: true
+weapons: [
+    {
+    bullet: {
+        type: missileBulletType
+        lifetime: 90
+        speed: 3
+        damage: 25
+        hitSize: 6
+        splashDamage: 20
+        splashDamageRadius: 15
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 10
+        inaccuracy: 3
+    }
+    alternate: true
+    reload: 100
+    }
+]
