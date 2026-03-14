@@ -1,18 +1,21 @@
-type: ItemTurret
+type: PowerTurret
 size: 2
-health: 150
+health: 100
 hasItems: true
 category: turret
-localizedName: snowball
+localizedName: pebble
 description: Basic early game cheap turret.
+targetAir: false
 requirements: [
-  tin/150
+  tin/120
 ]
 range: 100
 inaccuracy: 2
 reload: 30
-ammoTypes: {
-    tin: {
+shots: 3
+spread: 5
+shootType: {
+    power: {
         type: BasicBulletType
         lifetime: 60
         speed: 2
@@ -20,3 +23,5 @@ ammoTypes: {
         hitSize: 4
     }
 }
+chargeTime: 30
+powerUse: 2
