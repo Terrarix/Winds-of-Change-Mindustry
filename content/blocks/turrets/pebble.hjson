@@ -1,7 +1,6 @@
 type: PowerTurret
 size: 2
 health: 100
-hasItems: true
 category: turret
 localizedName: pebble
 description: Basic early game cheap turret.
@@ -10,18 +9,15 @@ requirements: [
   tin/120
 ]
 range: 100
+powerUse: 2
 inaccuracy: 2
 reload: 30
 shots: 3
 spread: 5
 shootType: {
-    power: {
-        type: BasicBulletType
-        lifetime: 60
-        speed: 2
-        damage: 20
-        hitSize: 4
-    }
+    type: BasicBulletType
+    lifetime: 60
+    speed: 10
+    damage: 20
+    hitSize: 4
 }
-chargeTime: 30
-powerUse: 2
