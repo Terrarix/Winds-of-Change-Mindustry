@@ -1,8 +1,7 @@
 type: PowerTurret
 size: 2
-health: 100
 category: turret
-localizedName: pebble
+localizedName: Pebble
 description: Basic early game cheap turret.
 targetAir: false
 requirements: [

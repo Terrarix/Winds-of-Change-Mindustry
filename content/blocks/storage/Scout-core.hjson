@@ -1,7 +1,7 @@
 type: CoreBlock
 localizedName: Scout
 unitType: snowtreker
-description: Your frist and weakest core.
+description: The first core. Once destroyed, the sector is lost.
 size: 5
 category: effect
 itemCapacity: 5000

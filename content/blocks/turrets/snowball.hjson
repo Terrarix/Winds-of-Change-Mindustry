@@ -1,9 +1,8 @@
 type: ItemTurret
 size: 2
-health: 150
 hasItems: true
 category: turret
-localizedName: snowball
+localizedName: Snowball
 description: Basic early game cheap turret.
 requirements: [
   tin/150
