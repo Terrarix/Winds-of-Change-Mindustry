@@ -1,0 +1,6 @@
+type: item
+name: engine
+description: An engine.
+buildable: false
+explosiveness: 0.2
+flammability: 0.1
