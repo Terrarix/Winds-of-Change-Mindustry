@@ -1,5 +1,5 @@
 type: item
-name: Synthetic Rubber
+localizedname: Synthetic Rubber
 description: A piece Synthetic Rubber, used in mainly heating mechanisms.
 buildable: false
 flammability: 0.1
