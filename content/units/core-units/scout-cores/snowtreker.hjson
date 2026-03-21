@@ -38,4 +38,14 @@ weapons: [
     alternate: true
     reload: 100
     }
+    {
+    bullet: {
+        type: basicBulletType
+        lifetime: 90
+        speed: 5
+        damage: 15
+        hitSize: 6
+    }
+    reload: 75
+    }
 ]
