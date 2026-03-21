@@ -1,0 +1,4 @@
+type: item
+name: iridium
+description: Used for orbital tech.
+buildable: false

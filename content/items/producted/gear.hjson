@@ -1,4 +1,4 @@
 type: item
-localizedname: gear
+name: gear
 description: A simple gear.
 buildable: false

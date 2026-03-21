@@ -1,0 +1,4 @@
+type: item
+name: Iced nickel
+description: A piece of nickel that needs to be seperated first
+buildable: false

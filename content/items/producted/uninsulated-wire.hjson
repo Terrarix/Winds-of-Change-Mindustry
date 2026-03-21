@@ -1,5 +1,5 @@
 type: item
-localizedname: uninsulated wire
+name: uninsulated wire
 description: Uninsulated which needs to be insulated before use.
 charge: 2
 buildable: false

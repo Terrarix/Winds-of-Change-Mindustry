@@ -1,4 +1,4 @@
 type: item
-localizedname: metal
+name: metal
 description: A chunk of metal. idk what else to say about it. Maybe use it i guess? I mean, it's metal, you can probably use it for something. Maybe make a sword out of it? Or a shield? The possibilities are endless! Just don't ask me how to use it, I'm just a description.
 buildable: false

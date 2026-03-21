@@ -1,5 +1,5 @@
 type: item
-localizedname: engine
+name: engine
 description: An engine.
 buildable: false
 explosiveness: 0.2

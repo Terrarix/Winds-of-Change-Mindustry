@@ -1,5 +1,5 @@
 type: item
-localizedname: Electric Alloy
+name: Electric Alloy
 description: mid game electric resource.
 buildable: false
 charge: 0.8
