@@ -2,3 +2,4 @@ type: item
 name: battery
 description: A battery used to make machines.
 buildable: false
+charge: 2.5

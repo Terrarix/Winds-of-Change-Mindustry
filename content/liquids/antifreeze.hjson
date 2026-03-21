@@ -3,3 +3,4 @@ localizedName: Antifreeze
 description: A drop of antifreeze.
 barColor: #8edbffff
 color: #5eafffff
+temperature: 0
