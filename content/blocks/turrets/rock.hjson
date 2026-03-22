@@ -1,0 +1,30 @@
+type: PowerTurret
+size: 2
+category: turret
+localizedName: Rock
+description: Slightly better than the pebble.
+targetAir: false
+requirements: [
+  tin/200
+  copper/150
+]
+range: 180
+inaccuracy: 10
+reload: 70
+shoot: {
+    shots: 6
+    shotDelay: 0
+    spread: 160
+}
+consumes: {
+    power: 8
+}
+shootType: {
+    type: BasicBulletType
+    lifetime: 60
+    speed: 3
+    damage: 40
+    hitSize: 4
+    width: 10
+    height: 10
+}
