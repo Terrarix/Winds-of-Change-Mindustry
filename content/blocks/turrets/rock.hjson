@@ -3,7 +3,8 @@ size: 2
 category: turret
 localizedName: Rock
 description: Slightly better than the pebble.
-targetAir: false
+targetAir: true
+targetGround: true
 requirements: [
   tin/200
   copper/150
@@ -23,7 +24,7 @@ shootType: {
     type: BasicBulletType
     lifetime: 60
     speed: 3
-    damage: 40
+    damage: 25
     hitSize: 4
     width: 10
     height: 10
