@@ -9,13 +9,13 @@ requirements: [
 ]
 range: 130
 inaccuracy: 2
-reload: 30
+reload: 25
 ammoTypes: {
     tin: {
         type: BasicBulletType
         lifetime: 60
         speed: 2
-        damage: 25
+        damage: 15
         hitSize: 4
     }
 }
