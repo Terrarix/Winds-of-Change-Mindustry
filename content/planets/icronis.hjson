@@ -1,134 +1,144 @@
-generator: "PlanetGenerator"
-solarSystem: sun
-parent: sun
-orbitRadius: 101.21
-localizedName: Iconis
-clearSectorOnLose: true
-allowLaunchSchematics: false
+# The planet's display name. If you want to support multiple languages, use bundles instead!
+localizedName: Icronis
+
+//this tinports me
+
+mesh: [
+{
+//ocen :D
+type: NoiseMesh
+planet: cretelus
+divisions: 5
+seed: 55
+radius: 0.645
+octaves: 3
+persistence: 1
+mag: 0
+color1: 233767
+color2: 233767
+}
+{
+// deported iceberg
+type: NoiseMesh
+planet: cretelus
+divisions: 5
+seed: 18
+radius: 0.554
+octaves: 3.8
+persistence: 1.2
+mag: 1.5
+color1: 517dce
+color2: 517dce
+}
+{
+//icebergk
+type: NoiseMesh
+planet: cretelus
+divisions: 5
+seed: 18
+radius: 0.527
+octaves: 3.8
+persistence: 1.2
+mag: 2
+color1: a0bbec
+color2: a0bbec
+}
+{
+//snow
+type: NoiseMesh
+planet: cretelus
+divisions: 5
+seed: 18
+radius: 0.5
+octaves: 3.8
+persistence: 1.2
+mag: 2.5
+color1: d8e6ff
+color2: d8e6ff
+}
+]
+
+# The mesh used for clouds. (Now supported btw)
+cloudMesh: [
+{
+  type: HexSkyMesh
+  seed: 48
+  speed: 1
+  radius: 0.01
+  divisions: 5
+  color: bcd3fbaa
+  octaves: 1
+  persistence: 0.7
+  scl: 1
+  thresh: 0.1
+}
+{
+  type: HexSkyMesh
+  seed: 48
+  speed: 1
+  radius: 0.005
+  divisions: 5
+  color: 819ad9aa
+  octaves: 1
+  persistence: 0.7
+  scl: 1
+  thresh: 0.2
+}
+{
+  type: HexSkyMesh
+  seed: 48
+  speed: 1
+  radius: 0
+  divisions: 5
+  color: 4f64afaa
+  octaves: 1
+  persistence: 0.7
+  scl: 1
+  thresh: 0.35
+}
+{
+  type: HexSkyMesh
+  seed: 48
+  speed: 1
+  radius: -0.005
+  divisions: 5
+  color: 2c3985aa
+  octaves: 1
+  persistence: 0.7
+  scl: 1
+  thresh: 0.6
+}
+]
+
 allowLaunchToNumbered: false
 allowLaunchLoadout: false
 allowSectorInvasion: false
-hasAtmosphere: true
-visible: true
-updateLighting: false
-defaultCore: core-shard
-sectorSize: 2
-radius: 0.88
-bloom: false
 
-startSector: 2
-iconColor: f3c3e7
-
-accessible: true
 alwaysUnlocked: true
-
-campaignRuleDefaults: {
-	fog: false
-	showSpawns: true
-}
-
-mesh: [
-	{
-	//sand/desert
-		type: NoiseMesh
-		planet: icronis
-		divisions: 5
-		radius: 0.72
-		color1: FFFFFF
-		color2: E8F3FF
-		octaves: 3
-		persistence: 1.4
-		mag: 2.35
-		scl: 14
-	}
-	{
-		//Carbon
-		type: NoiseMesh
-		planet: icronis
-		divisions: 5
-		radius: 0.76
-		color1: 3c4448
-		color2: 282b34
-		octaves: 3
-		persistence: 1.4
-		mag: 1
-		scl: 1
-		seed: 2
-	}
-	{
-		//Resonarum
-		type: NoiseMesh
-		planet: icronis
-		divisions: 5
-		radius: 0.72
-		color1: ABDEFF
-		color2: 8CD2FF
-		octaves: 3
-		persistence: 1
-		mag: 1.8
-		scl: 1
-		seed: 2
-	}
-	{
-		//Meld stone
-		type: NoiseMesh
-		planet: icronis
-		divisions: 5
-		radius: 0.76
-		color1: EBF4FF
-		color2: D9EAFF
-		octaves: 6
-		persistence: 0.4
-		mag: 0.3
-		scl: 7
-	}
-    {
-        //Backdrop?
-		//Meld stone
-		type: NoiseMesh
-		planet: icronis
-		divisions: 5
-		radius: 0.72
-		color1: 576075
-		color2: 52607D
-		octaves: 4
-		persistence: 0.4
-		mag: 2.5
-		scl: 14
-    }
+sectorSize: 1
+orbitSpacing: 5
+radius: 0.65
+minZoom: 1
+maxZoom: 2
+drawOrbit: true
+atmosphereRadIn: -0.01
+atmosphereRadOut: 0.35
+accessible: true
+updateLighting: false
+sectorSeed: 529
+bloom: true
+visible: true
+iconColor: 415ca0
+atmosphereColor: 415ca0
+hasAtmosphere: true
+allowWaveSimulation: false
+allowLaunchToNumbered: false
+clearSectorOnLose: true
+allowWaves: true
+icon: planet
+defaultCore: core-nucleus
+parent: sun
+solarSystem: sun
+launchCandidates: []
+itemWhitelist: [
 ]
-cloudMesh: [
- {
-   type: HexSkyMesh
-   planet: icronis
-   speed: 0.8
-   radius: 0.08
-   divisions: 6
-   color: EDF7FF
-   octaves: 3
-   persistence: 0.1
-   scl: 3
-   thresh: 0.6
-  }
- {
-   type: HexSkyMesh
-   planet: icronis
-   speed: 0.5
-   radius: 0.096
-   divisions: 6
-   color: EDF7FF
-   octaves: 3
-   persistence: 0.1
-   scl: 3
-   thresh: 0.2
-  }
-]
-
-research: {
-	planet: icronis
-	root: true
-	requiresUnlock: false
-	name: "icronis"
-}
-
-shownPlanets: [icronis]

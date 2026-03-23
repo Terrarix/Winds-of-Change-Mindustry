@@ -4,6 +4,7 @@ unitType: snowtreker
 description: The first core. Once destroyed, the sector is lost.
 size: 5
 category: effect
+health: 10000
 itemCapacity: 5000
 requirements: [
     nickel/1500

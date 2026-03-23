@@ -1,5 +1,6 @@
 type: liquid
 localizedName: Steam
-barColor: #e0dadaff
-color: #c3c3c3ff
+barColor: e0dadaff
+color: c3c3c3ff
 temperature: 0.6
+gas: true
