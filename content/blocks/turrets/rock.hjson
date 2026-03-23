@@ -13,9 +13,9 @@ range: 180
 inaccuracy: 10
 reload: 70
 shoot: {
-    shots: 6
+    shots: 4
     shotDelay: 0
-    spread: 160
+    spread: 120
 }
 consumes: {
     power: 8
@@ -24,7 +24,7 @@ shootType: {
     type: BasicBulletType
     lifetime: 60
     speed: 3
-    damage: 25
+    damage: 20
     hitSize: 4
     width: 10
     height: 10

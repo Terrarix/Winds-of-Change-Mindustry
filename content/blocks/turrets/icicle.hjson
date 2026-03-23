@@ -2,20 +2,22 @@ type: ItemTurret
 size: 2
 hasItems: true
 category: turret
-localizedName: Snowball
-description: Basic early game cheap turret.
+localizedName: icicle
+description: Piercing hail
 requirements: [
   tin/150
 ]
-range: 130
+range: 200
 inaccuracy: 2
-reload: 30
+reload: 60
 ammoTypes: {
     tin: {
         type: BasicBulletType
-        lifetime: 60
-        speed: 2
-        damage: 25
+        lifetime: 20
+        speed: 8
+        damage: 35
         hitSize: 4
+        pierce: true
+        height: 8
     }
 }
