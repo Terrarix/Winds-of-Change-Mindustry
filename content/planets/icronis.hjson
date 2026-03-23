@@ -1,14 +1,12 @@
-# The planet's display name. If you want to support multiple languages, use bundles instead!
 localizedName: Icronis
 
-//this tinports me
+// this tinports me
 //tinport created this planets look in the campaign selection screen; credits to him!
 
 mesh: [
 {
 //ocen :D
 type: NoiseMesh
-planet: cretelus
 divisions: 5
 seed: 55
 radius: 0.645
@@ -21,7 +19,6 @@ color2: 233767
 {
 // deported iceberg
 type: NoiseMesh
-planet: cretelus
 divisions: 5
 seed: 18
 radius: 0.554
@@ -34,7 +31,6 @@ color2: 517dce
 {
 //icebergk
 type: NoiseMesh
-planet: cretelus
 divisions: 5
 seed: 18
 radius: 0.527
@@ -47,7 +43,6 @@ color2: a0bbec
 {
 //snow
 type: NoiseMesh
-planet: cretelus
 divisions: 5
 seed: 18
 radius: 0.5
@@ -59,7 +54,6 @@ color2: d8e6ff
 }
 ]
 
-# The mesh used for clouds. (Now supported btw)
 cloudMesh: [
 {
   type: HexSkyMesh
@@ -122,8 +116,8 @@ radius: 0.65
 minZoom: 1
 maxZoom: 2
 drawOrbit: true
-atmosphereRadIn: -0.01
-atmosphereRadOut: 0.35
+atmosphereRadIn: -0.005
+atmosphereRadOut: 0.2
 accessible: true
 updateLighting: false
 sectorSeed: 529
@@ -143,3 +137,7 @@ solarSystem: sun
 launchCandidates: []
 itemWhitelist: [
 ]
+
+//and why do i need this
+generator: {
+}
