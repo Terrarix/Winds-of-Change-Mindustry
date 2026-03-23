@@ -25,7 +25,7 @@ divisions: 5
 seed: 18
 radius: 0.554
 octaves: 3.8
-persistence: 1.2
+persistence: 1.4
 mag: 1.5
 color1: 517dce
 color2: 517dce
@@ -38,7 +38,7 @@ divisions: 5
 seed: 18
 radius: 0.527
 octaves: 3.8
-persistence: 1.2
+persistence: 1.4
 mag: 2
 color1: a0bbec
 color2: a0bbec
@@ -51,7 +51,7 @@ divisions: 5
 seed: 18
 radius: 0.5
 octaves: 3.8
-persistence: 1.2
+persistence: 1.4
 mag: 2.5
 color1: d8e6ff
 color2: d8e6ff
@@ -62,11 +62,11 @@ color2: d8e6ff
 cloudMesh: [
 {
   type: HexSkyMesh
-  seed: 48
+  seed: 88
   speed: 1
   radius: 0.01
   divisions: 5
-  color: bcd3fbaa
+  color: c5dcf466
   octaves: 1
   persistence: 0.7
   scl: 1
@@ -74,11 +74,11 @@ cloudMesh: [
 }
 {
   type: HexSkyMesh
-  seed: 48
+  seed: 88
   speed: 1
   radius: 0.005
   divisions: 5
-  color: 819ad9aa
+  color: 8bb2d966
   octaves: 1
   persistence: 0.7
   scl: 1
@@ -86,11 +86,11 @@ cloudMesh: [
 }
 {
   type: HexSkyMesh
-  seed: 48
+  seed: 88
   speed: 1
   radius: 0
   divisions: 5
-  color: 4f64afaa
+  color: 5d87be66
   octaves: 1
   persistence: 0.7
   scl: 1
@@ -98,15 +98,15 @@ cloudMesh: [
 }
 {
   type: HexSkyMesh
-  seed: 48
+  seed: 88
   speed: 1
   radius: -0.005
   divisions: 5
-  color: 2c3985aa
+  color: 3c5c9466
   octaves: 1
   persistence: 0.7
   scl: 1
-  thresh: 0.6
+  thresh: 0.5
 }
 ]
 
