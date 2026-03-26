@@ -15,7 +15,7 @@ reload: 70
 shoot: {
     shots: 4
     shotDelay: 0
-    spread: 120
+    spread: 80
 }
 consumes: {
     power: 8

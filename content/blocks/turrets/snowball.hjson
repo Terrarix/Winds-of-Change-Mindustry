@@ -8,7 +8,7 @@ requirements: [
   tin/150
 ]
 range: 130
-inaccuracy: 2
+inaccuracy: 1.5
 reload: 25
 ammoTypes: {
     tin: {
