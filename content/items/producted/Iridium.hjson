@@ -1,6 +1,7 @@
 type: item
-name: iridium
+name: Iridium
 description: Used for orbital tech.
 buildable: false
 charge: 3
 explosiveness: 0.5
+detail: aint this in classic mindustry? -cab

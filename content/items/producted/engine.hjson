@@ -1,5 +1,5 @@
 type: item
-name: engine
+name: Engine
 description: An engine.
 buildable: false
 explosiveness: 2

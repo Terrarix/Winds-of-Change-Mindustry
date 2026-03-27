@@ -1,4 +1,4 @@
 type: item
-name: gear
+name: Gear
 description: A simple gear.
 buildable: false

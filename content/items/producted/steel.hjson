@@ -1,4 +1,4 @@
 type: item
-name: steel
+name: Steel
 description: Made by smelting metal.
 buildable: false

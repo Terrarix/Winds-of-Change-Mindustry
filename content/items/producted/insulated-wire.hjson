@@ -1,5 +1,5 @@
 type: item
-name: insulated wire
+name: Insulated Wire
 description: Insulated Wire used for machinery.
 charge: 0.5
 buildable: false
