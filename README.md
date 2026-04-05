@@ -10,7 +10,7 @@
 [Commits]: https://github.com/Terrarix/Winds-of-Change-Mindustry/commits/main
 [Issues]: https://github.com/Terrarix/Winds-of-Change-Mindustry/issues
 
-![Logo]
+# Winds of Change
 
 ![Discord][Badge Discord]<br><br>
 ![Commits][Badge Commits]
