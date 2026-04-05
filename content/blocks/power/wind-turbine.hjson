@@ -1,0 +1,10 @@
+type: PowerGenerator
+size: 2
+localizedName: Wind Turbine
+description: A low power generator that uses wind. always works.
+hasPower: true
+powerProduction: 1.0
+requirements: [
+  nickel/50
+]
+category: power
