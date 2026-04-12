@@ -1,0 +1,23 @@
+type: HeatCrafter
+size: 3
+localizedName: Iron Furnace
+description: A factory that takes in steam and nickel and produces synthetic rubber.
+hasPower: true
+craftTime: 600
+hasHeat: true
+heatRequirement: 8
+outputItem: {
+  item: metal
+  amount: 3
+}
+consumes: {
+  power: 4
+  items: [
+    iron/2
+  ]
+}
+requirements: [
+  nickel/150
+  iron/90
+]
+category: crafting

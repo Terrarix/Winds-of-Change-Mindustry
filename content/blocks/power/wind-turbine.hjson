@@ -1,9 +1,16 @@
-type: PowerGenerator
+type: ConsumeGenerator
 size: 2
-localizedName: Wind Turbine
+Name: Wind-Turbine
 description: A low power generator that uses wind. always works.
 hasPower: true
 powerProduction: 1.0
+itemDuration: 10
+warmupSpeed: 0.1
+consumes: {
+  items: [
+    nickel/0
+  ]
+}
 requirements: [
   nickel/50
 ]
