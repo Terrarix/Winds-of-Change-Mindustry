@@ -1,6 +1,6 @@
 type: ConsumeGenerator
 size: 2
-Name: Wind-Turbine
+name: Wind Turbine
 description: A low power generator that uses wind. always works.
 hasPower: true
 powerProduction: 1.0
