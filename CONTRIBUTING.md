@@ -1,5 +1,5 @@
 # Not really a guide on contributing.
-This is ment to be of <i>who</i> is contributing.
+This is meant to be of <i>who</i> is contributing.
 ## Current Team
 <b>Terrarix | Owner, Programer, Mapper</b>
 
