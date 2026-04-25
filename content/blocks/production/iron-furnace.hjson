@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Iron Furnace
-description: A factory that takes in steam and nickel and produces synthetic rubber.
+description: A furnace that melts and refines Iron into Metal.
 hasPower: true
 craftTime: 600
 hasHeat: true
