@@ -6,3 +6,5 @@ This is ment to be of <i>who</i> is contributing.
 <b>Caboosket | Main Spriter, Partial Programmer, Github Repo Assistant</b>
 
 JageB | Programmer <i>(Unknown of contributions)</i>
+
+AnomalousWyvern | Sprite Artist, Partial Programming
