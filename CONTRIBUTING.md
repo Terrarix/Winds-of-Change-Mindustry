@@ -7,4 +7,6 @@ This is meant to be of <i>who</i> is contributing.
 
 JageB | Programmer <i>(Unknown of contributions)</i>
 
+tinport | Programmer, Planet Designer
+
 AnomalousWyvern | Sprite Artist, Partial Programming
