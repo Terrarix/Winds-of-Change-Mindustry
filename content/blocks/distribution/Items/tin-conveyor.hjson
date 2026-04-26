@@ -1,4 +1,4 @@
-type: Duct
+type: Conveyor
 localizedName: Tin Conveyor
 description: A basic conveyor made of tin.
 size: 1
@@ -8,5 +8,5 @@ category: distribution
 requirements: [
     tin/1
 ]
-details: its not a conveyor its a duct bro -caboosket, main spriter
+details: "its not a conveyor its a duct bro -caboosket, main spriter" IT IS NOW! -AnomalousWyvern, spriter
 tint: ffffff
