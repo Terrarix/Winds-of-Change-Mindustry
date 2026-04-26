@@ -2,7 +2,7 @@ type: Conveyor
 localizedName: Tin Conveyor
 description: A basic conveyor made of tin.
 size: 1
-speed: 15
+speed: 5
 itemCapacity: 3
 category: distribution
 requirements: [
