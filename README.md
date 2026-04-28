@@ -17,7 +17,7 @@
 ![Issues][Badge Issues]<br>
 
 A Mindustry Mod made for V8. Made by a small team.
-Um yeah so this mod is passion project. The first of hopefully many. It is the first mod we have made. 
-Hope you enjoy
+This mod is a passion project. The first of hopefully many. It is the first mod we have made. 
+Hope you enjoy.
 
 View CONTRIBUTING.md for the current team.
