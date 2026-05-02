@@ -1,0 +1,23 @@
+type: HeatCrafter
+size: 3
+localizedName: Metal Furnace
+description: A furnace that melts and refines Metal into Steel.
+hasPower: true
+craftTime: 600
+hasHeat: true
+heatRequirement: 9
+outputItem: {
+  item: steel
+  amount: 6
+}
+consumes: {
+  power: 6
+  items: [
+    metal/6
+  ]
+}
+requirements: [
+  nickel/150
+  metal/90
+]
+category: crafting

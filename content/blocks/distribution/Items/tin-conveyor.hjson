@@ -2,15 +2,16 @@ type: Conveyor
 localizedName: Tin Conveyor
 description: A basic conveyor made of tin.
 size: 1
-speed: 15.8
-displayedSpeed: 15.8
+speed: 0.075
+displayedSpeed: 0.075
 itemCapacity: 3
 category: distribution
 requirements: [
     tin/1
 ]
-details: its not a conveyor its a duct bro -caboosket, main spriter | IT IS NOW! -AnomalousWyvern, spriter
+details: its not a conveyor its a duct bro -caboosket, main spriter | IT IS NOW! -AnomalousWyvern, spriter | lmao :) -Terrarix, main programmer
 tint: ffffff
 //still needs some work, some in spritework, and some in here. I aint a programmer so idk how to fix this to be a conveyor and not duct -AnomalousWyvern
 //fixxed the sprites and SLOW THAT GOD DAMN BOI DOWN - caboosket
 //i did not know the speed and in game speed are difrent
+//I think i got the speed working - Terrarix
