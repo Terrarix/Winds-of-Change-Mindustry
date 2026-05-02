@@ -2,7 +2,7 @@ type: Conveyor
 localizedName: Tin Conveyor
 description: A basic conveyor made of tin.
 size: 1
-speed: 5
+speed: 15
 itemCapacity: 3
 category: distribution
 requirements: [
@@ -11,3 +11,4 @@ requirements: [
 details: its not a conveyor its a duct bro -caboosket, main spriter IT IS NOW! -AnomalousWyvern, spriter
 tint: ffffff
 //still needs some work, some in spritework, and some in here. I aint a programmer so idk how to fix this to be a conveyor and not duct -AnomalousWyvern
+//fixxed the sprites and SLOW THAT GOD DAMN BOI DOWN - caboosket
