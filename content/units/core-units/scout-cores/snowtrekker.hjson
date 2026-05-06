@@ -1,5 +1,5 @@
 type: mech
-localizedName: Snowtreker
+localizedName: Snowtrekker
 description: The scout's mech.
 flying: false
 canBoost: true
