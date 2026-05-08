@@ -1,7 +1,7 @@
 type: liquid
 localizedName: Liquid Ammonia
 description: The resource that covers the entire planet.
-barColor: 301B4A
-color: 301B4A
+barColor: 44276b
+color: 60308d
 temperature: 0
 coolant: true

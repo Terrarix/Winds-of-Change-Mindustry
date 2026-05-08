@@ -1,8 +1,8 @@
 type: liquid
 localizedName: Ammonia
 description: Liquid Ammonia heated up into gas form
-barColor: 44276B
-color: 44276B
+barColor: 301b4a
+color: 44276b
 temperature: 0
 gas: true
 coolant: true
