@@ -34,5 +34,8 @@ drawer: {
     {
       type: DrawDefault
     }
+    {
+      type: DrawFlame
+    }
   ]
 }
