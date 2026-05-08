@@ -1,4 +1,4 @@
-type: GenericCrafter
+type: HeatCrafter
 size: 3
 localizedName: Ammonia Heater
 description: Takes in copper and turns it into Uninsulated wires
