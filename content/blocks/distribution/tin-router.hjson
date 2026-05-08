@@ -1,0 +1,13 @@
+type: Router
+name: Tin Router
+description: A router made of tin.
+size: 1
+speed: 0.075
+displayedSpeed: 0.075
+itemCapacity: 1
+category: distributions
+requirements: [
+    tin/3
+]
+research: tin-conveyor
+details: Highly advised to not attempt to possess. Recomended to seperate from other routers and production inputs to prevent clogs and router ping-pong.

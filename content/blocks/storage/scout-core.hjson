@@ -10,3 +10,9 @@ requirements: [
     nickel/1500
 ]
 buildCostMultiplier: 3
+research: {
+  planet: icronis
+  root: true
+  name: Icronis
+  requiresUnlock: false
+}
