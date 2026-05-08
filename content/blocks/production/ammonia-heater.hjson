@@ -13,7 +13,7 @@ outputLiquid: {
 consumes: {
   power: 2
   liquids: [
-    liquid: liquid-ammonia
+    liquid-ammonia
   ]
 }
 requirements: [
