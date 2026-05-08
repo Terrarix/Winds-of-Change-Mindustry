@@ -7,7 +7,7 @@ craftTime: 400
 hasHeat: true
 heatRequirement: 10
 outputItem: {
-  item: Uninsulated Wire
+  item: uninsulated-wire
   amount: 8
 }
 consumes: {

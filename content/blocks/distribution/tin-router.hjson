@@ -5,7 +5,7 @@ size: 1
 speed: 0.075
 displayedSpeed: 0.075
 itemCapacity: 1
-category: distributions
+category: distribution
 requirements: [
     tin/3
 ]

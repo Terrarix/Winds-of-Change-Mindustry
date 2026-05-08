@@ -24,3 +24,15 @@ requirements: [
   nickel/500
 ]
 category: crafting
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawDefault
+    }
+  ]
+}

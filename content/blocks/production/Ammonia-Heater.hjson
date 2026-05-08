@@ -7,13 +7,13 @@ craftTime: 600
 hasHeat: true
 heatRequirement: 6
 outputLiquid: {
-  liquid: Ammonia
+  liquid: ammonia
   amount: 2
 }
 consumes: {
   power: 2
   liquids: [
-    Liquid: Liquid Ammonia
+    liquid: liquid-ammonia
   ]
 }
 requirements: [
