@@ -9,5 +9,5 @@ category: distribution
 requirements: [
     tin/3
 ]
-research: tin-conveyor
+research: tin-junction
 details: Highly advised to not attempt to possess. Recomended to seperate from other routers and production inputs to prevent clogs and router ping-pong.

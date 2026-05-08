@@ -4,6 +4,7 @@ description: A basic conveyor made of tin.
 size: 1
 speed: 0.075
 displayedSpeed: 0.075
+junctionReplacement: tin-junction
 itemCapacity: 3
 category: distribution
 requirements: [

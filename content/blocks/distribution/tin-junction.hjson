@@ -1,0 +1,9 @@
+type: Junction
+name: Tin Junction
+speed: 0.075
+displayedSpeed: 0.075
+category: distribution
+requirements: [
+    tin/3
+]
+research: tin-conveyor
