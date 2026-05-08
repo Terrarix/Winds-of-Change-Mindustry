@@ -1,6 +1,6 @@
 type: CoreBlock
 localizedName: Scout
-unitType: snowtreker
+unitType: snowtrekker
 description: The first core. Once destroyed, the sector is lost.
 size: 5
 category: effect
