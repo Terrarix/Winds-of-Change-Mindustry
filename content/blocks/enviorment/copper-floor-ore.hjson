@@ -1,4 +1,4 @@
 type: OreBlock
 name: Copper Ore
-itemDrop: copper-ore
+itemDrop: copper
 varients: 3
