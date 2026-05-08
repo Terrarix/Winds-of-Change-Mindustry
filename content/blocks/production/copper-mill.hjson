@@ -1,0 +1,24 @@
+type: HeatCrafter
+size: 3
+localizedName: Copper Mill
+description: Takes in copper and turns it into Uninsulated wires
+hasPower: true
+craftTime: 400
+hasHeat: true
+heatRequirement: 10
+outputItem: {
+  item: Uninsulated Wire
+  amount: 8
+}
+consumes: {
+  power: 6
+  items: [
+    copper/4
+  ]
+}
+requirements: [
+  nickel/150
+  iron/90
+  copper/50
+]
+category: crafting
