@@ -1,0 +1,24 @@
+type: GenericCrafter
+size: 3
+localizedName: Ammonia Heater
+description: Takes in copper and turns it into Uninsulated wires
+hasPower: true
+craftTime: 600
+hasHeat: true
+heatRequirement: 6
+outputLiquid: {
+  liquid: Ammonia
+  amount: 2
+}
+consumes: {
+  power: 2
+  liquids: [
+    Liquid: Liquid Ammonia
+  ]
+}
+requirements: [
+  nickel/150
+  iron/90
+  copper/50
+]
+category: crafting
