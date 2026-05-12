@@ -1,0 +1,21 @@
+type: reconstructor
+category: units
+health: 200
+size: 3
+description: Upgrades the Shade into the Shadow
+constructTime: 3600
+upgrades: [
+  [shade, shadow]
+  ]
+consumes: {
+  power: 100
+  items: {
+    items: [
+      iron/90
+      metal/60
+      gear/20
+      engine/5
+      ]
+    }
+  }
+research: shade-production-facility
