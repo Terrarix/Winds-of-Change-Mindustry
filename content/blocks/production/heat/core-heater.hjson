@@ -10,7 +10,7 @@ consumes: {
   power: 3
 }
 requirements: [
-    tin/500
+    nickel/500
 ]
 category: crafting
 warmupRate: 0.1
