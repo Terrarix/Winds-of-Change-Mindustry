@@ -1,8 +1,8 @@
 type: Drill
 tier: 1
 size: 3
-localizedName: Tin Drill
-description: A slow drill, made of tin.
+localizedName: Nickel Drill
+description: A slow drill, made of nickel.
 warmupSpeed: 0.05
 drillTime: 3600
 hasPower: true
@@ -10,7 +10,7 @@ consumes: {
   power: 0.2
 }
 requirements: [
-    tin/50
+    nickel/50
 ]
 category: production
 rotateSpeed: 0.2
