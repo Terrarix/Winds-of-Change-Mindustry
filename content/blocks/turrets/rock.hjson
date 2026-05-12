@@ -6,7 +6,7 @@ description: Slightly better than the pebble.
 targetAir: true
 targetGround: true
 requirements: [
-  tin/200
+  nickel/200
   copper/150
 ]
 range: 180
