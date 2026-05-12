@@ -5,13 +5,13 @@ category: turret
 localizedName: icicle
 description: Piercing hail
 requirements: [
-  tin/150
+  nickel/150
 ]
 range: 200
 inaccuracy: 2
 reload: 60
 ammoTypes: {
-    tin: {
+    nickel: {
         type: BasicBulletType
         lifetime: 20
         speed: 8
