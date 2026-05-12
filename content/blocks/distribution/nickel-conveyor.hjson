@@ -1,14 +1,14 @@
 type: Conveyor
-localizedName: Tin Conveyor
-description: A basic conveyor made of tin.
+localizedName: Nickel Conveyor
+description: A basic conveyor made of nickel.
 size: 1
 speed: 0.075
 displayedSpeed: 0.075
-junctionReplacement: tin-junction
+junctionReplacement: nickel-junction
 itemCapacity: 3
 category: distribution
 requirements: [
-    tin/1
+    nickel/1
 ]
 resaerch: scout-core
 details: its not a conveyor its a duct bro -caboosket, main spriter | IT IS NOW! -AnomalousWyvern, spriter | lmao :) -Terrarix, main programmer
