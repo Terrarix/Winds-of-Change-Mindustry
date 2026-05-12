@@ -4,12 +4,12 @@ unitType: snowtrekker
 description: The first core. Once destroyed, the sector is lost.
 size: 5
 category: effect
-health: 10000
-itemCapacity: 5000
+health: 1000
+itemCapacity: 500
 requirements: [
-    nickel/1500
+  nickel/1500
 ]
-buildCostMultiplier: 3
+researchMultiplier: 0.000000000000000000000000000000001
 research: {
   planet: icronis
   root: true
