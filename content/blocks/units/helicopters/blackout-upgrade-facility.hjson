@@ -1,4 +1,4 @@
-type: reconstructor
+type: Reconstructor
 category: units
 name: Blackout Upgrade Facility
 health: 1000
@@ -17,7 +17,7 @@ consumes: {
       magnetic-alloy/250
       electric-alloy/600
       cryogenic-alloy/100
-      ]
-    }
+    ]
+  }
 }
 research: night-upgrade-facility
