@@ -5,7 +5,7 @@ localizedName: Pebble
 description: Basic early game cheap turret.
 targetAir: false
 requirements: [
-  tin/120
+  nickel/120
 ]
 range: 90
 inaccuracy: 2
