@@ -1,5 +1,4 @@
-/*type: flying
+type: flying
 health: 750
 description: More armored and better
 detail: "You aint got no legs lieutenant dan"
-#DONT MAKE UNITS BEFORE THE CONSTRUCTORS
