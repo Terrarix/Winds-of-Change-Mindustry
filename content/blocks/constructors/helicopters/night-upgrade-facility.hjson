@@ -1,0 +1,20 @@
+type: reconstructor
+category: units
+health: 600
+size: 5
+constructTime: 10800
+upgrades: [
+  [night, blackout]
+]
+consumes: {
+  power: 1000
+  items: {
+    items: [
+      metal/450
+      cadmium/250
+      cryogenic-alloy/50
+      engine/25
+      ]
+    }
+}
+research: shadow-upgrade-facility
