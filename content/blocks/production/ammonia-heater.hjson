@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Ammonia Heater
-description: Creates ammonia through heat processes.
+description: Creates heat with ammonia.
 hasPower: true
 craftTime: 600
 hasHeat: true
