@@ -1,6 +1,5 @@
 //still not done
-/*type:
+type: flying
 health: 400
 description: More armor and bigger.
 detail: "Hello my name's Forrest, Forrest Gump"
-#DONT MAKE UNITS BEFORE THE CONSTRUCTORS
