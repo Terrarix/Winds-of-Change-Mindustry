@@ -1,0 +1,20 @@
+type: reconstructor
+category: units
+name: Blackout Upgrade Facility
+health: 1000
+size: 7
+constructTime: 18000
+upgrades: [
+  [blackout, void]
+]
+consumes: {
+  power: 5000
+  items: {
+    items: [
+      magnetic-alloy/250
+      electric-alloy/600
+      cryogenic-alloy/100
+      ]
+    }
+}
+research: night-upgrade-facility
