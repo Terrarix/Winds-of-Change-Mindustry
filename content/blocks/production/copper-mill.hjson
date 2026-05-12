@@ -22,3 +22,5 @@ requirements: [
   copper/50
 ]
 category: crafting
+ambientSound: grinding
+ambientSoundVolume: 0.08

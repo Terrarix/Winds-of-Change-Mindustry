@@ -39,3 +39,5 @@ drawer: {
     }
   ]
 }
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
