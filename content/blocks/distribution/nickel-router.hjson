@@ -1,0 +1,13 @@
+type: Router
+name: Nickel Router
+description: A router made of nickel. //if you do routerchain i will personally find you -AnomalousWyvern
+size: 1
+speed: 0.075
+displayedSpeed: 0.075
+itemCapacity: 1
+category: distribution
+requirements: [
+    nickel/3
+]
+research: nickel-junction
+details: Highly advised to not attempt to possess. Recomended to seperate from other routers and production inputs to prevent clogs and router ping-pong.
