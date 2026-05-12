@@ -1,0 +1,21 @@
+type: reconstructor
+name: Shadow Upgrade Facility
+health: 400
+size: 3
+category: units
+constructTime: 7200
+upgrades: [
+  [shadow, night]
+]
+consumes: {
+  power: 500
+  items: {
+    items: [
+      metal/150
+      gear/50
+      cadmium/100
+      engine/10
+    ]
+  }
+}
+research: shade-upgrade-facility

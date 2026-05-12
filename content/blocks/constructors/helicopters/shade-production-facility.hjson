@@ -3,6 +3,7 @@ name: Shade Production Facility
 description: Makes the base helicopter, "Shade".
 category: units
 size: 3
+health: 100
 plans: [
   {
     unit: shade
