@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Ammonia Heater
-description: Takes in copper and turns it into Uninsulated wires
+description: Creates ammonia through heat processes.
 hasPower: true
 craftTime: 600
 hasHeat: true
