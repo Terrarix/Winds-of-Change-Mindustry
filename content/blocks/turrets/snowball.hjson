@@ -5,13 +5,13 @@ category: turret
 localizedName: Snowball
 description: Basic early game cheap turret.
 requirements: [
-  tin/150
+  nickel/150
 ]
 range: 130
 inaccuracy: 1.5
 reload: 25
 ammoTypes: {
-    tin: {
+    nickel: {
         type: BasicBulletType
         lifetime: 60
         speed: 2
