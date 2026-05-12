@@ -1,5 +1,4 @@
-/*type: flying
+type: flying
 health: 6000
 description: Heavy Airship, with two rotors.
 details: "kinda looks like a heuy"
-#DONT MAKE UNITS BEFORE THE CONSTRUCTORS
