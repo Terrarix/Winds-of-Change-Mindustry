@@ -22,5 +22,5 @@ requirements: [
   copper/50
 ]
 category: crafting
-ambientSound: grinding
+ambientSound: loopElectricHum
 ambientSoundVolume: 0.08
