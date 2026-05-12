@@ -22,4 +22,4 @@ requirements: [
 ]
 category: crafting
 ambientSound: loopGrind
-ambientSoundVolume: 0.08
+ambientSoundVolume: 0.1
