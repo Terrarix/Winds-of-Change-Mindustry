@@ -1,5 +1,6 @@
 //just a placeholder for now
-type:
+/*type:
 health: 100
 description: A small, armored helicopter
 detail: "I'm no Fortunate Son"
+#DONT MAKE UNITS BEFORE THE CONSTRUCTORS
