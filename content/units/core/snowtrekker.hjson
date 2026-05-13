@@ -22,8 +22,8 @@ turnCursor: true
 drawItems: true
 weapons: [
     {
+    name: trekker-launcher
     bullet: {
-        name: trekker-launcher
         type: missileBulletType
         lifetime: 90
         speed: 3
