@@ -3,6 +3,7 @@ localizedName: Snowtrekker
 description: The scout's mech.
 flying: false
 canBoost: true
+outlineColor: 357278
 speed: 3
 maxSpeed: 20
 boostSpeed: 3
@@ -22,6 +23,7 @@ drawItems: true
 weapons: [
     {
     bullet: {
+        name: trekker-launcher
         type: missileBulletType
         lifetime: 90
         speed: 3
@@ -35,17 +37,9 @@ weapons: [
         shotDelay: 10
         inaccuracy: 3
     }
+    outlineColor: 357278
     alternate: true
-    reload: 100
-    }
-    {
-    bullet: {
-        type: basicBulletType
-        lifetime: 90
-        speed: 5
-        damage: 15
-        hitSize: 6
-    }
-    reload: 75
+    mirror: true
+    reload: 50
     }
 ]
