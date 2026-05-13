@@ -2,14 +2,16 @@ type: CoreBlock
 localizedName: Scout
 unitType: snowtrekker
 description: The first core. Once destroyed, the sector is lost.
+alwaysUnlocked: true
 size: 5
 category: effect
 health: 1000
 itemCapacity: 500
+unitCapMOdifier: 5 #idk what to set it -caboosket
+isFirstTeir: true
 requirements: [
   nickel/1500
 ]
-researchMultiplier: 0.000000000000000000000000000000001
 research: {
   planet: icronis
   root: true
