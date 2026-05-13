@@ -22,6 +22,7 @@ turnCursor: true
 drawItems: true
 weapons: [
     {
+    x: 0.5
     bullet: {
         type: missileBulletType
         lifetime: 90
