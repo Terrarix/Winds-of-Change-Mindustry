@@ -1,3 +1,4 @@
 type: Item
 name: Magnetic Alloy
-description: --NO DATA DETECTED--
+description: An alloy made with an amalgam of magnetic materials.
+buildable: false
