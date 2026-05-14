@@ -32,6 +32,8 @@ weapons: [
         hitSize: 6
         splashDamage: 20
         splashDamageRadius: 15
+        weaveMag: 4
+        weaveScale: 4
     }
     shoot: {
         shots: 2
@@ -42,7 +44,5 @@ weapons: [
     alternate: true
     mirror: true
     reload: 15
-    weaveMag: 4
-    weaveScale: 4
     }
 ]
