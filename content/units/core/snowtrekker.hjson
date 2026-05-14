@@ -4,14 +4,15 @@ description: The scout's mech.
 flying: false
 canBoost: true
 outlineColor: 357278
-speed: 3
+speed: 1
 maxSpeed: 20
-boostSpeed: 3
+boostSpeed: 2
 drag: 1.0
 mass: 1.1
 health: 250
 canMine: true
 buildSpeed: 1.5
+hitSize: 15.0
 mineTier: 1
 mineSpeed: 1.5
 minerange: 20
