@@ -42,5 +42,7 @@ weapons: [
     alternate: true
     mirror: true
     reload: 15
+    weaveMag: 4
+    weaveScale: 4
     }
 ]
