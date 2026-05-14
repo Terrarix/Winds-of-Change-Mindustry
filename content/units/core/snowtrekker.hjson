@@ -28,7 +28,7 @@ weapons: [
         type: missileBulletType
         lifetime: 90
         speed: 3
-        damage: 25
+        damage: 5
         hitSize: 6
         splashDamage: 20
         splashDamageRadius: 15
@@ -41,6 +41,6 @@ weapons: [
     outlineColor: 357278
     alternate: true
     mirror: true
-    reload: 50
+    reload: 15
     }
 ]
