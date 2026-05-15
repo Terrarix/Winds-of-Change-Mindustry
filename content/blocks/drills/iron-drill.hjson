@@ -1,0 +1,17 @@
+type: Drill
+tier: 2
+size: 3
+localizedName: Iron Drill
+description: A medium speed drill, made of iron.
+warmupSpeed: 0.1
+drillTime: 2800
+hasPower: true
+consumes: {
+  power: 0.4
+}
+requirements: [
+    iron/50
+]
+category: production
+rotateSpeed: 0.4
+tint: ffffff

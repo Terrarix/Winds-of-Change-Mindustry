@@ -1,0 +1,43 @@
+type: HeatCrafter
+size: 3
+localizedName: Gear Factory
+description: A factory that takes in steam and nickel and produces synthetic rubber.
+hasPower: true
+craftTime: 300
+hasLiquids: true
+hasHeat: true
+heatRequirement: 2
+outputItem: {
+  item: gear
+  amount: 2
+}
+consumes: {
+  power: 2
+  liquids: [
+    steam/0.06
+  ]
+  items: [
+    metal/2
+  ]
+}
+requirements: [
+  steel/100
+]
+category: crafting
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawDefault
+    }
+    {
+      type: DrawFlame
+    }
+  ]
+}
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
