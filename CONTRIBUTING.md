@@ -5,6 +5,6 @@ This is meant to be of <i>who</i> is contributing.
 
 <b>Caboosket | Main Spriter, Partial Programmer, Github Repo Assistant</b>
 
-<b>AnomalousWyvern | Sprite Artist, Mapper, Partial Programmer</b>
+<b>AnomalousWyvern | Sprite Artist, Partial Mapper, Partial Programmer</b>
 
-<b>tinport | Programmer, Planet Designer</b>
+<b>tinport | Planet Designer</b>
