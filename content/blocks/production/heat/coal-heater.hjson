@@ -1,0 +1,20 @@
+type: HeatProducer
+size: 3
+localizedName: Coal Heater
+description: A simple heater that utilizes coal to make heat.
+hasPower: true
+craftTime: 250
+hasHeat: true
+heatOutput: 15
+consumes: {
+  items: [
+    coal/1
+  ]
+}
+requirements: [
+    nickel/200
+]
+category: crafting
+warmupRate: 0.1
+ambientSound: loopCombustion
+ambientSoundVolume: 0.1
