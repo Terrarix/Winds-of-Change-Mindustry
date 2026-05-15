@@ -21,3 +21,5 @@ This mod is a passion project. The first of hopefully many. It is the first mod 
 Hope you enjoy.
 
 View CONTRIBUTING.md for the current team.
+
+(thanks to Caboosket for making this page)

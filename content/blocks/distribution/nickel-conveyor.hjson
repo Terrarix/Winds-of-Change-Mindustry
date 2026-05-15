@@ -7,12 +7,10 @@ displayedSpeed: 0.075
 junctionReplacement: nickel-junction
 itemCapacity: 3
 category: distribution
+consumes: {
+  power: 0.1
+}
 requirements: [
     nickel/1
 ]
 resaerch: scout-core
-details: its not a conveyor its a duct bro -caboosket, main spriter | IT IS NOW! -AnomalousWyvern, spriter | lmao :) -Terrarix, main programmer
-//still needs some work, some in spritework, and some in here. I aint a programmer so idk how to fix this to be a conveyor and not duct -AnomalousWyvern
-//fixxed the sprites and SLOW THAT GOD DAMN BOI DOWN - caboosket
-//i did not know the speed and in game speed are difrent
-//I think i got the speed working - Terrarix
