@@ -1,4 +1,5 @@
 <div align = center>
+  
 # Not really a guide on contributing.
 This is meant to be of <i>who</i> is contributing.
 ## Current Team
