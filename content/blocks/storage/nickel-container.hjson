@@ -5,6 +5,6 @@ size: 2
 category: effect
 itemCapacity: 120
 requirements: [
-    nickel/50
+    nickel/200
 ]
 buildCostMultiplier: 0.4
