@@ -1,6 +1,7 @@
 type: mech
 localizedName: Snowtrekker
 description: The scout's mech.
+detail: Used as the beginning unit for the recapture of Icronis (2304), after the colonization AI "Tex" fractured.
 flying: false
 canBoost: true
 outlineColor: 357278
