@@ -7,9 +7,7 @@ powerProduction: 1.0
 itemDuration: 10
 warmupSpeed: 0.1
 consumes: {
-  items: [
-    nickel/0
-  ]
+  power: 0
 }
 requirements: [
   nickel/50
