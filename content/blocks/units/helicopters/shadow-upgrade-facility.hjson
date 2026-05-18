@@ -11,7 +11,7 @@ consumes: {
   power: 500
   items: {
     items: [
-      metal/150
+      iron-plate/150
       gear/50
       cadmium/100
       engine/10

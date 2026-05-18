@@ -1,13 +1,13 @@
 type: HeatCrafter
 size: 3
 localizedName: Iron Furnace
-description: A furnace that melts and refines Iron into Metal.
+description: A furnace that melts and refines Iron into iron plates.
 hasPower: true
 craftTime: 600
 hasHeat: true
 heatRequirement: 8
 outputItem: {
-  item: metal
+  item: iron-plate
   amount: 3
 }
 consumes: {

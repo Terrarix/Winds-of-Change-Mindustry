@@ -1,0 +1,4 @@
+type: item
+name: Iron Plate
+description: An iron plate.
+buildable: false

@@ -12,7 +12,7 @@ consumes: {
   items: {
     items: [
       iron/90
-      metal/60
+      iron-plate/60
       gear/20
       engine/5
       ]
