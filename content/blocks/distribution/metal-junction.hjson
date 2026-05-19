@@ -1,7 +1,7 @@
 type: Junction
 name: Metal Junction
-speed: 0.1
-displayedSpeed: 0.1
+speed: 0.15
+displayedSpeed: 0.15
 category: distribution
 requirements: [
     metal-plate/6

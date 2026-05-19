@@ -2,8 +2,8 @@ type: Conveyor
 localizedName: Metal Conveyor
 description: A better conveyor made of metal plates.
 size: 1
-speed: 0.1
-displayedSpeed: 0.1
+speed: 0.15
+displayedSpeed: 0.15
 junctionReplacement: metal-junction
 itemCapacity: 4
 category: distribution
