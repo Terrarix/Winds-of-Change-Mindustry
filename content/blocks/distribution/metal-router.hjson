@@ -1,13 +1,13 @@
 type: Router
 name: Metal Router
-description: A router made of metal. //if you do routerchain i will personally find you -AnomalousWyvern
+description: A router made of metal. //you where warned about router chain. -caboosket
 size: 1
 speed: 1
 displayedSpeed: 1
 itemCapacity: 2
 category: distribution
 requirements: [
-    metal/6
+    metal-plate/6
 ]
 research: metal-junction
-details: Highly advised to not attempt to possess. Recomended to seperate from other routers and production inputs to prevent clogs and router ping-pong.
+details: Same warning as the normal router.
