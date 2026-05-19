@@ -8,7 +8,7 @@ category: effect
 health: 1000
 itemCapacity: 500
 unitCapMOdifier: 5 #idk what to set it -caboosket
-isFirstTeir: true
+isFirstTier: true
 requirements: [
   nickel/1500
 ]

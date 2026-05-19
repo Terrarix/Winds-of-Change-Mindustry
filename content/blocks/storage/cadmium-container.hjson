@@ -1,0 +1,10 @@
+type: StorageBlock
+localizedName: Cadmium Container
+description: A basic container made of Cadmium.
+size: 3
+category: effect
+itemCapacity: 800
+requirements: [
+    cadmium/200
+]
+buildCostMultiplier: 0.4

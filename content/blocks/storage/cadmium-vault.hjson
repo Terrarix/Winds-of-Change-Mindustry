@@ -1,0 +1,10 @@
+type: StorageBlock
+localizedName: Cadmium Vault
+description: A basic Vault made of Cadmium.
+size: 4
+category: effect
+itemCapacity: 1000
+requirements: [
+    cadmium/800
+]
+buildCostMultiplier: 0.4

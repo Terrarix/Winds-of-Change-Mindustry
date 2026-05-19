@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Metal Furnace
-description: A furnace that melts and refines Metal into Steel.
+description: A furnace that melts and refines Iron plates into Steel.
 hasPower: true
 craftTime: 600
 hasHeat: true
@@ -13,12 +13,12 @@ outputItem: {
 consumes: {
   power: 6
   items: [
-    metal/6
+    iron-plate/6
   ]
 }
 requirements: [
   nickel/150
-  metal/90
+  iron-plate/90
 ]
 category: crafting
 ambientSound: loopGrind

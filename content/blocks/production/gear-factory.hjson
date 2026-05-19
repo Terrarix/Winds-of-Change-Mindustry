@@ -17,7 +17,7 @@ consumes: {
     steam/0.06
   ]
   items: [
-    metal/2
+    iron-plate/2
   ]
 }
 requirements: [
