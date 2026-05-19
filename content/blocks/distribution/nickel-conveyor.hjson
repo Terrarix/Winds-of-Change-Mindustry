@@ -13,4 +13,4 @@ consumes: {
 requirements: [
     nickel/1
 ]
-resaerch: scout-core
+research: scout-core
