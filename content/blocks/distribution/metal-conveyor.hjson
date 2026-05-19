@@ -1,0 +1,16 @@
+type: Conveyor
+localizedName: Metal Conveyor
+description: A better conveyor made of metal plates.
+size: 1
+speed: 0.1
+displayedSpeed: 0.1
+junctionReplacement: metal-junction
+itemCapacity: 4
+category: distribution
+consumes: {
+  power: 0.2
+}
+requirements: [
+  metal-plate/1
+]
+research: nickel-router
