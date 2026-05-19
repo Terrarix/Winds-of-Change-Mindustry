@@ -5,6 +5,6 @@ size: 4
 category: effect
 itemCapacity: 1000
 requirements: [
-    Cadmium/800
+    cadmium/800
 ]
 buildCostMultiplier: 0.4
