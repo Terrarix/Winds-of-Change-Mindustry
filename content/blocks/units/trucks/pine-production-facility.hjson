@@ -1,0 +1,22 @@
+type: UnitFactory
+name: Pine Production Facility
+description: Fabricates the Pine, the first tier Truck.
+category: units
+size: 3
+health: 100
+plans: [
+  {
+    unit: pine
+    requirements: [
+      iron/50
+      nickel/30
+      copper/20
+      engine/1
+      gear/30
+    ]
+    time: 900
+  }
+]
+consumes: {
+  power: 20
+}
