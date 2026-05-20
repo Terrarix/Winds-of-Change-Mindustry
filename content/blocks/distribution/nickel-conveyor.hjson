@@ -10,7 +10,8 @@ category: distribution
 consumes: {
   power: 0.1
 }
+conductivePower: true
 requirements: [
-    nickel/1
+  nickel/1
 ]
 research: scout-core

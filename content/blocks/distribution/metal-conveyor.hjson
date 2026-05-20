@@ -10,6 +10,7 @@ category: distribution
 consumes: {
   power: 0.2
 }
+conductivePower: true
 requirements: [
   metal-plate/1
 ]
