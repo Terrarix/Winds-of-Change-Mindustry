@@ -2,8 +2,6 @@ type: Router
 name: Metal Router
 description: A router made of metal. //you where warned about router chain. -caboosket
 size: 1
-speed: 15
-displayedSpeed: 15
 itemCapacity: 2
 category: distribution
 requirements: [
