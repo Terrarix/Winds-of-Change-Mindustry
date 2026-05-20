@@ -2,8 +2,6 @@ type: Router
 name: Nickel Router
 description: A router made of nickel. //if you do routerchain i will personally find you -AnomalousWyvern
 size: 1
-speed: 0.075
-displayedSpeed: 0.075
 itemCapacity: 1
 category: distribution
 requirements: [
