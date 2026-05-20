@@ -13,7 +13,7 @@ mass: 1.1
 health: 250
 canMine: true
 buildSpeed: 1.5
-hitSize: 15.0
+hitSize: 10.0
 mineTier: 1
 mineSpeed: 1.5
 minerange: 20
