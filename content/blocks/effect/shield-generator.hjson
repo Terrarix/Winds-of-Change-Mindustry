@@ -1,0 +1,16 @@
+type: baseshield
+health: 500
+radius: 100
+size: 4
+description: A basic 4 sided shield that is very cheap.
+sides: 4
+shieldColor: #fc5426
+consumes: {
+  power: 4
+}
+requirements: [
+  steel/80
+  nickel/60
+]
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.06
