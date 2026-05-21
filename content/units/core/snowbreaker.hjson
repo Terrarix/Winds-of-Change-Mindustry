@@ -1,0 +1,4 @@
+type: mech
+localizedName: Snowbreaker
+description: The Engineer core's mech.
+health: 800
