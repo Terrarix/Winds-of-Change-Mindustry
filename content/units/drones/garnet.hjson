@@ -1,0 +1,5 @@
+type: flying
+name: Garnet
+health: 18000
+description: A ship of massive size. A scary behemoth with immense firepower and weapons.
+//might have to make java for a shield

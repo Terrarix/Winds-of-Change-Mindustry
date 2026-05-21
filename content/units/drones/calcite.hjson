@@ -1,0 +1,5 @@
+type: flying
+name: Calcite
+health: 300
+description: Combat, utility, and exploration drone, cheap and mass producable! Used early in wars or as a constant pressure unit.
+//might have to make java for a shield
