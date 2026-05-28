@@ -1,0 +1,15 @@
+Type: Accelerator
+name: Interuniversary Accelerator
+description: The almost real deal. Launches a core to a new planet.
+size: 9
+research: {
+    parent: duct
+    objectives: [
+    {
+        type: SectorComplete
+        preset: orgin
+    }
+  ]
+}
+launchBlock: core-scout
+launchCandidates: icronis
