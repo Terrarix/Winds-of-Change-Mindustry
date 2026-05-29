@@ -11,5 +11,5 @@ research: {
     }
   ]
 }
-launchBlock: [ core-scout ]
-launchCandidates: icronis
+launchBlock: core-scout
+launchCandidates: [ icronis ]
