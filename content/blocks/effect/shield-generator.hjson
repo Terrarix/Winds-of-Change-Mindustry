@@ -1,4 +1,4 @@
-type: baseshield
+type: ForceProjector
 health: 500
 radius: 100
 size: 4
