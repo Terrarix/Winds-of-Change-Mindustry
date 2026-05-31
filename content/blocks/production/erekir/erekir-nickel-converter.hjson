@@ -1,4 +1,4 @@
-type: BasicCrafter
+type: GenericCrafter
 size: 2
 localizedName: Nickel Converter
 description: Converts Beryllium and Gaphite into Nickel.
