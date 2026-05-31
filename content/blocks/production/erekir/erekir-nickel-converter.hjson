@@ -1,0 +1,25 @@
+type: BasicCrafter
+size: 2
+localizedName: Nickel Converter
+description: Converts Beryllium and Gaphite into Nickel.
+hasPower: true
+craftTime: 200
+outputItem: {
+  item: nickel
+  amount: 4
+}
+consumes: {
+  power: 3
+  items: [
+    beryllium/5
+    graphite/5    
+  ]
+}
+requirements: [
+  beryllium/150
+  silicon/90
+  oxide/50
+]
+category: crafting
+ambientSound: loopGrind
+ambientSoundVolume: 0.1

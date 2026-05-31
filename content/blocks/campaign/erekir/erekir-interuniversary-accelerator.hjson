@@ -12,6 +12,14 @@ research: {
     }
   ]
 }
+requirements: [
+  beryllium/16000
+  silicon/11000
+  tungsten/13000
+  oxide/12000
+  surge-alloy/6000
+  carbide/5000
+]
 launchBlock: core-scout
 launchCandidates: [
   icronis
