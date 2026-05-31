@@ -109,7 +109,7 @@ allowLaunchToNumbered: false
 allowLaunchLoadout: false
 allowSectorInvasion: false
 
-alwaysUnlocked: true
+alwaysUnlocked: false
 sectorSize: 1
 orbitSpacing: 5
 radius: 0.65
