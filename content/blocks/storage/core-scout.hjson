@@ -1,5 +1,5 @@
 type: CoreBlock
-localizedName: Scout
+localizedName: Core: Scout
 unitType: snowtrekker
 description: The first core. Once destroyed, the sector is lost.
 alwaysUnlocked: true
@@ -7,7 +7,7 @@ size: 5
 category: effect
 health: 1000
 itemCapacity: 500
-unitCapMOdifier: 5 #idk what to set it -caboosket
+unitCapModifier: 5 #idk what to set it -caboosket
 isFirstTier: true
 requirements: [
   nickel/1500
