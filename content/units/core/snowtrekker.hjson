@@ -5,9 +5,9 @@ detail: Used as the beginning unit for the recapture of Icronis (2304), after th
 flying: false
 canBoost: true
 outlineColor: 357278
-speed: 5
+speed: 2
 maxSpeed: 20
-boostSpeed: 2
+boostSpeed: 4
 drag: 1.0
 mass: 1.1
 health: 250
