@@ -5,9 +5,8 @@ description: A low power generator that uses wind. always works.
 hasPower: true
 powerProduction: 1.0
 itemDuration: 10
-warmupSpeed: 0.1
 consumes: {
-  power: 0.1
+  power: 0
 }
 requirements: [
   nickel/50
