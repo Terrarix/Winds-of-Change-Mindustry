@@ -4,6 +4,7 @@ localizedName: Nickel Converter
 description: Converts Beryllium and Gaphite into Nickel.
 hasPower: true
 craftTime: 200
+research: erekir-interuniversary-accelerator
 outputItem: {
   item: nickel
   amount: 4
