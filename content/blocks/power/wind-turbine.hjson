@@ -3,10 +3,12 @@ size: 2
 name: Wind Turbine
 description: A low power generator that uses wind. always works.
 hasPower: true
-powerProduction: 30
+powerProduction: 1.0
 itemDuration: 10
 consumes: {
-  power: 0
+  items: [
+    copper/0
+  ] #lazy fix but we need to fix this later :sob: - terrarix
 }
 requirements: [
   nickel/50
