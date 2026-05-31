@@ -3,7 +3,7 @@ size: 2
 name: Wind Turbine
 description: A low power generator that uses wind. always works.
 hasPower: true
-powerProduction: 1.0
+powerProduction: 30
 itemDuration: 10
 consumes: {
   power: 0
