@@ -22,5 +22,6 @@ requirements: [
 ]
 launchBlock: core-scout
 launchCandidates: [
-  icronis
+  serpulo
+  erekir
 ]

@@ -131,7 +131,7 @@ allowLaunchToNumbered: false
 clearSectorOnLose: true
 allowWaves: true
 icon: planet
-defaultCore: core-nucleus
+defaultCore: core-scout
 parent: sun
 solarSystem: sun
 launchCandidates: []
@@ -141,3 +141,4 @@ itemWhitelist: [
 //and why do i need this
 generator: {
 }
+research: erekir-interuniversary-accelerator
