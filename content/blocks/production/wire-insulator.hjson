@@ -1,0 +1,28 @@
+type: HeatCrafter
+size: 3
+localizedName: Wire Insulator
+description: Takes in uninsulated wires and insulation to insulate wires
+hasPower: true
+craftTime: 200
+hasHeat: true
+heatRequirement: 5
+outputItem: {
+  item: Insulated-Wire
+  amount: 1
+}
+consumes: {
+  power: 6
+  items: [
+    Uninsulated-Wire/1
+    Synthetic-Rubber/2
+  ]
+}
+requirements: [
+  nickel/150
+  iron-plate/90
+  steel/80
+  copper/60
+]
+category: crafting
+ambientSound: loopGrind
+ambientSoundVolume: 0.1
