@@ -7,14 +7,14 @@ craftTime: 200
 hasHeat: true
 heatRequirement: 5
 outputItem: {
-  item: Insulated Wire
+  item: insulated-wire
   amount: 1
 }
 consumes: {
   power: 6
   items: [
-    Uninsulated Wire/1
-    Synthetic Rubber/2
+    uninsulated-wire/1
+    synthetic-rubber/2
   ]
 }
 requirements: [
