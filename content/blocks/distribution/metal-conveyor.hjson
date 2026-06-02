@@ -8,7 +8,7 @@ junctionReplacement: metal-junction
 itemCapacity: 4
 category: distribution
 consumes: {
-  power: 0.2
+  power: 0.01666
 }
 conductivePower: true
 requirements: [
