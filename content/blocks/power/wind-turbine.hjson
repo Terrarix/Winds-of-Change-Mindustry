@@ -1,16 +1,10 @@
-type: ConsumeGenerator
+type: PowerSource
 size: 2
 name: Wind Turbine
 description: A low power generator that uses wind. always works.
 hasPower: true
-powerProduction: 1.0
-itemDuration: 10
-consumes: {
-  items: [
-    copper/0
-  ] #lazy fix but we need to fix this later :sob: - terrarix
-}
+powerProduction: 0.5
 requirements: [
-  nickel/50
+  nickel/100
 ]
 category: power
