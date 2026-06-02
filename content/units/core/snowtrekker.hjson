@@ -44,6 +44,6 @@ weapons: [
     outlineColor: 357278
     alternate: true
     mirror: true
-    reload: 15
+    reload: 60
     }
 ]
