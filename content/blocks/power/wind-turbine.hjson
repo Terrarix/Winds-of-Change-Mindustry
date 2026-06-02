@@ -8,3 +8,6 @@ requirements: [
   nickel/100
 ]
 category: power
+laserRange: 0
+maxNodes: 1
+autolink: false
