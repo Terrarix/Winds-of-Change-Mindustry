@@ -4,6 +4,7 @@ description: A router made of nickel. //if you do routerchain i will personally 
 size: 1
 itemCapacity: 1
 category: distribution
+conductivePower: true
 requirements: [
     nickel/3
 ]

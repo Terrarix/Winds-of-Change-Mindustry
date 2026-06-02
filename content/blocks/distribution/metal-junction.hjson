@@ -7,3 +7,4 @@ requirements: [
     metal-plate/6
 ]
 research: metal-conveyor
+conductivePower: true

@@ -4,6 +4,7 @@ description: A router made of metal. //you where warned about router chain. -cab
 size: 1
 itemCapacity: 2
 category: distribution
+conductivePower: true
 requirements: [
     metal-plate/6
 ]

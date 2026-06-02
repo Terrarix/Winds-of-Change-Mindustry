@@ -7,3 +7,4 @@ requirements: [
     nickel/3
 ]
 research: nickel-conveyor
+conductivePower: true
