@@ -1,5 +1,6 @@
-type: floor
+type: Floor
 name: Liquid Ammonia
 isLiquid: true
 liquid-drop:  liquid-ammonia
-varients: 1
+liquidMultiplier: 1
+variants: 0
