@@ -1,0 +1,5 @@
+type: floor
+name: Liquid Ammonia
+isLiquid: true
+liquid-drop:  liquid-ammonia
+varients: 1
