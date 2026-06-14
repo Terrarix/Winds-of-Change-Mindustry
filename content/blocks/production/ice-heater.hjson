@@ -1,0 +1,26 @@
+type: HeatCrafter
+size: 3
+localizedName: Ammonia Heater
+description: Creates heat with ammonia.
+hasPower: true
+craftTime: 300
+hasHeat: true
+heatRequirement: 4
+outputLiquid: {
+  liquid: water
+  amount: 2
+}
+consumes: {
+  power: 2
+  items: [
+    ice/2
+  ]
+}
+requirements: [
+  nickel/200
+  iron/50
+  
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08

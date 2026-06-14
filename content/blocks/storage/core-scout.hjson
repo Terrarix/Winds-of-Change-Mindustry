@@ -9,6 +9,7 @@ health: 1000
 itemCapacity: 500
 unitCapModifier: 5 #idk what to set it -caboosket
 isFirstTier: true
+BuildVisibility: coreZoneOnly
 requirements: [
   nickel/1500
 ]
