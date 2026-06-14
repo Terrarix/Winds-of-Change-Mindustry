@@ -5,3 +5,5 @@ isLiquid: true
 liquidDrop:  liquid-ammonia
 liquidMultiplier: 1
 variants: 0
+drownTime: 60
+isLiquid: true
