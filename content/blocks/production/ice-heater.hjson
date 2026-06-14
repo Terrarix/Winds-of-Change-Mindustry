@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Ice Heater
-description: Creates heat with ammonia.
+description: Water from ice and heat :D
 hasPower: true
 craftTime: 300
 hasHeat: true

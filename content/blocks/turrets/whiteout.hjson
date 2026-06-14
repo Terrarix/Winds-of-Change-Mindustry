@@ -1,0 +1,27 @@
+type: ItemTurret
+size: 2
+hasItems: true
+category: turret
+localizedName: Whiteout
+description: Rapid fire
+requirements: [
+  nickel/150
+  iron-plate/150
+  gear/50
+  steel/100
+  battery/20
+]
+range: 160
+inaccuracy: 15
+reload: 5
+ammoTypes: {
+    nickel: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 4
+        damage: 1
+        hitSize: 4
+        pierce: true
+        height: 8
+    }
+}
