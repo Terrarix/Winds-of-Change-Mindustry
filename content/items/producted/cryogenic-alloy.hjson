@@ -1,4 +1,4 @@
 type: item
 name: Cryogenic Alloy
 description: A combination of cold liquids and metals, used for various applications
-buildable: false
+buildable: true

@@ -15,13 +15,22 @@ range: 160
 inaccuracy: 15
 reload: 5
 ammoTypes: {
-    nickel: {
+    steel: {
         type: BasicBulletType
-        lifetime: 20
+        lifetime: 40
         speed: 4
         damage: 1
         hitSize: 4
         pierce: true
+        height: 8
+    }
+    nickel: {
+        type: BasicBulletType
+        lifetime: 80
+        speed: 2
+        damage: 0.5
+        hitSize: 0
+        pierce: false
         height: 8
     }
 }
