@@ -1,0 +1,5 @@
+type: item
+name: Ice
+description: Frozen water.
+buildable: true
+healthScaling: 0.5
