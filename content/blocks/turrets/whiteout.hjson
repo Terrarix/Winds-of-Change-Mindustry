@@ -23,6 +23,7 @@ ammoTypes: {
         hitSize: 4
         pierce: true
         height: 8
+        ammoMultiplier: 2
     }
     nickel: {
         type: BasicBulletType
@@ -32,5 +33,6 @@ ammoTypes: {
         hitSize: 0
         pierce: false
         height: 8
+        ammoMultiplier: 1.5
     }
 }
