@@ -1,0 +1,4 @@
+type: OreBlock
+name: Iced Coal Ore
+itemDrop: coal-ice
+varients: 3

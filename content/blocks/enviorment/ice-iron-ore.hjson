@@ -1,0 +1,5 @@
+type: OreBlock
+name: Iced Copper Ore
+itemDrop: iron-ice
+
+varients: 3
