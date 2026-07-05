@@ -5,7 +5,7 @@ description: A ship of massive size. A scary behemoth with immense firepower and
 outlineColor: 863260
 abilities: [
     {
-        type: ForceFeildAbility
+        type: ForceFieldAbility
         max: 150
         cooldown: 100
         regen: 0.5
