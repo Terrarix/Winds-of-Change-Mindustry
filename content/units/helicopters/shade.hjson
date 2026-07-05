@@ -3,3 +3,4 @@ type: flying
 health: 100
 description: A small, armored helicopter
 detail: "I'm no Fortunate Son"
+outlineColor: 863260
