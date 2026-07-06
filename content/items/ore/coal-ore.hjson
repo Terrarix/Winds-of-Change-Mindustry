@@ -1,5 +1,0 @@
-type: item
-name: Coal
-description: A piece of raw coal.
-buildable: false
-flammability: 0.1
