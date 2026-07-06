@@ -2,7 +2,7 @@ type: flying
 name: Garnet
 health: 18000
 description: A ship of massive size. A scary behemoth with immense firepower and weapons.
-outlineColor: 863260
+outlineColor: 6e3282
 abilities: [
     {
         type: ForceFieldAbility

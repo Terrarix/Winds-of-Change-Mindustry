@@ -2,7 +2,7 @@ type: flying
 name: Amethyst
 health: 300
 description: Used as an interceptor that was fast, powerful, and easy to make loads of.
-outlineColor: 863260
+outlineColor: 6e3282
 abilities: [
     {
         type: ForceFieldAbility
