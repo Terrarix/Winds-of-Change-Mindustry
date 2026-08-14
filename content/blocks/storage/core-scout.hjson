@@ -7,7 +7,11 @@ size: 5
 category: effect
 health: 1000
 itemCapacity: 500
-unitCapModifier: 5 #idk what to set it -caboosket
+outputsPower: true
+conductivePower: true
+powerProduction: 2
+hasPower: true
+unitCapModifier: 10 #idk what to set it -caboosket
 isFirstTier: true
 BuildVisibility: coreZoneOnly
 requirements: [
