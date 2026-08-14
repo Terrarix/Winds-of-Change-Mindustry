@@ -1,7 +1,7 @@
 type: Block
 size: 3
 localizedName: Nickel Container
-description: Stores resources ig.
+description: Stores resources.
 hasItems: true
 separateItemCapacity: true
 itemCapacity: 100

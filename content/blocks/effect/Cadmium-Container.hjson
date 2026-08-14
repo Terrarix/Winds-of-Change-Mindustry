@@ -1,0 +1,11 @@
+type: Block
+size: 3
+localizedName: Cadmium Container
+description: Stores more resources.
+hasItems: true
+separateItemCapacity: true
+itemCapacity: 180
+allowResupply: true
+requirements: [
+  cadmium/500
+]

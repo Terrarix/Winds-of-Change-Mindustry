@@ -1,0 +1,11 @@
+type: Block
+size: 4
+localizedName: Cadmium Vault
+description: Stores resources ig.
+hasItems: true
+separateItemCapacity: true
+itemCapacity: 350
+allowResupply: true
+requirements: [
+  cadmium/800
+]
