@@ -11,7 +11,7 @@ outputsPower: true
 conductivePower: true
 powerProduction: 2
 hasPower: true
-unitCapModifier: 10 #idk what to set it -caboosket
+unitCapModifier: 12 #12 should work - Terrarix
 isFirstTier: true
 BuildVisibility: coreZoneOnly
 requirements: [
