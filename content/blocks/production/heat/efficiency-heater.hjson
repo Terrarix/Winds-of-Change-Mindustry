@@ -1,0 +1,23 @@
+type: HeatProducer
+size: 3
+localizedName: Effeciency heater
+description: A more efficient coal burner to generate heat.
+hasPower: true
+craftTime: 200
+hasHeat: true
+heatOutput: 20
+consumes: {
+  items: [
+    coal/1
+  ]
+}
+requirements: [
+    iron-plate/150
+    engine/3
+    gear/20
+    steel/100
+]
+category: crafting
+warmupRate: 0.1
+ambientSound: loopCombustion
+ambientSoundVolume: 0.1
