@@ -1,7 +1,7 @@
 type: Block
 size: 4
 localizedName: Cadmium Vault
-description: Stores resources ig.
+description: Stores even more resources.
 hasItems: true
 separateItemCapacity: true
 itemCapacity: 350
