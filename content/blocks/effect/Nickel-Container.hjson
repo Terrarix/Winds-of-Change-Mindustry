@@ -6,3 +6,6 @@ hasItems: true
 separateItemCapacity: true
 itemCapacity: 100
 allowResupply: true
+requirements: [
+  nickel/500
+]
