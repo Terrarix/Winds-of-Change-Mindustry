@@ -1,0 +1,13 @@
+type: PowerSource
+size: 3
+name: Wind Turbine
+description: A low power generator that uses wind. always works.
+hasPower: true
+powerProduction: 1.8
+requirements: [
+  iron-plate/100
+]
+category: power
+laserRange: 0
+maxNodes: 1
+autolink: false
