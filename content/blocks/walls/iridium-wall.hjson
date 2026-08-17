@@ -11,16 +11,16 @@ destroyBullet: {
   instantDisappear: true
   damage: 0
   speed: 0
-  fragBullets: 50
+  fragBullets: 10
   fragBullet: {
     type: BasicBulletType
     speed: 2
     lifetime: 1
     pierce: true
-    width: 1000
-    height: 1000
-    pierceCap: 1000000
-    damage: 20000
+    width: 2
+    height: 2
+    pierceCap: 10
+    damage: 5000
     mixColorFrom: ff0000ff
     mixColorTo: 00000000
   }
