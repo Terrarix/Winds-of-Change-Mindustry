@@ -1,4 +1,4 @@
-type: Reconstructor
+type: reconstructor
 category: units
 name: Blackout Upgrade Facility
 health: 1000

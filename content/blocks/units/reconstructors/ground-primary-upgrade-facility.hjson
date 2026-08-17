@@ -1,0 +1,24 @@
+type: reconstructor
+category: units
+health: 200
+size: 3
+description: A general ground unit upgrader.
+constructTime: 3600
+upgrades: [
+    [gecko, salamander]
+    [pine, forest]
+]
+]
+consumes: {
+    power: 100
+    items: {
+        items: [
+            iron/110
+            iron-plate/90
+            gear/40
+            steel/70
+            engine/7
+        ]
+    }
+}
+research: gecko-production-facility
