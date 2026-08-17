@@ -1,0 +1,9 @@
+type: wall
+localizedName: Nickel Wall
+size: 3
+category: defense
+health: 630
+requirements: [
+    nickel/315
+]
+buildCostMultiplier: 0.4
