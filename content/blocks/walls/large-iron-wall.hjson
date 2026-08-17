@@ -1,0 +1,9 @@
+type: wall
+localizedName: Large Iron Wall
+size: 3
+category: defense
+health: 3360
+requirements: [
+    iron/840
+]
+buildCostMultiplier: 0.4

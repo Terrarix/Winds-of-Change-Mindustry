@@ -1,0 +1,9 @@
+type: wall
+localizedName: Iron Wall
+size: 2
+category: defense
+health: 800
+requirements: [
+    iron/400
+]
+buildCostMultiplier: 0.4

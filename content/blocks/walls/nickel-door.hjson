@@ -1,0 +1,10 @@
+type: autodoor
+localizedName: Nickel Door
+size: 2
+category: defense
+health: 120
+requirements: [
+    nickel/60
+    cadmium/40
+]
+buildCostMultiplier: 0.4

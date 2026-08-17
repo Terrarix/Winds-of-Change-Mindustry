@@ -1,0 +1,10 @@
+type: autodoor
+localizedName: Iron Door
+size: 2
+category: defense
+health: 640
+requirements: [
+    iron/320
+    cadmium/80
+]
+buildCostMultiplier: 0.4

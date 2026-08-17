@@ -1,0 +1,9 @@
+type: wall
+localizedName: Large Cadmium Wall
+size: 3
+category: defense
+health: 6300
+requirements: [
+    cadmium/390
+]
+buildCostMultiplier: 0.4

@@ -1,0 +1,9 @@
+type: wall
+localizedName: Cadmium Wall
+size: 2
+category: defense
+health: 1500
+requirements: [
+    cadmium/190
+]
+buildCostMultiplier: 0.4
