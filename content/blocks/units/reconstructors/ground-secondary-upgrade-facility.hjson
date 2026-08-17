@@ -1,0 +1,5 @@
+type: reconstructor
+category: units
+name: Ground Secondary Upgrade Facility
+health: 400
+size: 3

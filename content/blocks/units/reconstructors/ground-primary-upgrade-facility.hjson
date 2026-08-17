@@ -2,6 +2,7 @@ type: reconstructor
 category: units
 health: 200
 size: 3
+name: Ground Primary Upgrade Facility
 description: A general ground unit upgrader.
 constructTime: 3600
 upgrades: [
