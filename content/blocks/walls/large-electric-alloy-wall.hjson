@@ -1,0 +1,12 @@
+type: wall
+localizedName: Large Electric Alloy Wall
+size: 3
+category: defense
+health: 18900
+requirements: [
+    electric-alloy/1200
+]
+buildCostMultiplier: 0.4
+lightningChance: 55.0
+lightningDamage: 60.0
+lightningLength: 27.0

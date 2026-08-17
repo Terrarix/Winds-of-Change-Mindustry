@@ -1,0 +1,12 @@
+type: wall
+localizedName: Massive Electric Alloy Wall
+size: 4
+category: defense
+health: 46600
+requirements: [
+    electric-alloy/6300
+]
+buildCostMultiplier: 0.4
+lightningChance: 60.0
+lightningDamage: 65.0
+lightningLength: 30.0

@@ -1,0 +1,12 @@
+type: wall
+localizedName: Massive Electromagnetic Alloy Wall
+size: 4
+category: defense
+health: 62100
+requirements: [
+    electromagnetic-alloy/62100
+]
+buildCostMultiplier: 0.4
+lightningChance: 80.0
+lightningDamage: 80.0
+lightningLength: 6.0

@@ -1,0 +1,12 @@
+type: wall
+localizedName: Electric Alloy Wall
+size: 2
+category: defense
+health: 4500
+requirements: [
+    electric-alloy/1125
+]
+buildCostMultiplier: 0.4
+lightningChance: 45.0
+lightningDamage: 50.0
+lightningLength: 25.0
