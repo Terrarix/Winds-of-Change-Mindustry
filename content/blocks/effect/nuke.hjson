@@ -1,6 +1,6 @@
 type: Wall
 name: Nuke
-description: oh lord. Upon destruction will destroy EVERYTHING that gets hit.
+description: oh lord. Plead mercy.
 buildVisibility: sandboxOnly
 category: effect
 health: 1
