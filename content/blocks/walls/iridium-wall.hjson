@@ -1,0 +1,28 @@
+type: wall
+localizedName: Cadmium Wall
+size: 2
+category: defense
+health: 7000
+requirements: [
+    iridium/2000
+]
+buildCostMultiplier: 0.4
+destroyBullet: {
+  instantDisappear: true
+  damage: 0
+  speed: 0
+  fragBullets: 50
+  fragBullet: {
+    type: BasicBulletType
+    speed: 2
+    lifetime: 1
+    pierce: true
+    width: 1000
+    height: 1000
+    pierceCap: 1000000
+    damage: 20000
+    mixColorFrom: ff0000ff
+    mixColorTo: 00000000
+  }
+
+}
