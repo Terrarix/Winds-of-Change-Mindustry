@@ -1,6 +1,6 @@
 type: item
 name: Explosives
 description: Explosives. (It will explode with extreme force)
-buildable: false
+buildable: true
 explosiveness: 10
 flammability: 0
