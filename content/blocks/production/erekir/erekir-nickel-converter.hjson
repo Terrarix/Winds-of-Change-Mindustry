@@ -7,7 +7,7 @@ craftTime: 200
 research: erekir-interuniversary-accelerator
 outputItem: {
   item: nickel
-  amount: 4
+  amount: 5
 }
 consumes: {
   power: 3
