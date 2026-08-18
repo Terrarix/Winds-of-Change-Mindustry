@@ -1,0 +1,17 @@
+type: Drill
+tier: 3
+size: 3
+localizedName: Metal Drill
+description: A medium speed drill, made of metal.
+warmupSpeed: 0.1
+drillTime: 2600
+hasPower: true
+consumes: {
+  power: 0.6
+}
+requirements: [
+    metal/200
+]
+category: production
+rotateSpeed: 0.6
+tint: ffffff
