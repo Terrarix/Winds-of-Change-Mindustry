@@ -4,7 +4,7 @@ name: Ground Secondary Upgrade Facility
 health: 400
 size: 3
 description: Upgrades tier 2 ground units to their tier 3 variant.
-constructTime: 3600
+constructTime: 7200
 upgrades: [
     [salamander, snake]
     [forest, tundra]

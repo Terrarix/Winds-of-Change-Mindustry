@@ -1,0 +1,24 @@
+type: reconstructor
+size: 3
+health: 1000
+category: units
+name: Ground Tertiary Upgrade Facility
+description: Upgrades Tier 3 units into their Tier 4 varients.
+constructTime: 10800
+upgrades: [
+    [snake, wyrm]
+    [tundra, alpine]
+]
+]
+consumes: {
+    power: 1000
+    items: {
+        items: [
+            steel/275
+            cadmium/175
+            cryogenic-alloy/85
+            engine/40
+        ]
+    }
+}
+research: ground-secondary-upgrade-facility
