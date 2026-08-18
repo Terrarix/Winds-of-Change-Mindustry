@@ -1,3 +1,4 @@
 type: item
 name: Iced Iron
 description: A piece of Iced Iron, needs to be seperated first.
+buildable: true

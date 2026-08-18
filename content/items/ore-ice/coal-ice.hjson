@@ -1,3 +1,4 @@
 type: item
 name: Iced Coal
 description: A piece of Iced Coal, needs to be seperated first.
+buildable: true
