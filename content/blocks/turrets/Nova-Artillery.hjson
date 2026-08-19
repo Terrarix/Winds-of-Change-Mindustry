@@ -21,7 +21,6 @@ ammoTypes: {
         hitSize: 8
         hitShake: 1.2
         splashDamage: 5.0
-        trailColor: 0A1861
         trailRotation: true
         trailLength: 20.0
         targetBlocks: true
@@ -35,3 +34,6 @@ shootSoundVolume: 2.0
 minWarmup: 2.0
 recoil: 3.0
 shake: 3.0
+warmupMaintainTime: 1.0
+width: 10.0
+height: 14.0
