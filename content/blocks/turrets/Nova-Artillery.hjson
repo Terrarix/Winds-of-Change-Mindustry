@@ -1,0 +1,37 @@
+type: ItemTurret
+size: 9
+hasItems: true
+category: turret
+localizedName: Nova Artillery
+description: Artillery that has infinite range but is only manual fire, this thing will destroy almost anything it fires at (Even exposed cores)
+requirements: [
+  nickel/150
+]
+range: 0
+inaccuracy: 0
+reload: 300
+ammoPerShot: 50
+maxAmmo: 50
+ammoTypes: {
+    iridium: {
+        type: ArtilleryBulletType
+        lifetime: 10000
+        speed: 5
+        damage: 10000
+        hitSize: 8
+        hitShake: 1.2
+        splashDamage: 5.0
+        trailColor: 0A1861
+        trailRotation: true
+        trailLength: 20.0
+        targetBlocks: true
+        scaleLife: true
+    }
+}
+targetAir: false
+targetGround: false
+shootSound: shootTitan
+shootSoundVolume: 2.0
+minWarmup: 2.0
+recoil: 3.0
+shake: 3.0
