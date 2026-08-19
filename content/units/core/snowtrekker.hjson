@@ -7,7 +7,7 @@ canBoost: true
 outlineColor: 6e3282
 speed: 2
 maxSpeed: 20
-boostSpeed: 4
+boostSpeed: 8
 drag: 1.0
 mass: 1.1
 health: 250
