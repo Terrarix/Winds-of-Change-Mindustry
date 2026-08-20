@@ -11,6 +11,8 @@ weapons: [
         lifetime: 50
         speed: 6
         damage: 1
+        pierce: true
+        pierceCap: 100
     }
     shoot: {
         shots: 1
