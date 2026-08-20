@@ -20,6 +20,6 @@ weapons: [
         inaccuracy: 8
     }
     outlineColor: 357278
-    reload: 5
+    reload: 1
     }
 ]
