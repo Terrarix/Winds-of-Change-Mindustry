@@ -12,6 +12,6 @@ consumes: {
 }
 conductivePower: true
 requirements: [
-  metal-plate/1
+  iron-plate/1
 ]
 research: nickel-router

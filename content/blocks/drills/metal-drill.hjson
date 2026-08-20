@@ -10,7 +10,7 @@ consumes: {
   power: 0.6
 }
 requirements: [
-    metal/200
+    iron-plate/200
 ]
 category: production
 rotateSpeed: 0.6

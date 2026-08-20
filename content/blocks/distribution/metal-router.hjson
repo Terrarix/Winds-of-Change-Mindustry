@@ -6,7 +6,7 @@ itemCapacity: 2
 category: distribution
 conductivePower: true
 requirements: [
-    metal-plate/6
+    iron-plate/6
 ]
 research: metal-junction
 details: Same warning as the normal router.

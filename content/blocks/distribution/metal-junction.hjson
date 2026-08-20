@@ -4,7 +4,7 @@ speed: 0.15
 displayedSpeed: 0.15
 category: distribution
 requirements: [
-    metal-plate/6
+    iron-plate/6
 ]
 research: metal-conveyor
 conductivePower: true

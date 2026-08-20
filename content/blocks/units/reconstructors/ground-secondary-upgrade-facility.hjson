@@ -14,7 +14,7 @@ consumes: {
     power: 500
     items: {
         items: [
-            metal/175
+            iron-plate/175
             cadmium/40
             cryogenic-alloy/20
             engine/22
