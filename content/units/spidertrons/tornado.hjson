@@ -4,3 +4,20 @@ description: A small spider inspired mech unit that circles whatever it is attac
 health: 200
 outlineColor: 6e3282
 speed: 3
+weapons: [
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 50
+        speed: 6
+        damage: 1
+    }
+    shoot: {
+        shots: 1
+        shotDelay: 5
+        inaccuracy: 8
+    }
+    outlineColor: 357278
+    reload: 5
+    }
+]
