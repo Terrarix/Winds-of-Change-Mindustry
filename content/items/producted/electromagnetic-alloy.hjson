@@ -1,5 +1,5 @@
 type: item
-name: Electromangetic Alloy
-description: electric + magnet.
+name: Electromagnetic Alloy
+description: electric alloy + magnet.
 buildable: true
 charge: 1.2
