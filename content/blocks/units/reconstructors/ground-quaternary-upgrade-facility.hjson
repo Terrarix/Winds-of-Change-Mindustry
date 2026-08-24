@@ -1,0 +1,11 @@
+type: reconstructor
+size: 7
+health: 2500
+category: units
+name: Ground Quaternary Upgrade Facility
+description: Upgrades tier 4 units into their final form.
+constructTime: 10800
+upgrades: [
+    [wyrm, dragon]
+    [alpine, mountain]
+]
