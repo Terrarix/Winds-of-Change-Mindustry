@@ -25,5 +25,12 @@ ammoTypes: {
         damage: 20
         hitSize: 1
     }
+        iron: {
+        type: BasicBulletType
+        lifetime: 60
+        speed: 3
+        damage: 20
+        pierce: true
+    }
 }
 #balancing these turrets suck :sob: I spent an hour on balancing this and they aren't even balanced - terrarix
