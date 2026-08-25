@@ -22,15 +22,16 @@
 [ ] Heat Prod
 [ ] Ice Drills
 [ ] T1 Units
+    -Be nice to get this done soon
 [ ] T2 Units
 [ ] T3 Units
 [ ] T4 & T5
-    - Notes: This is not a topmost priority right now.
+    -This is not a topmost priority right now.
 [ ] Unit reconstructors
 [ ] Cryo Walls
-    - Notes: Java
+    -Java
 [ ] Solar Shields
-    - Notes: Java
+    -Java
 [ ] Shield generators
 [ ] EMDS
 [ ] Cores
