@@ -13,8 +13,7 @@ consumes: {
   power: 20
 }
 requirements: [
-  nickel/150
-  iron/90
-  copper/50
+  metal/300
+  copper/200
 ]
 category: production

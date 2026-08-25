@@ -13,8 +13,10 @@ consumes: {
   power: 10
 }
 requirements: [
-  nickel/150
-  iron/90
+  cryogenic-alloy/300
   copper/50
+  insulated-wire/50
+  battery/30
+  steel/100
 ]
 category: production
