@@ -4,6 +4,12 @@ health: 75
 speed: 8
 description: Simple attack/exploration veichle which is fast and reliable, with the ability to mine resources off the ground.
 outlineColor: 6e3282
+canMine: true
+mineTier: 1
+mineSpeed: 1.5
+minerange: 20
+rotateToBuilding: true
+drillPower: -1
 weapons: [
     {
     bullet: {
