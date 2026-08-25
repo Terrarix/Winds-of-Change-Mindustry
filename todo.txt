@@ -15,7 +15,7 @@ GONNA WORK ON
 
 INCOMPLETE
 --------------------------------------------------
-[ ] Mod Plan Cleanup
+[ ] Mod Plan Slides Cleanup
     -doesn't have to be now but would be really nice to have done.
 [ ] Conveyors
 [ ] Heat Piping
