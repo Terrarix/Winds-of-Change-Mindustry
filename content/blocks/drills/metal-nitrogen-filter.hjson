@@ -6,6 +6,9 @@ hasPower: true
 craftTime: 400
 hasHeat: true
 heatRequirement: 1
+outputLiquid: [
+    nitrogen/100
+]
 consumes: {
   power: 20
 }
