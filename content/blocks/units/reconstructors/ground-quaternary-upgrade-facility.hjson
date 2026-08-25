@@ -9,3 +9,16 @@ upgrades: [
     [wyrm, dragon]
     [alpine, mountain]
 ]
+]
+consumes: {
+    power: 2500
+    items: {
+        items: [
+            engine/75
+            electromagnetic-alloy/350
+            electric-alloy/675
+            steel/625
+        ]
+    }
+}
+research: ground-tertiary-upgrade-facility
