@@ -1,16 +1,16 @@
-[WORKING ON]
+WORKING ON
 --------------------------------------------------
 [ ] Air Filters
     - Terrarix
 
-[GONNA WORK ON]
+GONNA WORK ON
 --------------------------------------------------
 [ ] Factories
     - Terrarix
 [ ] Turrets
     - Terrarix
 
-[INCOMPLETE]
+INCOMPLETE
 --------------------------------------------------
 [ ] Mod Plan Cleanup
     -doesn't have to be now but would be really nice to have done.
