@@ -1,0 +1,37 @@
+[WORKING ON]
+--------------------------------------------------
+[ ] Air Filters
+    - Terrarix
+
+[GONNA WORK ON]
+--------------------------------------------------
+[ ] Factories
+    - Terrarix
+[ ] Turrets
+    - Terrarix
+
+[INCOMPLETE]
+--------------------------------------------------
+[ ] Conveyors
+[ ] Heat Piping
+[ ] Unloaders
+[ ] Power Prod
+[ ] Power Nodes
+[ ] Heat Prod
+[ ] Ice Drills
+[ ] T1 Units
+[ ] T2 Units
+[ ] T3 Units
+[ ] T4 & T5
+    - Notes: This is not a topmost priority right now.
+[ ] Unit reconstructors
+[ ] Cryo Walls
+    - Notes: Java
+[ ] Solar Shields
+    - Notes: Java
+[ ] Shield generators
+[ ] EMDS
+[ ] Cores
+[ ] Core Units
+[ ] Fluid Piping
+==================================================
