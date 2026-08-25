@@ -10,6 +10,9 @@ mineSpeed: 1.5
 minerange: 20
 rotateToBuilding: true
 drillPower: -1
+itemCapacity: 10
+turnCursor: true
+drawItems: true
 weapons: [
     {
     bullet: {
