@@ -11,12 +11,19 @@ range: 130
 inaccuracy: 1.5
 reload: 25
 ammoTypes: {
-    nickel: {
+    iron-ice: {
         type: BasicBulletType
         lifetime: 60
         speed: 2
         damage: 15
         hitSize: 4
+    }
+        ice: {
+        type: BasicBulletType
+        lifetime: 180
+        speed: 0.5
+        damage: 20
+        hitSize: 1
     }
 }
 #balancing these turrets suck :sob: I spent an hour on balancing this and they aren't even balanced - terrarix
