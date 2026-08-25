@@ -10,6 +10,7 @@ upgrades: [
     [pine, forest]
 ]
 ]
+]
 consumes: {
     power: 100
     items: {
