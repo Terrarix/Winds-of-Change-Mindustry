@@ -12,6 +12,8 @@
 
 [INCOMPLETE]
 --------------------------------------------------
+[ ] Mod Plan Cleanup
+    -doesn't have to be now but would be really nice to have done.
 [ ] Conveyors
 [ ] Heat Piping
 [ ] Unloaders
@@ -34,4 +36,3 @@
 [ ] Cores
 [ ] Core Units
 [ ] Fluid Piping
-==================================================
