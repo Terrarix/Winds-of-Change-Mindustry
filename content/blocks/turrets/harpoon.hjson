@@ -20,4 +20,14 @@ ammoTypes: {
         impact: true
         knockback: -5.0
     }
+    steel: {
+        type: BasicBulletType
+        damage: 0
+        hitSize: 4
+        impact: true
+        knockback: -4.0
+        speed: 12.0
+        pierce: true
+        pierceCap: 1000
+    }
 }

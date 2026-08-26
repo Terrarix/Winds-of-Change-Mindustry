@@ -5,12 +5,12 @@ done
 
 WORKING ON
 --------------------------------------------------
+[ ] Turrets
+    - Terrarix
 
 GONNA WORK ON
 --------------------------------------------------
 [ ] Factories
-    - Terrarix
-[ ] Turrets
     - Terrarix
 
 INCOMPLETE
