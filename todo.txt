@@ -31,6 +31,7 @@ INCOMPLETE
 [ ] T4 & T5
     -This is not a topmost priority right now.
 [ ] Unit reconstructors
+    -Get low teir ones down soon?
 [ ] Cryo Walls
     -Java
 [ ] Solar Shields
