@@ -1,0 +1,23 @@
+type: ItemTurret
+size: 2
+hasItems: true
+category: turret
+localizedName: Harpoon
+description: Grabs and pulls in enemies, inaccurate but fast firing.
+requirements: [
+  cadmium/150
+  gear/200
+  engine/50
+]
+range: 400
+inaccuracy: 20
+reload: 5
+ammoTypes: {
+    cadmium: {
+        type: LaserBulletType
+        damage: 0
+        hitSize: 4
+        impact: true
+        knockback: -5.0
+    }
+}
