@@ -3,11 +3,15 @@ size: 8
 hasItems: true
 category: turret
 localizedName: Nova Artillery
-description: Artillery that has infinite range but is only manual fire, this thing will destroy almost anything it fires at (Even exposed cores), there are only two counters
+description: Artillery that has infinite range but is only manual fire for long ranges, this artillery will destroy almost anything it fires at (Including exposed cores),
 requirements: [
-  nickel/150
+  electromagnetic-alloy/500
+  iridium/10000
+  cryogenic-alloy/2000
+  magnetic-alloy/500
+  insulated-wire/1000
 ]
-range: 0
+range: 300
 inaccuracy: 0
 reload: 300
 ammoPerShot: 50
