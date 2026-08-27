@@ -10,7 +10,6 @@ upgrades: [
     [tundra, alpine]
 ]
 ]
-]
 consumes: {
     power: 1000
     items: {

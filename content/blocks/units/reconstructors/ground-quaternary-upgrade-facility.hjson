@@ -10,7 +10,6 @@ upgrades: [
     [alpine, mountain]
 ]
 ]
-]
 consumes: {
     power: 2500
     items: {
