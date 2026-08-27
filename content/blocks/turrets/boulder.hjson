@@ -1,0 +1,33 @@
+type: PowerTurret
+size: 3
+category: turret
+localizedName: Boulder
+description: Fires a large spread of bullets.
+targetAir: true
+targetGround: true
+requirements: [
+  steel/200
+  gear/150
+  engine/20
+]
+range: 500
+inaccuracy: 10
+reload: 70
+shoot: {
+    shots: 12
+    shotDelay: 0
+    spread: 135
+}
+consumes: {
+    power: 16
+}
+shootType: {
+    type: BasicBulletType
+    lifetime: 83
+    speed: 6
+    damage: 15
+    hitSize: 4
+    width: 10
+    height: 10
+}
+#balancing these turrets suck :sob: I spent an hour on balancing this and they aren't even balanced - terrarix
