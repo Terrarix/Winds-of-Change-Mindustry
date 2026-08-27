@@ -3,7 +3,7 @@ size: 3
 name: Solar Array
 description: A low power generator that uses wind. always works.
 hasPower: true
-powerProduction: 2.0
+powerProduction: 4.0
 requirements: [
   iron-plate/300
   battery/10

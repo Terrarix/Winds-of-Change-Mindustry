@@ -5,8 +5,6 @@ done
 
 WORKING ON
 --------------------------------------------------
-[ ] Turrets
-    - Terrarix
 
 GONNA WORK ON
 --------------------------------------------------
@@ -19,6 +17,7 @@ INCOMPLETE
     -doesn't have to be now but would be really nice to have done.
 [ ] Conveyors
 [ ] Heat Piping
+[ ] Turrets
 [ ] Unloaders
 [ ] Power Prod
 [ ] Power Nodes

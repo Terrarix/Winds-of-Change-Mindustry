@@ -1,0 +1,15 @@
+type: solar-generator
+size: 5
+name: Solar Structure
+description: A large solar array that makes power during the day, way more efficient than the singular solar array.
+hasPower: true
+powerProduction: 15.0
+requirements: [
+  iron-plate/500
+  battery/20
+  steel/300
+  insulated-wire/200
+  synthetic-rubber/300
+  electric-alloy/300
+]
+category: power
