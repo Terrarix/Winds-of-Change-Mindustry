@@ -1,25 +1,26 @@
 type: GenericCrafter
 size: 2
-localizedName: Nickel Converter
-description: Converts Beryllium and Gaphite into Nickel.
+localizedName: Cadmium Converter MK2
+description: Converts Thorium and Oxide into Cadmium.
 hasPower: true
 craftTime: 200
 research: erekir-interuniversary-accelerator
 outputItem: {
-  item: nickel
+  item: Cadmium
   amount: 5
 }
 consumes: {
-  power: 3
+  power: 6
   items: [
-    beryllium/5
-    graphite/5    
+    thorium/5
+    oxide/5    
   ]
 }
 requirements: [
-  beryllium/150
-  silicon/90
-  oxide/50
+  thorium/300
+  silicon/500
+  oxide/100
+  surge-alloy/200
 ]
 category: crafting
 ambientSound: loopGrind

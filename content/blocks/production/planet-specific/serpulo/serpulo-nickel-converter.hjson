@@ -1,0 +1,26 @@
+type: GenericCrafter
+size: 2
+localizedName: Nickel Converter MK1
+description: Converts Silicon and Gaphite into Nickel.
+hasPower: true
+craftTime: 200
+research: erekir-interuniversary-accelerator
+outputItem: {
+  item: nickel
+  amount: 5
+}
+consumes: {
+  power: 3
+  items: [
+    Silicon/5
+    graphite/5    
+  ]
+}
+requirements: [
+  thorium/150
+  silicon/90
+  plastanium/50
+]
+category: crafting
+ambientSound: loopGrind
+ambientSoundVolume: 0.1
