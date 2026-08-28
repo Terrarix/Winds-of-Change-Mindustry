@@ -3,7 +3,7 @@ size: 8
 localizedName: Iridium heating facility
 description: A supermassive machine that heats up iridium to extreme temperatures.
 hasPower: true
-craftTime: 1500
+craftTime: 200
 hasHeat: true
 heatOutput: 300
 consumes: {

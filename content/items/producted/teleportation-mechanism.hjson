@@ -1,0 +1,4 @@
+type: item
+name: Teleportation Mechanism
+description: Used to make machines that allow teleportation.
+buildable: true
