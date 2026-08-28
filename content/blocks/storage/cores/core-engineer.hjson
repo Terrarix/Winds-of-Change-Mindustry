@@ -1,0 +1,28 @@
+type: CoreBlock
+localizedName: Core: Engineer
+unitType: snowbreaker
+description: A more sturdy and powerful core.
+alwaysUnlocked: true
+size: 6
+category: effect
+health: 3000
+itemCapacity: 2000
+outputsPower: true
+conductivePower: true
+powerProduction: 5
+hasPower: true
+unitCapModifier: 20
+isFirstTier: false
+BuildVisibility: coreZoneOnly
+requirements: [
+  nickel/1500
+  steel/5000
+  engine/100
+  cadmium/4000
+]
+research: {
+  planet: icronis
+  root: true
+  name: Icronis
+  requiresUnlock: false
+}

@@ -1,5 +1,50 @@
 type: mech
 localizedName: Snowbreaker
-description: The Engineer core's mech.
+description: A powerful defensive & construction unit for the engineer core.
 health: 800
 outlineColor: 6e3282
+flying: false
+canBoost: true
+outlineColor: 6e3282
+speed: 6
+maxSpeed: 20
+boostSpeed: 8
+drag: 1.0
+mass: 1.1
+health: 1000
+canMine: true
+buildSpeed: 1.5
+hitSize: 10.0
+mineTier: 2
+mineSpeed: 3.0
+minerange: 30
+rotateToBuilding: true
+drillPower: -1
+itemCapacity: 50
+turnCursor: true
+drawItems: true
+weapons: [
+    {
+    x: 0.5
+    bullet: {
+        type: missileBulletType
+        lifetime: 160
+        speed: 8
+        damage: 40
+        hitSize: 6
+        splashDamage: 20
+        splashDamageRadius: 15
+        homingPower: 0.2
+        homingRange: 100.0
+    }
+    shoot: {
+        shots: 4
+        shotDelay: 5
+        inaccuracy: 20
+    }
+    outlineColor: 357278
+    alternate: true
+    mirror: true
+    reload: 30
+    }
+]

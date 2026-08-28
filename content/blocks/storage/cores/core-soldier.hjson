@@ -1,0 +1,31 @@
+type: CoreBlock
+localizedName: Core: Soldier
+unitType: snowtrekker
+description: The best core for offensive purposes, A truly magnificent machine which makes any other core look feeble in their combat abilities.
+alwaysUnlocked: true
+size: 6
+category: effect
+health: 15000
+itemCapacity: 5000
+outputsPower: true
+conductivePower: true
+powerProduction: 20.0
+hasPower: true
+unitCapModifier: 50
+isFirstTier: false
+BuildVisibility: coreZoneOnly
+requirements: [
+  steel/10000
+  engine/1000
+  cadmium/8000
+  cryogenic-alloy/6000
+  electromagnetic-alloy/5000
+  magnetic-alloy/800
+  insulated-wire/200
+]
+research: {
+  planet: icronis
+  root: true
+  name: Icronis
+  requiresUnlock: false
+}

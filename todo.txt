@@ -3,18 +3,12 @@ done
 [ ] Air Filters
     - Terrarix
 
-WORKING ON
---------------------------------------------------
-
-GONNA WORK ON
---------------------------------------------------
-[ ] Factories
-    - Terrarix
-
 INCOMPLETE
 --------------------------------------------------
 [ ] Mod Plan Slides Cleanup
     -doesn't have to be now but would be really nice to have done.
+[ ] Factories
+    - Terrarix
 [ ] Conveyors
 [ ] Heat Piping
 [ ] Turrets
