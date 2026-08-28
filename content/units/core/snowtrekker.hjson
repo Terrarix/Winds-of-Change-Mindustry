@@ -46,4 +46,15 @@ weapons: [
     mirror: true
     reload: 60
     }
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 360
+        speed: 2
+        damage: 200
+        circleShooter: true
+        circleShooterRadius: 6
+    }
+    reload: 90
+    }
 ]

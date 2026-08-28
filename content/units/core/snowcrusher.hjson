@@ -43,5 +43,15 @@ weapons: [
     mirror: true
     reload: 45
     }
-    #secondary weapon maybe that makes mines that circle the player using circleShooter
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 360
+        speed: 4
+        damage: 400
+        circleShooter: true
+        circleShooterRadius: 8
+    }
+    reload: 35
+    }
 ]
