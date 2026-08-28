@@ -3,7 +3,7 @@ localizedName: Core: Soldier
 unitType: snowcrusher
 description: The best core for offensive purposes, A truly magnificent machine which makes any other core look feeble in their combat abilities.
 alwaysUnlocked: true
-size: 6
+size: 7
 category: effect
 health: 15000
 itemCapacity: 5000

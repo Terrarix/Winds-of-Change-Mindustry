@@ -1,0 +1,21 @@
+type: HeatProducer
+size: 4
+localizedName: Power heater
+description: A heater that takes in power and converts it to heat.
+hasPower: true
+craftTime: 1000
+hasHeat: true
+heatOutput: 50
+consumes: {
+  power: 10
+}
+requirements: [
+    steel/500
+    cadmium/600
+    battery/200
+    gear/50
+]
+category: crafting
+warmupRate: 5.0
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.3

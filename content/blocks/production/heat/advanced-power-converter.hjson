@@ -1,0 +1,22 @@
+type: HeatProducer
+size: 5
+localizedName: Advanced Power Converter
+description: An advanced design of the power heater that produces way more heat and is more efficient. May have some noise polution.
+hasPower: true
+craftTime: 1500
+hasHeat: true
+heatOutput: 100
+consumes: {
+  power: 25
+}
+requirements: [
+    steel/1000
+    cadmium/1000
+    battery/500
+    gear/2000
+    magnetic-alloy/300
+]
+category: crafting
+warmupRate: 10.0
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.4

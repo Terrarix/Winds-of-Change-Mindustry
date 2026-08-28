@@ -1,7 +1,7 @@
 type: HeatProducer
 size: 3
 localizedName: Core heater
-description: A simple heater.
+description: A simple heater that uses the power generated from the core or wind turbines to make heat.
 hasPower: true
 craftTime: 300
 hasHeat: true
