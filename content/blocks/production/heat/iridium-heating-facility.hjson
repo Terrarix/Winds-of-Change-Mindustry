@@ -1,0 +1,26 @@
+type: HeatProducer
+size: 8
+localizedName: Iridium heating facility
+description: A supermassive machine that heats up iridium to extreme temperatures.
+hasPower: true
+craftTime: 1500
+hasHeat: true
+heatOutput: 300
+consumes: {
+  power: 75
+  items: [
+    iridium/250
+  ]
+}
+requirements: [
+    steel/6000
+    cadmium/3000
+    battery/800
+    gear/5000
+    electromagnetic-alloy/1000
+    iridium/2000
+]
+category: crafting
+warmupRate: 30.0
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.5
