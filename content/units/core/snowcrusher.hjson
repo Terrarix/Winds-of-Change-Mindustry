@@ -43,4 +43,5 @@ weapons: [
     mirror: true
     reload: 45
     }
+    #secondary weapon maybe that makes mines that circle the player using circleShooter
 ]
