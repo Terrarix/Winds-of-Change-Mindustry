@@ -34,3 +34,5 @@ INCOMPLETE
 [ ] Cores
 [ ] Core Units
 [ ] Fluid Piping
+[ ] FIX ALL CODING ERRORS
+    -Topmost pirority right now.
