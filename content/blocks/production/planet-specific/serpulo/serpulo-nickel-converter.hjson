@@ -12,7 +12,7 @@ outputItem: {
 consumes: {
   power: 3
   items: [
-    Silicon/5
+    silicon/5
     graphite/5    
   ]
 }
