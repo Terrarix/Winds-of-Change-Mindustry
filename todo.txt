@@ -1,7 +1,7 @@
 DONE
 --------------------------------------------------
-[ ] Air Filters
-    - Terrarix
+[ ] Air Filters - Terrarix
+[ ] Shield generators - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -29,7 +29,6 @@ INCOMPLETE
     -Java
 [ ] Solar Shields
     -Java
-[ ] Shield generators
 [ ] EMDS
 [ ] Cores
 [ ] Core Units

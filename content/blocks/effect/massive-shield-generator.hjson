@@ -1,0 +1,18 @@
+type: BaseShield
+size: 5
+localizedName: Shield Generator
+description: Creates a shielded area used for protecting your walls.
+radius: 600
+health: 2000
+sides: 4
+hasHeat: true
+heatRequirement: 30
+requirements: [
+    battery/1000
+    insulated-wire/600
+    steel/5000
+    engine/200
+    magnetic-alloy/1000
+    electromagnetic-alloy/2000
+    iridium/1200
+]
