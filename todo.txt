@@ -25,6 +25,7 @@ INCOMPLETE
     -This is not a topmost priority right now.
 [ ] Unit reconstructors
     -consolidated down into 2 trees, ground and air (air todo) - AnomalousWyvern
+    -Also fix the coding errors with them first?
 [ ] Cryo Walls
     -Java
 [ ] Solar Shields
