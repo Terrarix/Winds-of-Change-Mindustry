@@ -7,6 +7,7 @@ health: 1000
 sides: 4
 hasHeat: true
 heatRequirement: 20
+category: effect
 requirements: [
     battery/800
     insulated-wire/400
