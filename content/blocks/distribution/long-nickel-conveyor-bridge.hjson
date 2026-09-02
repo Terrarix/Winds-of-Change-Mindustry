@@ -1,0 +1,16 @@
+type: ItemBridge
+localizedName: Long Nickel Conveyor Bridge
+description: A longer bridge made of nickel, but items travel across it slower.
+size: 1
+speed: 0.0375
+itemCapacity: 6
+category: distribution
+range: 10
+consumes: {
+  power: 0.1222
+}
+conductivePower: true
+requirements: [
+  nickel/30
+]
+research: nickel-conveyor
