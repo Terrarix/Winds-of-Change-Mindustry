@@ -1,0 +1,17 @@
+type: ItemBridge
+localizedName: Long Metal Conveyor Bridge
+description: A basic bridge made of metal.
+size: 1
+speed: 0.075
+itemCapacity: 3
+category: distribution
+range: 8
+consumes: {
+  power: 0.0666
+}
+conductivePower: true
+requirements: [
+  iron-plate/5
+  gear/2
+]
+research: metal-conveyor-bridge

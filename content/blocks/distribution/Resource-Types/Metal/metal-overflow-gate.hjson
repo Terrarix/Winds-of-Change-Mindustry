@@ -1,0 +1,12 @@
+type: OverflowGate
+localizedName: Metal Overflow Gate
+description: An overflow gate.
+size: 1
+speed: 0.15
+itemCapacity: 4
+category: distribution
+conductivePower: true
+requirements: [
+  iron-plate/2
+]
+research: metal-router

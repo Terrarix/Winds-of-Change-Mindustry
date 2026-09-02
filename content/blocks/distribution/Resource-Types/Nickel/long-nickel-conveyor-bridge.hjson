@@ -13,4 +13,4 @@ conductivePower: true
 requirements: [
   nickel/30
 ]
-research: nickel-conveyor
+research: nickel-conveyor-bridge
