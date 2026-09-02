@@ -1,0 +1,13 @@
+type: DirectionalUnloader
+localizedName: Nickel Unloader
+description: An unloader made out of nickel
+size: 1
+speed: 0.075
+itemCapacity: 4
+category: distribution
+conductivePower: true
+requirements: [
+  nickel/1
+]
+research: nickel-router
+allowCoreUnload: true
