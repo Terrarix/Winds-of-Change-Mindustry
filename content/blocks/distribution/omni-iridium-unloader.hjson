@@ -1,0 +1,17 @@
+type: Unloader
+localizedName: Omni Iridium Unloader
+description: An unloader made out of iridium that dispenses items on every side
+size: 1
+speed: 25.0
+itemCapacity: 50
+category: distribution
+conductivePower: true
+requirements: [
+  iridium/30
+  insulated-wire/10
+  gear/20
+  steel/5
+  engine/1
+]
+research: iridium-unloader
+allowCoreUnload: true

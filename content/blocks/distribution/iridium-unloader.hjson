@@ -1,0 +1,17 @@
+type: DirectionalUnloader
+localizedName: Iridium Unloader
+description: An unloader made out of iridium
+size: 1
+speed: 1.0
+itemCapacity: 50
+category: distribution
+conductivePower: true
+requirements: [
+  iridium/30
+  insulated-wire/10
+  gear/20
+  steel/5
+  engine/1
+]
+research: cadmium-unloader
+allowCoreUnload: true

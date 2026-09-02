@@ -1,15 +1,15 @@
 type: DirectionalUnloader
-localizedName: Nickel Unloader
-description: An unloader made out of nickel
+localizedName: Cadmium Unloader
+description: An unloader made out of cadmium
 size: 1
-speed: 0.075
-itemCapacity: 4
+speed: 8
+itemCapacity: 10
 category: distribution
 conductivePower: true
 requirements: [
-  nickel/20
+  cadmium/30
   insulated-wire/2
   gear/1
 ]
-research: nickel-router
+research: nickel-unloader
 allowCoreUnload: true
