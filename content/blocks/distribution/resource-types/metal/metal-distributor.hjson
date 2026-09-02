@@ -1,0 +1,11 @@
+type: Router
+name: Metal Distributor
+description: CHONK router.
+size: 2
+itemCapacity: 8
+category: distribution
+conductivePower: true
+requirements: [
+    iron-plate/25
+]
+research: metal-router
