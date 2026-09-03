@@ -6,7 +6,7 @@ hasPower: true
 craftTime: 200
 research: erekir-interuniversary-accelerator
 outputItem: {
-  item: Cadmium
+  item: cadmium
   amount: 5
 }
 consumes: {
