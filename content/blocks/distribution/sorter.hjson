@@ -1,11 +1,10 @@
 type: Sorter
-name: Nickel Sorter
+name: Sorter
 description: A sorter made of nickel.
 size: 1
 itemCapacity: 1
 category: distribution
 conductivePower: true
-invert: true
 requirements: [
     nickel/5
 ]

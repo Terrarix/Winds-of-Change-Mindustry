@@ -1,0 +1,12 @@
+type: OverflowGate
+localizedName: Electric Alloy Overflow Gate
+description: An overflow gate.
+size: 1
+speed: 5.0
+itemCapacity: 4
+category: distribution
+conductivePower: true
+requirements: [
+  electric-alloy/2
+]
+research: electric-alloy-router
