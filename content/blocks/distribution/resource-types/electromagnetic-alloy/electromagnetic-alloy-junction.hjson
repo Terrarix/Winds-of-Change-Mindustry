@@ -1,0 +1,12 @@
+type: DuctJunction
+localizedName: Electric Alloy Junction
+description: A extremely fast electricly junction.
+size: 1
+speed: 10.0
+itemCapacity: 4
+category: distribution
+conductivePower: true
+requirements: [
+  electromagnetic-alloy/6
+]
+research: electric-alloy-duct

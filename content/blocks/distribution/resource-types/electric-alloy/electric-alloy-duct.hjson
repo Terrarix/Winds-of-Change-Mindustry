@@ -1,11 +1,12 @@
 type: Duct
 localizedName: Electric Alloy Duct
-description: A extremely fast electricly powered duct.
+description: A better conveyor made of electric-alloy.
 size: 1
 speed: 5.0
+junctionReplacement: electric-alloy-junction
+bridgeReplacement: electric-alloy-bridge
 itemCapacity: 4
 category: distribution
-junctionReplacement: electric-alloy-junction
 consumes: {
   power: 0.1
 }
@@ -13,4 +14,4 @@ conductivePower: true
 requirements: [
   electric-alloy/1
 ]
-research: metal-router
+research: metal-conveyor

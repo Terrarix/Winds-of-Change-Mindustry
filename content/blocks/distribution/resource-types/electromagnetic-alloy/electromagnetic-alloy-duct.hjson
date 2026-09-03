@@ -1,0 +1,13 @@
+type: Duct
+localizedName: Electromagnetic Alloy Duct
+description: A extremely fast electricly unpowered duct.
+size: 1
+speed: 10.0
+itemCapacity: 10
+category: distribution
+junctionReplacement: electromagnetic-alloy-junction
+conductivePower: true
+requirements: [
+  electromagnetic-alloy/1
+]
+research: electric-alloy-duct

@@ -1,0 +1,26 @@
+type: MassDriver
+localizedName: Teleportation Driver
+description: Links with another teleportation driver letting it teleport items to the linked location in a mere instant
+size: 1
+itemCapacity: 5
+reload: 0.01
+range: 1000.0
+shake: 0
+shootSound: railShoot
+shootEffect: railShoot
+category: distribution
+bulletSpeed: 1000.0
+rotateSpeed: 0.1
+shootSoundVolume: 0.1
+consumes: {
+  power: 100.0
+}
+requirements: [
+  electromagnetic-alloy/3000
+  electric-alloy/200
+  gear/1000
+  insulated-wire/200
+  engine/500
+  teleportation-mechanism/20
+]
+research: electromagnetic-alloy-duct

@@ -1,0 +1,11 @@
+type: Router
+name: Nickel Router
+description: A router made of nickel.
+size: 1
+itemCapacity: 1
+category: distribution
+conductivePower: true
+requirements: [
+    nickel/3
+]
+research: nickel-junction

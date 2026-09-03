@@ -1,0 +1,13 @@
+type: OverflowGate
+localizedName: Electric Alloy Underflow Gate
+description: An underflow gate.
+size: 1
+speed: 5.0
+itemCapacity: 4
+invert: false
+category: distribution
+conductivePower: false
+requirements: [
+  electromagnetic-alloy/2
+]
+research: electromagnetic-alloy-overflow-gate

@@ -2,6 +2,8 @@ DONE
 --------------------------------------------------
 [ ] Air Filters - Terrarix
 [ ] Shield generators - Terrarix
+[ ] Unloaders - Terrarix
+[ ] Conveyors - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -9,10 +11,8 @@ INCOMPLETE
     -doesn't have to be now but would be really nice to have done.
 [ ] Factories
     - Terrarix
-[ ] Conveyors
 [ ] Heat Piping
 [ ] Turrets
-[ ] Unloaders
 [ ] Power Prod
 [ ] Power Nodes
 [ ] Heat Prod

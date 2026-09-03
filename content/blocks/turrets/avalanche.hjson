@@ -7,7 +7,7 @@ description: Fires a large snowball
 requirements: [
   engine/10
   iron-plate/100
-  insulate-wire/10
+  insulated-wire/10
   gear/50
 ]
 range: 300
