@@ -8,7 +8,7 @@ requirements: [
   electromagnetic-alloy/500
   iridium/10000
   cryogenic-alloy/2000
-  magnetic-alloy/500
+  electric-alloy/500
   insulated-wire/1000
 ]
 range: 300

@@ -14,5 +14,5 @@ requirements: [
     steel/500
     engine/20
     cryogenic-alloy/500
-    magnetic-alloy/200
+    electric-alloy/200
 ]

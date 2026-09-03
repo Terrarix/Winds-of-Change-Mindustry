@@ -13,7 +13,7 @@ requirements: [
     insulated-wire/600
     steel/5000
     engine/200
-    magnetic-alloy/1000
+    electric-alloy/1000
     electromagnetic-alloy/2000
     iridium/1200
 ]

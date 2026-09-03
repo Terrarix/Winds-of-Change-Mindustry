@@ -14,6 +14,6 @@ requirements: [
     steel/1500
     engine/100
     cryogenic-alloy/1000
-    magnetic-alloy/600
+    electric-alloy/600
     electromagnetic-alloy/1000
 ]

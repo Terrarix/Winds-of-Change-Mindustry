@@ -20,7 +20,7 @@ requirements: [
   cadmium/8000
   cryogenic-alloy/6000
   electromagnetic-alloy/5000
-  magnetic-alloy/800
+  electric-alloy/800
   insulated-wire/200
 ]
 research: {

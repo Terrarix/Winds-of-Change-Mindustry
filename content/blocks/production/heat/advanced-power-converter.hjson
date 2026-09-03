@@ -14,7 +14,7 @@ requirements: [
     cadmium/1000
     battery/500
     gear/2000
-    magnetic-alloy/300
+    electric-alloy/300
 ]
 category: crafting
 warmupRate: 10.0
