@@ -2,4 +2,4 @@ type: item
 name: Electric Alloy
 description: Mid game electric resource.
 buildable: true
-charge: 0.8
+charge: 5.0

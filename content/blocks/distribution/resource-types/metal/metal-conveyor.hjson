@@ -5,6 +5,7 @@ size: 1
 speed: 0.15
 displayedSpeed: 0.15
 junctionReplacement: metal-junction
+bridgeReplacement: metal-conveyor-bridge
 itemCapacity: 4
 category: distribution
 consumes: {

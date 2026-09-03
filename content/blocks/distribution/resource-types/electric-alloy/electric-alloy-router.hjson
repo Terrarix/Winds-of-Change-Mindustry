@@ -1,0 +1,11 @@
+type: DuctRouter
+name: Electric Alloy Router
+description: A router made of electric alloy that is way faster. //No router chain with this router -Terrarix
+size: 1
+itemCapacity: 2
+category: distribution
+conductivePower: true
+requirements: [
+    electric-alloy/6
+]
+research: electric-alloy-duct
