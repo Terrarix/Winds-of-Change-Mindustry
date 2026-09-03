@@ -4,6 +4,7 @@ DONE
 [ ] Shield generators - Terrarix
 [ ] Unloaders - Terrarix
 [ ] Conveyors - Terrarix
+[ ] EMDS - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -30,7 +31,6 @@ INCOMPLETE
     -Java
 [ ] Solar Shields
     -Java
-[ ] EMDS
 [ ] Cores
 [ ] Core Units
 [ ] Fluid Piping

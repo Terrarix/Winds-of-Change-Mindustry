@@ -1,0 +1,19 @@
+type: PointDefenseTurret
+size: 3
+category: effect
+localizedName: EMDS
+description: Shoots down physical projectiles, Recommended to have energy storage or else your power grid will take a hit whenever this weapon fires.
+targetAir: true
+targetGround: true
+requirements: [
+  electromagnetic-alloy/800
+  gear/500
+  engine/100
+  battery/200
+]
+range: 200
+inaccuracy: 10
+reload: 70
+consumes: {
+    power: 50
+}
