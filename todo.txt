@@ -5,6 +5,7 @@ DONE
 [ ] Unloaders - Terrarix
 [ ] Conveyors - Terrarix
 [ ] EMDS - Terrarix
+[ ] Menders - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -32,6 +33,7 @@ INCOMPLETE
 [ ] Solar Shields
     -Java
 [ ] Cores
+    -Java
 [ ] Core Units
 [ ] Fluid Piping
 [ ] FIX ALL CODING ERRORS
