@@ -6,6 +6,8 @@ DONE
 [ ] Conveyors - Terrarix
 [ ] EMDS - Terrarix
 [ ] Menders - Terrarix
+[ ] Fluid Piping - Terrarix
+[ ] Ice Drills - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -18,7 +20,6 @@ INCOMPLETE
 [ ] Power Prod
 [ ] Power Nodes
 [ ] Heat Prod
-[ ] Ice Drills
 [ ] T1 Units
     -Be nice to get this done soon
 [ ] T2 Units
@@ -35,6 +36,6 @@ INCOMPLETE
 [ ] Cores
     -Java
 [ ] Core Units
-[ ] Fluid Piping
 [ ] FIX ALL CODING ERRORS
     -Topmost pirority right now.
+[ ] Mass Drivers

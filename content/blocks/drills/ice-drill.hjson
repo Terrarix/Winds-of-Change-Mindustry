@@ -1,0 +1,17 @@
+type: BurstDrill
+tier: 0.1
+size: 3
+localizedName: Ice Drill
+description: A fast drill, made of cadmium.
+warmupSpeed: 20.0
+drillTime: 2000
+hasPower: true
+consumes: {
+  power: 3.0
+}
+requirements: [
+    nickel/500
+]
+category: production
+rotateSpeed: 0.1
+tint: ffffff
