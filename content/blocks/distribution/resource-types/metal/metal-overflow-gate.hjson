@@ -9,4 +9,4 @@ conductivePower: true
 requirements: [
   iron-plate/2
 ]
-research: metal-router
+research: metal-conveyor

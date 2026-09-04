@@ -9,4 +9,4 @@ conductivePower: true
 requirements: [
   electric-alloy/2
 ]
-research: electric-alloy-router
+research: electric-alloy-duct
