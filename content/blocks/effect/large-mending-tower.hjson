@@ -1,0 +1,20 @@
+type: MendProjector
+size: 5
+localizedName: Shield Generator
+description: Creates a shielded area used for protecting your walls.
+health: 500
+hasHeat: true
+heatRequirement: 15
+category: effect
+range: 200.0
+healPercent: 2.5
+useTime: 200
+reload: 25.0
+requirements: [
+    battery/200
+    steel/1000
+    gear/500
+    engine/100
+    electromagnetic-alloy/800
+    electric-alloy/100
+]
