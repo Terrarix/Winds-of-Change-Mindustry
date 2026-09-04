@@ -9,7 +9,6 @@ upgrades: [
     [wyrm, dragon]
     [alpine, mountain]
 ]
-]
 consumes: {
     power: 2500
     items: {

@@ -9,7 +9,6 @@ upgrades: [
     [snake, wyrm]
     [tundra, alpine]
 ]
-]
 consumes: {
     power: 1000
     items: {

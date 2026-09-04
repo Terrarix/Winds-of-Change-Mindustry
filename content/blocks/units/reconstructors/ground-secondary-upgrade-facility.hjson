@@ -9,7 +9,6 @@ upgrades: [
     [salamander, snake]
     [forest, tundra]
 ]
-]
 consumes: {
     power: 500
     items: {

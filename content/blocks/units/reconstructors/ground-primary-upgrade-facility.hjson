@@ -9,7 +9,6 @@ upgrades: [
     [gecko, salamander]
     [pine, forest]
 ]
-]
 consumes: {
     power: 100
     items: {
