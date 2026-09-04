@@ -1,0 +1,12 @@
+type: Block
+localizedName: Large Metal Tank
+description: A large liquid tank.
+size: 4
+category: liquid
+requirements: [
+    iron-plate/500
+]
+tint: ffffff
+hasLiquids: true
+liquidCapacity: 3000
+research: metal-tank

@@ -1,0 +1,12 @@
+type: Block
+localizedName: Metal Tank
+description: A basic liquid tank.
+size: 3
+category: liquid
+requirements: [
+    iron-plate/100
+]
+tint: ffffff
+hasLiquids: true
+liquidCapacity: 1000
+research: metal-pipe

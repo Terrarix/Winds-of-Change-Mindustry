@@ -1,0 +1,17 @@
+type: Block
+localizedName: Large Electric Alloy Tank
+description: A large powered liquid tank to store more liquid in less space.
+size: 4
+category: liquid
+requirements: [
+    electric-alloy/600
+    battery/50
+]
+consumes: {
+  power: 1.5
+}
+conductivePower: true
+tint: ffffff
+hasLiquids: true
+liquidCapacity: 9000
+research: electric-alloy-tank
