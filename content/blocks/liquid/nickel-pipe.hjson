@@ -1,9 +1,0 @@
-type: Conduit
-localizedName: Nickel Pipe
-description: A basic pipe.
-size: 1
-category: liquid
-requirements: [
-    nickel/2
-]
-tint: ffffff

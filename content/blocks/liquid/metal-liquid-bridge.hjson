@@ -1,0 +1,11 @@
+type: DirectionLiquidBridge
+localizedName: Metal Liquid Bridge
+description: A liquid bridge made of metal.
+size: 1
+category: liquid
+range: 8
+requirements: [
+  iron-plate/5
+  gear/2
+]
+research: metal-liquid-router
