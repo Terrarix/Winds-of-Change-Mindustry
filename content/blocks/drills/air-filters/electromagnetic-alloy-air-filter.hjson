@@ -6,14 +6,15 @@ hasPower: true
 craftTime: 100
 hasHeat: true
 heatRequirement: 1
-outputLiquid: [
-    nitrogen/100
-]
+outputLiquid: {
+  liquid: nitrogen
+  amount: 100
+}
 consumes: {
   power: 20
 }
 requirements: [
-    electormagnetic-alloy/100
+    electromagnetic-alloy/100
     cryogenic-alloy/200
     insulated-wire/50
     battery/10

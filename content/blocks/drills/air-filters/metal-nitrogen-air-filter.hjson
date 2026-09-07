@@ -6,14 +6,15 @@ hasPower: true
 craftTime: 100
 hasHeat: true
 heatRequirement: 1
-outputLiquid: [
-    nitrogen/100
-]
+outputLiquid: {
+  liquid: nitrogen
+  amount: 100
+}
 consumes: {
   power: 20
 }
 requirements: [
-  metal/300
+  iron-plate/300
   copper/200
 ]
 category: production
