@@ -15,7 +15,7 @@ range: 300
 inaccuracy: 0
 reload: 300
 ammoPerShot: 50
-maxAmmo: 50
+maxAmmo: 100
 ammoTypes: {
     iridium: {
         type: ArtilleryBulletType

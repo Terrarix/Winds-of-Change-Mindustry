@@ -9,20 +9,20 @@ requirements: [
   gear/200
   engine/50
 ]
-range: 400
-inaccuracy: 20
+range: 100
+inaccuracy: 0
 reload: 5
 ammoTypes: {
     cadmium: {
         type: LaserBulletType
-        damage: 0
+        damage: 1
         hitSize: 4
         impact: true
         knockback: -5.0
     }
     steel: {
         type: BasicBulletType
-        damage: 0
+        damage: 1
         hitSize: 4
         impact: true
         knockback: -4.0
