@@ -29,10 +29,12 @@ ammoTypes: {
         trailLength: 20.0
         targetBlocks: true
         scaleLife: true
+        height: 40
+        width: 40
     }
 }
 targetAir: false
-targetGround: false
+targetGround: true
 shootSound: shootTitan
 shootSoundVolume: 2.0
 minWarmup: 2.0

@@ -11,7 +11,7 @@ requirements: [
 ]
 range: 200
 inaccuracy: 0
-reload: 5
+reload: 10
 ammoTypes: {
     cadmium: {
         type: LaserBulletType
