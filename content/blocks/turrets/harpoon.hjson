@@ -9,7 +9,7 @@ requirements: [
   gear/200
   engine/50
 ]
-range: 100
+range: 200
 inaccuracy: 0
 reload: 5
 ammoTypes: {
