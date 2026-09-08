@@ -1,7 +1,7 @@
 type: MendProjector
 size: 3
-localizedName: Shield Generator
-description: Creates a shielded area used for protecting your walls.
+localizedName: Mending Tower
+description: Repairs all things inside its radius.
 health: 200
 hasHeat: true
 heatRequirement: 5
