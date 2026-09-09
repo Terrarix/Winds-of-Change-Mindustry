@@ -1,0 +1,25 @@
+type: HeatCrafter
+size: 4
+localizedName: Electromagnetic Alloy Air Filter
+description: Filters air for nitrogen
+hasPower: true
+craftTime: 100
+hasHeat: true
+heatRequirement: 1
+outputLiquid: {
+  liquid: nitrogen
+  amount: 100
+}
+consumes: {
+  power: 20
+}
+requirements: [
+    electromagnetic-alloy/100
+    cryogenic-alloy/200
+    insulated-wire/50
+    battery/10
+    steel/100
+    gear/80
+    engine/4
+]
+category: production

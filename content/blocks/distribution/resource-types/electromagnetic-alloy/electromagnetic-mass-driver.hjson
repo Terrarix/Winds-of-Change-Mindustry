@@ -1,0 +1,24 @@
+type: MassDriver
+localizedName: Electromagnetic Mass Driver
+description: Accelerates payload at extremely high speeds to transport resources across long distances
+size: 1
+itemCapacity: 500
+reload: 500
+range: 200.0
+shake: 0.1
+shootSound: railShoot
+shootEffect: railShoot
+category: distribution
+bulletSpeed: 200.0
+rotateSpeed: 0.5
+consumes: {
+  power: 20.0
+}
+requirements: [
+  electromagnetic-alloy/1000
+  electric-alloy/200
+  gear/500
+  insulated-wire/200
+  engine/100
+]
+research: electromagnetic-alloy-duct

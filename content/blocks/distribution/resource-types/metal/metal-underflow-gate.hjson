@@ -1,0 +1,13 @@
+type: OverflowGate
+localizedName: Metal Underflow Gate
+description: An underflow gate.
+size: 1
+speed: 0.15
+itemCapacity: 4
+invert: true
+category: distribution
+conductivePower: true
+requirements: [
+  iron-plate/2
+]
+research: metal-overflow-gate

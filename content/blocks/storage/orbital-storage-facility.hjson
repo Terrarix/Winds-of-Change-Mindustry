@@ -1,0 +1,14 @@
+type: StorageBlock
+localizedName: Orbital Storage Facility
+description: A Massive storage block in space.
+size: 8
+category: effect
+itemCapacity: 2000000
+requirements: [
+    iridium/5000
+    steel/3000
+    teleportation-mechanism/300
+    engine/100
+    cadmium/8000
+]
+buildCostMultiplier: 0.6

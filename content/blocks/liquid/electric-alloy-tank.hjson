@@ -1,0 +1,17 @@
+type: Block
+localizedName: Electric Alloy Tank
+description: A powered liquid tank to store more liquid in less space.
+size: 3
+category: liquid
+requirements: [
+    electric-alloy/150
+    battery/10
+]
+consumes: {
+  power: 1.0
+}
+conductivePower: true
+tint: ffffff
+hasLiquids: true
+liquidCapacity: 2500
+research: electric-alloy-pipe

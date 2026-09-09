@@ -1,0 +1,17 @@
+type: DuctBridge
+localizedName: Long Electric Alloy Bridge
+description: A long bridge made of electric-alloy and engines for fast bridges and long distances.
+size: 1
+speed: 2.5
+itemCapacity: 3
+category: distribution
+range: 20
+consumes: {
+  power: 0.1
+}
+conductivePower: true
+requirements: [
+  electric-alloy/12
+  engine/4
+]
+research: metal-conveyor

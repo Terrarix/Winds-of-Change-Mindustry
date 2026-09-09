@@ -1,0 +1,11 @@
+type: ArmoredConduit
+localizedName: Metal Pipe
+description: A basic pipe.
+size: 1
+category: liquid
+bridgeReplacement: metal-liquid-bridge
+requirements: [
+    iron-plate/2
+]
+tint: ffffff
+timerFlow: 1

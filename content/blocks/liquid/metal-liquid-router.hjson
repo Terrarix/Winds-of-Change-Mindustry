@@ -1,0 +1,11 @@
+type: LiquidRouter
+name: Metal Liquid Router
+description: A liquid router made of metal.
+size: 1
+itemCapacity: 1
+category: liquid
+conductivePower: true
+requirements: [
+    iron-plate/8
+]
+research: metal-pipe

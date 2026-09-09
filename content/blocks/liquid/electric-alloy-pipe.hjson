@@ -1,0 +1,17 @@
+type: ArmoredConduit
+localizedName: Electric Alloy Pipe
+description: A much faster pipe that requires power.
+size: 1
+category: liquid
+bridgeReplacement: electric-alloy-liquid-bridge
+consumes: {
+  power: 0.01
+}
+conductivePower: true
+requirements: [
+    electric-alloy/2
+    engine/1
+    gear/1
+]
+tint: ffffff
+timerFlow: 0.1

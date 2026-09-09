@@ -1,0 +1,15 @@
+type: Conveyor
+localizedName: Solar Nickel Conveyor
+description: This nickel conveyor has inbuilt solar panels but moves slower as a result.
+size: 1
+speed: 0.0375
+displayedSpeed: 0.0375
+conductivePower: true
+itemCapacity: 3
+category: distribution
+requirements: [
+  nickel/10
+  battery/2
+  insulated-wire/4
+]
+research: nickel-conveyor

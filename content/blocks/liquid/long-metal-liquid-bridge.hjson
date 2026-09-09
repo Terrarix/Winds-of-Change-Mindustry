@@ -1,0 +1,13 @@
+type: DirectionLiquidBridge
+localizedName: Metal Liquid Bridge
+description: A long liquid bridge made of metal, has less throughput due to its length.
+size: 1
+category: liquid
+range: 12
+speed: 2.5
+requirements: [
+  iron-plate/10
+  gear/4
+  engine/1
+]
+research: metal-liquid-bridge

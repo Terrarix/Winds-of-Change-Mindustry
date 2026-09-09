@@ -1,6 +1,6 @@
 type: PowerSource
 size: 3
-name: Wind Turbine
+name: Large Wind Turbine
 description: A low power generator that uses wind. always works.
 hasPower: true
 powerProduction: 1.8

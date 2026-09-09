@@ -11,7 +11,7 @@ consumes: {
   power: 5000
   items: {
     items: [
-      magnetic-alloy/250
+      electric-alloy/250
       electric-alloy/600
       cryogenic-alloy/100
     ]

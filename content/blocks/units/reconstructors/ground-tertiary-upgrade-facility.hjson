@@ -1,5 +1,5 @@
 type: reconstructor
-size: 3
+size: 5
 health: 1000
 category: units
 name: Ground Tertiary Upgrade Facility
@@ -8,7 +8,6 @@ constructTime: 10800
 upgrades: [
     [snake, wyrm]
     [tundra, alpine]
-]
 ]
 consumes: {
     power: 1000

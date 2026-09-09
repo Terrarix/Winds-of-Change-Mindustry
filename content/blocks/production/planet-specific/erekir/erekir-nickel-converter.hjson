@@ -1,6 +1,6 @@
 type: GenericCrafter
 size: 2
-localizedName: Nickel Converter
+localizedName: Nickel Converter MK2
 description: Converts Beryllium and Gaphite into Nickel.
 hasPower: true
 craftTime: 200

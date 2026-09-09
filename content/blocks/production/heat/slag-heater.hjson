@@ -1,0 +1,21 @@
+type: HeatProducer
+size: 3
+localizedName: Slag Heater
+description: Turns slag into heat.
+hasPower: true
+craftTime: 50
+hasHeat: true
+heatOutput: 30
+consumes: {
+    liquids: [
+    slag/10
+  ]
+}
+requirements: [
+    steel/200
+    cadmium/300
+    engine/5
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.5

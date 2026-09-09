@@ -1,0 +1,15 @@
+type: DirectionalUnloader
+localizedName: Cadmium Unloader
+description: An unloader made out of cadmium
+size: 1
+speed: 8
+itemCapacity: 10
+category: distribution
+conductivePower: true
+requirements: [
+  cadmium/30
+  insulated-wire/2
+  gear/1
+]
+research: nickel-unloader
+allowCoreUnload: true

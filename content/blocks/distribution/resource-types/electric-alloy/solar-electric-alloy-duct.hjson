@@ -1,0 +1,14 @@
+type: Duct
+localizedName: Solar Electric Alloy Duct
+description: A duct that doesn't require energy but is half speed.
+size: 1
+speed: 2.5
+itemCapacity: 4
+category: distribution
+conductivePower: true
+requirements: [
+  electric-alloy/1
+  battery/2
+  insulated-wire/1
+]
+research: electric-alloy-duct

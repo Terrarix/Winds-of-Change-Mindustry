@@ -1,0 +1,18 @@
+type: DirectionLiquidBridge
+localizedName: Long Electric Alloy Liquid Bridge
+description: A much faster and longer bridge that requires power.
+size: 1
+category: liquid
+bridgeReplacement: metal-liquid-bridge
+range: 28
+consumes: {
+  power: 0.01
+}
+conductivePower: true
+requirements: [
+    electric-alloy/20
+    engine/5
+    gear/3
+]
+tint: ffffff
+speed: 5.0

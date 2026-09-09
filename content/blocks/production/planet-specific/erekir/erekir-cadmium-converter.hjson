@@ -1,0 +1,27 @@
+type: GenericCrafter
+size: 2
+localizedName: Cadmium Converter MK2
+description: Converts Thorium and Oxide into Cadmium.
+hasPower: true
+craftTime: 200
+research: erekir-interuniversary-accelerator
+outputItem: {
+  item: cadmium
+  amount: 5
+}
+consumes: {
+  power: 6
+  items: [
+    thorium/5
+    oxide/5    
+  ]
+}
+requirements: [
+  thorium/300
+  silicon/500
+  oxide/100
+  surge-alloy/200
+]
+category: crafting
+ambientSound: loopGrind
+ambientSoundVolume: 0.1

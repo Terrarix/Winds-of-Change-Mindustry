@@ -1,0 +1,14 @@
+type: DuctBridge
+localizedName: Electromagnetic Alloy Bridge
+description: A basic bridge made of electromagnetic alloy and engines for fast bridges and long distances.
+size: 1
+speed: 10.0
+itemCapacity: 3
+category: distribution
+range: 20
+conductivePower: true
+requirements: [
+  electromagnetic-alloy/5
+  engine/2
+]
+research: electric-alloy-duct

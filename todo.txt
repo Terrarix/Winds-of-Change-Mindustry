@@ -1,0 +1,46 @@
+DONE
+--------------------------------------------------
+[ ] Air Filters - Terrarix
+[ ] Shield generators - Terrarix
+[ ] Unloaders - Terrarix
+[ ] Conveyors - Terrarix
+[ ] EMDS - Terrarix
+[ ] Menders - Terrarix
+[ ] Fluid Piping - Terrarix
+[ ] Ice Drills - Terrarix
+[ ] Heat Prod - Terrarix
+[ ] Power Nodes - Terrarix
+
+INCOMPLETE
+--------------------------------------------------
+[ ] Mod Plan Slides Cleanup
+    - doesn't have to be now but would be really nice to have done.
+[ ] Factories
+    - Terrarix
+[ ] Heat Piping
+    - Java
+[ ] Turrets
+[ ] Power Prod
+    - fix solar panels
+[ ] Solar Heat Prod
+    - Java
+[ ] T1 Units
+    - Be nice to get this done soon
+[ ] T2 Units
+[ ] T3 Units
+[ ] T4 & T5
+    - This is not a topmost priority right now.
+[ ] Unit reconstructors
+    - consolidated down into 2 trees, ground and air (air todo) - AnomalousWyvern
+    - Also fix the coding errors with them first?
+[ ] Cryo Walls
+    - Java
+[ ] Solar Shields
+    - Java
+[ ] Cores
+    - Java
+[ ] Core Units
+[ ] FIX ALL CODING ERRORS
+    -Topmost pirority right now.
+[ ] Mass Drivers
+    - Java

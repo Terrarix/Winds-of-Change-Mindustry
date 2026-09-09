@@ -1,0 +1,14 @@
+type: DuctBridge
+localizedName: Massive Electric Alloy Bridge
+description: I don't know why you would ever need this but here you go.
+size: 1
+speed: 1.0
+itemCapacity: 3
+category: distribution
+range: 80
+conductivePower: true
+requirements: [
+  electric-alloy/100
+  engine/50
+]
+research: electric-alloy-bridge

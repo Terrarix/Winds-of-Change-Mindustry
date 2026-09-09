@@ -1,0 +1,21 @@
+type: Drill
+tier: 0.1
+size: 5
+localizedName: Large Ice Drill
+description: A slow large drill, used for drilling ice.
+warmupSpeed: 5.0
+drillTime: 100
+hasPower: true
+consumes: {
+  power: 10.0
+}
+requirements: [
+    cadmium/500
+    engine/10
+    battery/50
+    steel/800
+    electric-alloy/500
+]
+category: production
+rotateSpeed: 1.0
+tint: ffffff
