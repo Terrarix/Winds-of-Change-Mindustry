@@ -20,6 +20,7 @@ INCOMPLETE
 [ ] Heat Piping
     - Java
 [ ] Turrets
+[ ] Java Turrets
 [ ] Power Prod
     - fix solar panels
 [ ] Solar Heat Prod
