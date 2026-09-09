@@ -9,6 +9,7 @@ DONE
 [ ] Fluid Piping - Terrarix
 [ ] Ice Drills - Terrarix
 [ ] Heat Prod - Terrarix
+[ ] Power Nodes - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -20,7 +21,6 @@ INCOMPLETE
 [ ] Turrets
 [ ] Power Prod
     -fix solar panels
-[ ] Power Nodes
 [ ] Solar Heat Prod
 [ ] T1 Units
     -Be nice to get this done soon

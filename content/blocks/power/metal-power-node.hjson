@@ -1,0 +1,15 @@
+type: PowerNode
+size: 1
+name: Metal Power Node
+description: A basic power node with more range.
+hasPower: true
+requirements: [
+  iron-plate/5
+  insulated-wire/5
+]
+category: power
+laserRange: 8
+maxNodes: 999999999
+autolink: true
+laserScale: 0.1
+research: nickel-power-node

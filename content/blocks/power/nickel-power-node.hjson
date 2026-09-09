@@ -1,0 +1,13 @@
+type: PowerNode
+size: 1
+name: Nickel Power Node
+description: A basic power node.
+hasPower: true
+requirements: [
+  nickel/5
+]
+category: power
+laserRange: 5
+maxNodes: 999999999
+autolink: true
+laserScale: 0.1

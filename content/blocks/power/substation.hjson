@@ -1,0 +1,16 @@
+type: PowerNode
+size: 2
+name: Substation
+description: A power node with a large area that it can power.
+hasPower: true
+requirements: [
+    steel/100
+    gear/20
+    insulated-wire/50
+    electric-alloy/100
+]
+category: power
+laserRange: 20
+maxNodes: 999999999
+autolink: true
+laserScale: 0.1
