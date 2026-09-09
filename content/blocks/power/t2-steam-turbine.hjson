@@ -1,0 +1,20 @@
+type: ConsumeGenerator
+size: 4
+name: T2 Steam Turbine
+description: Utilizes steam more efficiently to turn turbines generating power.
+hasPower: true
+powerProduction: 6
+requirements: [
+  iron-plate/200
+  gear/20
+  engine/1
+  insulated-wire/50
+  steel/100
+]
+category: power
+itemDuration: 30
+consumes: {
+    liquids: [
+        steam/8
+    ]
+}

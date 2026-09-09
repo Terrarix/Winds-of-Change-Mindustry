@@ -1,0 +1,16 @@
+type: ConsumeGenerator
+size: 3
+name: Steam Turbine
+description: Utilizes steam to turn turbines generating power.
+hasPower: true
+powerProduction: 2.5
+requirements: [
+  nickel/200
+]
+category: power
+itemDuration: 60
+consumes: {
+    liquids: [
+        steam/5
+    ]
+}
