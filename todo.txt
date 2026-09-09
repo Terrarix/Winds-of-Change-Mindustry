@@ -8,6 +8,7 @@ DONE
 [ ] Menders - Terrarix
 [ ] Fluid Piping - Terrarix
 [ ] Ice Drills - Terrarix
+[ ] Heat Prod - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -18,8 +19,9 @@ INCOMPLETE
 [ ] Heat Piping
 [ ] Turrets
 [ ] Power Prod
+    -fix solar panels
 [ ] Power Nodes
-[ ] Heat Prod
+[ ] Solar Heat Prod
 [ ] T1 Units
     -Be nice to get this done soon
 [ ] T2 Units
@@ -39,3 +41,4 @@ INCOMPLETE
 [ ] FIX ALL CODING ERRORS
     -Topmost pirority right now.
 [ ] Mass Drivers
+    -Java
