@@ -1,0 +1,22 @@
+type: HeatProducer
+size: 6
+localizedName: Large Slag Heater
+description: Turns large amounts slag into heat.
+hasPower: true
+craftTime: 25
+hasHeat: true
+heatOutput: 60
+consumes: {
+    liquids: [
+    slag/50
+  ]
+}
+requirements: [
+    steel/500
+    cadmium/800
+    engine/20
+    electromagnetic-alloy/500
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.5

@@ -1,0 +1,27 @@
+type: HeatCrafter
+size: 3
+localizedName: Reassembler
+description: Turns nickel into slag but superheating water
+hasPower: true
+craftTime: 100
+hasHeat: true
+heatRequirement: 10
+outputLiquid: {
+  liquid: slag
+  amount: 20
+}
+consumes: {
+  power: 6
+  items: [
+    nickel/40
+  ]
+}
+requirements: [
+  nickel/600
+  steel/100
+  engine/50
+  cadmium/500
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.2

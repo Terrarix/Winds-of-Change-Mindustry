@@ -2,7 +2,7 @@ type: Drill
 tier: 0.1
 size: 3
 localizedName: Ice Drill
-description: A fast drill, made of cadmium.
+description: A slow drill, used for drilling ice.
 warmupSpeed: 20.0
 drillTime: 2000
 hasPower: true
