@@ -1,0 +1,7 @@
+type: liquid
+localizedName: Fusion
+description: Nuclear elements combined together.
+barColor: 390D42
+color: 310C38
+gas: true
+temperature: 1
