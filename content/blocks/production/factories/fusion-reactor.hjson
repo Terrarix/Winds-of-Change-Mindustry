@@ -1,9 +1,9 @@
 type: HeatCrafter
 size: 10
-localizedName: Synthetic Insulation Factory
-description: A factory that takes in steam and nickel and produces synthetic rubber.
+localizedName: Fusion Reactor
+description: A supermassive reactor used for making fusion to make insane amounts of power with fusion turbines
 hasPower: true
-craftTime: 300
+craftTime: 50
 hasLiquids: true
 hasHeat: true
 heatRequirement: 30

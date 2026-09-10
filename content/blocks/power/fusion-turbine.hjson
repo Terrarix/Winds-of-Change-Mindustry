@@ -1,0 +1,20 @@
+type: ConsumeGenerator
+size: 6
+name: Fusion Turbine
+description: Generates insane amount of power utilizing fusion power.
+hasPower: true
+powerProduction: 20
+requirements: [
+  iron-plate/200
+  gear/20
+  engine/1
+  insulated-wire/50
+  steel/100
+]
+category: power
+itemDuration: 2
+consumes: {
+    liquids: [
+        fusion/1
+    ]
+}
