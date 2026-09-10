@@ -1,6 +1,6 @@
 type: Wall
 name: Nuke
-description: oh lord. Plead mercy. Forgive me for my sins. Allow me to Repent.
+description: Oh lord. Plead mercy. Forgive me for my sins. Allow me to Repent.
 buildVisibility: sandboxOnly
 category: effect
 health: 0

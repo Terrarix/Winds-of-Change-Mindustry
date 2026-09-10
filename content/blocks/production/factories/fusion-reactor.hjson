@@ -1,0 +1,35 @@
+type: HeatCrafter
+size: 10
+localizedName: Synthetic Insulation Factory
+description: A factory that takes in steam and nickel and produces synthetic rubber.
+hasPower: true
+craftTime: 300
+hasLiquids: true
+hasHeat: true
+heatRequirement: 30
+outputLiquid: {
+  liquid: fusion
+  amount: 50
+}
+consumes: {
+  power: 10
+  liquids: [
+    water/20
+    liquid-nitrogen/20
+    antifreeze/20
+  ]
+  items: [
+    iridium/500
+  ]
+}
+requirements: [
+  iridium/10000
+  steel/6000
+  engine/200
+  battery/800
+  gear/600
+  electromagnetic-alloy/750
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
