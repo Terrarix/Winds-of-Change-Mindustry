@@ -4,6 +4,8 @@ health: 18000
 description: The biggest ship, contains various small weapons to destroy small enemies nearby it, except for the warhead contained on the ship.
 outlineColor: 6e3282
 itemCapacity: 300
+rotateSpeed: 1.0
+speed: 4
 destroyBullet: {
   instantDisappear: true
   damage: 0
@@ -23,8 +25,15 @@ weapons: [
         type: BulletType
         spawnUnit: garnet-missile
     }
-    outlineColor: 357278
     reload: 1800
+    }
+    {
+    bullet: {
+        type: ContinuousLaserBulletType
+        laserBullet: true
+        damage: 10
+        length: 90
+    }
     }
 ]
 abilities: [
@@ -34,5 +43,15 @@ abilities: [
         cooldown: 100
         regen: 0.5
         radius: 32
+        breakSound: unitShieldBreak
+    }
+    {
+        type: ShieldArcAbility
+        max: 50.0
+        radius: 40
+        y: 40
+        chanceDeflect: 100
+        whenShooting: false
+        breakSound: arcShieldBreak
     }
 ]
