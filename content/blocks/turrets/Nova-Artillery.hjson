@@ -15,7 +15,6 @@ range: 300
 inaccuracy: 0
 reload: 300
 ammoPerShot: 50
-maxAmmo: 100
 ammoTypes: {
     iridium: {
         type: ArtilleryBulletType
@@ -36,10 +35,10 @@ ammoTypes: {
 targetAir: false
 targetGround: true
 shootSound: shootTitan
-shootSoundVolume: 2.0
+shootSoundVolume: 4.0
 minWarmup: 2.0
 recoil: 3.0
-shake: 3.0
+shake: 8.0
 warmupMaintainTime: 1.0
 width: 10.0
 height: 14.0

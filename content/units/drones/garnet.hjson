@@ -1,12 +1,12 @@
 type: flying
 name: Garnet
 health: 18000
-description: A ship of massive size. A scary behemoth with immense firepower and weapons.
+description: The biggest ship, contains various small weapons to destroy small enemies nearby it, except for the warhead contained on the ship.
 outlineColor: 6e3282
 abilities: [
     {
         type: ForceFieldAbility
-        max: 150
+        max: 1500
         cooldown: 100
         regen: 0.5
         radius: 32

@@ -73,6 +73,6 @@ abilities: [
         max: 150
         cooldown: 100
         regen: 0.5
-        radius: 32
+        radius: 10
     }
 ]

@@ -6,7 +6,7 @@ outlineColor: 6e3282
 abilities: [
     {
         type: ForceFieldAbility
-        max: 150
+        max: 1000
         cooldown: 100
         regen: 0.5
         radius: 32
