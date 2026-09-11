@@ -3,6 +3,70 @@ name: Amethyst
 health: 300
 description: Used as an interceptor that was fast, powerful, and easy to make loads of.
 outlineColor: 6e3282
+speed: 14
+canMine: true
+mineTier: 1
+mineSpeed: 1.5
+minerange: 20
+rotateToBuilding: true
+drillPower: -1
+itemCapacity: 10
+turnCursor: true
+drawItems: true
+weapons: [
+    {
+    bullet: {
+        type: missileBulletType
+        lifetime: 90
+        speed: 3
+        damage: 400
+        hitSize: 6
+        splashDamage: 200
+        splashDamageRadius: 15
+    }
+    outlineColor: 357278
+    reload: 600
+    }
+    {
+    bullet: {
+        type: missileBulletType
+        lifetime: 30
+        speed: 6
+        damage: 30
+        hitSize: 6
+        splashDamage: 15
+        splashDamageRadius: 3
+        homingPower: 0.15
+    }
+    shoot: {
+        shots: 3
+        shotDelay: 0
+        inaccuracy: 2
+    }
+    outlineColor: 357278
+    reload: 60
+    }
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 15
+        damage: 10
+        hitSize: 6
+        pierce: true
+        pierceCap: 2
+        splashDamage: 2
+        splashDamageRadius: 10
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 0
+        inaccuracy: 2
+    }
+    outlineColor: 357278
+    reload: 20
+    }
+]
 abilities: [
     {
         type: ForceFieldAbility

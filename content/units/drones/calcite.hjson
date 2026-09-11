@@ -25,7 +25,7 @@ weapons: [
         splashDamageRadius: 5
         homingPower: 0.15
     }
-        shoot: {
+    shoot: {
         shots: 4
         shotDelay: 0
         inaccuracy: 2
@@ -55,7 +55,7 @@ weapons: [
 abilities: [
     {
         type: ForceFieldAbility
-        max: 150
+        max: 50
         cooldown: 100
         regen: 0.5
         radius: 32
