@@ -22,3 +22,13 @@ destroyBullet: {
     splashDamagePierce: true
   }
 }
+weapons: [
+    {
+    bullet: {
+        type: BasicBulletType
+        instantDisappear: true
+        killShooter: true
+    }
+    }
+]
+autoDropBombs: true
