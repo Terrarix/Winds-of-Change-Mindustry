@@ -1,4 +1,4 @@
-type: MissileUnitType
+type: flying
 name: Garnet-Missile
 health: 4000
 description: Warhead for the garnet
