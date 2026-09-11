@@ -4,6 +4,19 @@ health: 18000
 description: The biggest ship, contains various small weapons to destroy small enemies nearby it, except for the warhead contained on the ship.
 outlineColor: 6e3282
 itemCapacity: 300
+destroyBullet: {
+  instantDisappear: true
+  damage: 0
+  despawnEffect: {
+    type: ExplosionEffect
+    waveRad: 25
+    waveLife: 20.0
+    scaledSplashDamage: true
+    splashDamage: 40000
+    splashDamageRadius: 50
+    splashDamagePierce: true
+  }
+}
 weapons: [
     {
     bullet: {
