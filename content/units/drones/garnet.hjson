@@ -37,7 +37,7 @@ weapons: [
         pierce: true
     }
     shoot: {
-        shots: 2
+        shots: 1
         shotDelay: 0
         inaccuracy: 0
     }
@@ -73,7 +73,7 @@ weapons: [
         inaccuracy: 0
     }
     outlineColor: 357278
-    reload: 5
+    reload: 20
     }
 ]
 abilities: [
