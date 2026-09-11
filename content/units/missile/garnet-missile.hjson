@@ -9,22 +9,6 @@ accel: 0.1
 missileAccelTime: 0.1
 flying: true
 omniMovement: false
-alwaysShootWhenMoving: true
-weapons: [
-    {
-    bullet: {
-        type: LaserBulletType
-        damage: 0
-    }
-    shoot: {
-        shots: 4
-        shotDelay: 0
-        inaccuracy: 360
-    }
-    outlineColor: 357278
-    reload: 2
-    }
-]
 destroyBullet: {
   instantDisappear: true
   damage: 0
