@@ -29,6 +29,7 @@ weapons: [
         instantDisappear: true
         killShooter: true
     }
+    reload: 0
     }
 ]
 autoDropBombs: true
