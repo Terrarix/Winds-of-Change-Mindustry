@@ -10,7 +10,7 @@ mineSpeed: 1.5
 minerange: 20
 rotateToBuilding: true
 drillPower: -1
-itemCapacity: 10
+itemCapacity: 150
 turnCursor: true
 drawItems: true
 weapons: [
@@ -23,6 +23,8 @@ weapons: [
         hitSize: 6
         splashDamage: 200
         splashDamageRadius: 15
+        width: 6
+        height: 6
     }
     outlineColor: 357278
     reload: 600

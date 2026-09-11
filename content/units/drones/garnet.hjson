@@ -3,6 +3,7 @@ name: Garnet
 health: 18000
 description: The biggest ship, contains various small weapons to destroy small enemies nearby it, except for the warhead contained on the ship.
 outlineColor: 6e3282
+itemCapacity: 300
 abilities: [
     {
         type: ForceFieldAbility

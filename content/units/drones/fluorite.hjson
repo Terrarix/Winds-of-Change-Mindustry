@@ -3,6 +3,87 @@ name: fluorite
 health: 5000
 description: A massive hovering airship that can be used to instill fear upon your enemies, shreads through enemy units but has little health.
 outlineColor: 6e3282
+speed: 6
+itemCapacity: 300
+weapons: [
+    {
+    bullet: {
+        type: missileBulletType
+        lifetime: 50
+        speed: 10
+        damage: 2000
+        hitSize: 6
+        splashDamage: 15
+        splashDamageRadius: 5
+        width: 10
+        height: 10
+        spawnBullets: {
+            type: ExplosionBulletType
+            fragSpread: 45.0
+            fragBullets: 4
+            fragBullet: {
+                type: missileBulletType
+                lifetime: 50
+                speed: 10
+                damage: 100
+                hitSize: 6
+                homingPower: 0.8
+                homingRange: 100.0
+                homingDelay: 5.0
+            }
+        }
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 0
+        inaccuracy: 2
+    }
+    outlineColor: 357278
+    reload: 600
+    }
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 10
+        damage: 50
+        hitSize: 6
+        pierce: true
+        pierceCap: 8
+        fragRandomSpread: 0
+        fragSpread: 5.0
+        fragBullets: 6
+        pierceFragCap: 8
+        fragBullet: {
+            type: BasicBulletType
+            lifetime: 4
+            speed: 10
+            damage: 10
+            hitSize: 6
+            pierce: true
+            pierceCap: 8
+            fragRandomSpread: 0
+            fragSpread: 5.0
+            fragBullets: 3
+            pierceFragCap: 1
+            fragBullet: {
+            type: BasicBulletType
+                lifetime: 4
+                speed: 10
+                damage: 5
+                hitSize: 2
+            }
+        }
+    }
+    shoot: {
+        shots: 4
+        shotDelay: 0
+        inaccuracy: 2
+    }
+    outlineColor: 357278
+    reload: 5
+    }
+]
 abilities: [
     {
         type: ForceFieldAbility
