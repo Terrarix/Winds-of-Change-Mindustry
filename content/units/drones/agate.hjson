@@ -22,7 +22,7 @@ weapons: [
         damage: 15
         hitSize: 6
         splashDamage: 15
-        splashDamageRadius: 155
+        splashDamageRadius: 15
     }
     shoot: {
         shots: 2
