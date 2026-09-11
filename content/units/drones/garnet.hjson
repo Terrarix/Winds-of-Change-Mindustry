@@ -29,11 +29,51 @@ weapons: [
     }
     {
     bullet: {
-        type: ContinuousLaserBulletType
-        laserBullet: true
-        damage: 10
-        length: 90
+        type: BasicBulletType
+        lifetime: 40
+        speed: 8
+        damage: 100
+        hitSize: 6
+        pierce: true
     }
+    shoot: {
+        shots: 2
+        shotDelay: 0
+        inaccuracy: 0
+    }
+    outlineColor: 357278
+    reload: 5
+    }
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 40
+        speed: 12
+        damage: 50
+        hitSize: 6
+        fragBullets: 8
+        fragBullet: {
+            type: BasicBulletType
+            lifetime: 5
+            speed: 12
+            damage: 25
+            hitSize: 6
+            fragBullets: 4
+            fragBullet: {
+                type: BasicBulletType
+                lifetime: 2.5
+                speed: 24
+                damage: 10
+            }
+        }
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 0
+        inaccuracy: 0
+    }
+    outlineColor: 357278
+    reload: 5
     }
 ]
 abilities: [
@@ -44,14 +84,5 @@ abilities: [
         regen: 0.5
         radius: 32
         breakSound: unitShieldBreak
-    }
-    {
-        type: ShieldArcAbility
-        max: 50.0
-        radius: 40
-        y: 40
-        chanceDeflect: 100
-        whenShooting: false
-        breakSound: arcShieldBreak
     }
 ]
