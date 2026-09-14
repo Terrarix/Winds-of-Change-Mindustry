@@ -1,11 +1,15 @@
 type: ItemTurret
-size: 2
+size: 5
 hasItems: true
 category: turret
 localizedName: Railgun
 description: An extremely powerful weapon capable of shredding through basically anything with ease.
 requirements: [
-  nickel/150
+  electromagnetic-alloy/150
+  magnetic-alloy/200
+  steel/500
+  engine/50
+  battery/50
 ]
 range: 200
 inaccuracy: 2
