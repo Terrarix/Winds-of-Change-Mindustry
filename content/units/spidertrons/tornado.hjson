@@ -8,14 +8,14 @@ weapons: [
     {
     bullet: {
         type: BasicBulletType
-        lifetime: 50
+        lifetime: 20
         speed: 6
         damage: 1
         pierce: true
         pierceCap: 100
     }
     shoot: {
-        shots: 1
+        shots: 2
         shotDelay: 5
         inaccuracy: 8
     }

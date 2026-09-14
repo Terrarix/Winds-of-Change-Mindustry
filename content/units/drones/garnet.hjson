@@ -82,7 +82,7 @@ abilities: [
         max: 1500
         cooldown: 100
         regen: 0.5
-        radius: 32
+        radius: 64
         breakSound: unitShieldBreak
     }
 ]

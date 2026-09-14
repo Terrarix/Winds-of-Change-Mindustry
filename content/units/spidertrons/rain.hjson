@@ -1,0 +1,44 @@
+type: mech
+localizedName: Rain
+description: Double the weapons double the power.
+health: 600
+outlineColor: 6e3282
+speed: 4
+weapons: [
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 6
+        damage: 2
+        pierce: true
+        pierceCap: 100
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 5
+        inaccuracy: 8
+    }
+    outlineColor: 357278
+    reload: 1
+    x: 0
+    }
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 6
+        damage: 2
+        pierce: true
+        pierceCap: 100
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 5
+        inaccuracy: 8
+    }
+    outlineColor: 357278
+    reload: 1
+    x: 10
+    }
+]
