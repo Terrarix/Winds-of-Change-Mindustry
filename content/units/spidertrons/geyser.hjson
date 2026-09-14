@@ -1,0 +1,75 @@
+type: mech
+localizedName: Geyser
+description: Comes equiped with two rapid fire weapons and a large rocket launcher.
+health: 600
+outlineColor: 6e3282
+speed: 4
+weapons: [
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 6
+        damage: 2
+        pierce: true
+        pierceCap: 100
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 5
+        inaccuracy: 8
+    }
+    outlineColor: 357278
+    reload: 1
+    x: 0
+    }
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 6
+        damage: 2
+        pierce: true
+        pierceCap: 100
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 5
+        inaccuracy: 8
+    }
+    outlineColor: 357278
+    reload: 1
+    x: 10
+    }
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 6
+        damage: 2
+        pierce: true
+        pierceCap: 100
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 5
+        inaccuracy: 8
+    }
+    outlineColor: 357278
+    reload: 1
+    y: 0
+    }
+    {
+    bullet: {
+        type: MissileBulletType
+        lifetime: 100
+        speed: 3
+        damage: 100
+        homingPower: 0.2
+        homingDelay: 10
+    }
+    outlineColor: 357278
+    reload: 40
+    y: -3
+    }
+]
