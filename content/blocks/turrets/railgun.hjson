@@ -1,0 +1,33 @@
+type: ItemTurret
+size: 2
+hasItems: true
+category: turret
+localizedName: Railgun
+description: An extremely powerful weapon capable of shredding through basically anything with ease.
+requirements: [
+  nickel/150
+]
+range: 200
+inaccuracy: 2
+reload: 200
+ammoTypes: {
+    magnetic-alloy: {
+        type: RailBulletType
+        damage: 5000
+        hitSize: 4
+        pierce: true
+        speed: 10
+        lifetime: 20
+        length: 200
+        shootEffect: titanSmokeLarge
+    }
+}
+drawMinRange: true
+minRange: 25.0
+range: 200.0
+minWarmup: 5.0
+shootCone: 4.0
+warmupMaintainTime: 20
+shake: 2.0
+rotateSpeed: 0.2
+shootSound: railShoot
