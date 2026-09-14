@@ -9,6 +9,7 @@ accel: 0.1
 missileAccelTime: 0.1
 flying: true
 omniMovement: false
+homingDelay: 0.0
 destroyBullet: {
   instantDisappear: true
   damage: 0
