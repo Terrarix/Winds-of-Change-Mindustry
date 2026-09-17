@@ -32,5 +32,23 @@ weapons: [
     }
     reload: 0
     }
+    {
+    bullet: {
+      type: BasicBulletType
+      instantDisappear: true
+      damage: 0
+      despawnEffect: {
+        type: ExplosionEffect
+        waveRad: 25
+        waveLife: 20.0
+      }
+      scaledSplashDamage: true
+      splashDamage: 40000
+      splashDamageRadius: 50
+      splashDamagePierce: true
+    }
+    noAttack: true
+    shootOnDeath: true
+    }
 ]
 autoDropBombs: true
