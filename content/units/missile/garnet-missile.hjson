@@ -49,6 +49,9 @@ weapons: [
     }
     noAttack: true
     shootOnDeath: true
+    display: false
+    controllable: false
+    aiControllable: false
     }
 ]
 autoDropBombs: true
