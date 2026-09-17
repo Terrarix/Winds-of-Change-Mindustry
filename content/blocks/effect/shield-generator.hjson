@@ -1,9 +1,12 @@
-type: BaseShield
+type: ForceProjector
 size: 4
 localizedName: Shield Generator
 description: Creates a shielded area used for protecting your walls.
 radius: 150
-health: 500
+health: 50
+shieldHealth: 250
+cooldownNormal: 2.0
+shieldRotation: 45.0
 sides: 4
 hasHeat: true
 heatRequirement: 10

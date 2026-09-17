@@ -3,7 +3,7 @@ size: 4
 localizedName: Shield Generator
 description: Creates a shielded area used for protecting your walls.
 radius: 300
-health: 50
+health: 75
 shieldHealth: 500
 cooldownNormal: 3.0
 shieldRotation: 45.0
