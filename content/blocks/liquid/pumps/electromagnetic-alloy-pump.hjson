@@ -1,1 +1,13 @@
-//wip
+type: Pump
+localizedName: Electromagnetic Alloy Pump
+description: Pumps liquids out of the ground.
+size: 4
+health: 50
+category: liquid
+requirements: [
+    electromagnetic-alloy/250
+    engine/40
+    steel/200
+    battery/50
+]
+pumpAmount: 4.0

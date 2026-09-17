@@ -1,1 +1,10 @@
-//wip
+type: Pump
+localizedName: Metal Pump
+description: Pumps liquids out of the ground.
+size: 3
+health: 50
+category: liquid
+requirements: [
+    iron-plate/100
+]
+pumpAmount: 1.5

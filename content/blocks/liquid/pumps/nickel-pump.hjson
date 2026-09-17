@@ -1,1 +1,10 @@
-//wip
+type: Pump
+localizedName: Nickel Pump
+description: Pumps liquids out of the ground.
+size: 2
+health: 50
+category: liquid
+pumpAmount: 1.0
+requirements: [
+    nickel/100
+]

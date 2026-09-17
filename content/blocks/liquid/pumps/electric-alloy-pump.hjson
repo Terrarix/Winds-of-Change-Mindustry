@@ -1,1 +1,12 @@
-//wip
+type: Pump
+localizedName: Electric Alloy Pump
+description: Pumps liquids out of the ground.
+size: 3
+health: 50
+category: liquid
+requirements: [
+    electric-alloy/200
+    engine/15
+    steel/100
+]
+pumpAmount: 2.5
