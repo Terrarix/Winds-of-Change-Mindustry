@@ -10,7 +10,7 @@ requirements: [
   insulated-wire/10
   gear/50
 ]
-range: 300
+range: 120
 inaccuracy: 5
 reload: 120
 ammoTypes: {

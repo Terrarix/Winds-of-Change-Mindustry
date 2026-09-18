@@ -1,0 +1,31 @@
+type: ItemTurret
+size: 4
+hasItems: true
+category: turret
+localizedName: Snowstorm
+description: Fires a lot of large snowballs at the enemy (stresses the power network, make sure to have power storage somewhere.)
+requirements: [
+  engine/30
+  iron-plate/100
+  insulated-wire/10
+  steel/500
+  gear/50
+  electric-alloy/800
+]
+range: 300
+inaccuracy: 20
+reload: 10
+consumes: {
+    power: 50
+}
+ammoTypes: {
+    cadmium: {
+        type: BasicBulletType
+        lifetime: 100
+        speed: 3
+        damage: 140
+        hitSize: 6
+        height: 30
+        width: 30
+    }
+}
