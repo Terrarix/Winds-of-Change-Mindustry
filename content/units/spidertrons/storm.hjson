@@ -40,5 +40,7 @@ weapons: [
     }
     outlineColor: 357278
     reload: 200
+    y: -3
+    x: 0
     }
 ]
