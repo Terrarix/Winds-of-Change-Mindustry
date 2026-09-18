@@ -6,7 +6,7 @@ localizedName: Railgun
 description: An extremely powerful weapon capable of shredding through basically anything with ease.
 requirements: [
   electromagnetic-alloy/150
-  magnetic-alloy/200
+  electric-alloy/200
   steel/500
   engine/50
   battery/50
