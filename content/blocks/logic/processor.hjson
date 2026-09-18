@@ -1,0 +1,9 @@
+type: LogicBlock
+name: Processor
+description: Runs MLOG programming.
+size: 2
+category: logic
+requirements: [
+    iron-plate/100
+]
+maxInstructionScale: 30

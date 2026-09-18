@@ -1,0 +1,15 @@
+type: LogicBlock
+name: Accelerated Processor
+description: Runs MLOG code with greater efficiency and range.
+size: 2
+category: logic
+requirements: [
+    electric-alloy/100
+    battery/50
+    insulated-wire/20
+    engine/20
+]
+maxInstructionScale: 100
+range: 200.0
+maxInstructionsPerTick: 200.0
+instructionsPerTick: 30.0
