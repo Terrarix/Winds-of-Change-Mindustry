@@ -1,0 +1,17 @@
+type: LogicBlock
+name: Orbital Control Unit
+description: Runs MLOG code with infinite range and efficiency.
+size: 5
+category: logic
+requirements: [
+    steel/1000
+    iridium/2000
+    electromagnetic-alloy/800
+    battery/100
+    insulated-wire/100
+    engine/100
+]
+maxInstructionScale: 10000
+range: 10000
+maxInstructionsPerTick: 10000
+instructionsPerTick: 10000
