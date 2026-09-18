@@ -42,5 +42,6 @@ weapons: [
     reload: 200
     y: -3
     x: 0
+    mirror: false
     }
 ]
