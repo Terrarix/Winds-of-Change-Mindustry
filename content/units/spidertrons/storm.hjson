@@ -1,13 +1,13 @@
 type: mech
-localizedName: Rain
-description: Double the weapons double the power.
-health: 600
+localizedName: Storm
+description: A large spider unit that deals insane damage but struggles with enemys around it.
+health: 200
 outlineColor: 6e3282
-speed: 4
+speed: 3
+allowLegStep: true
 legCount: 6
 legGroupSize: 3
 legLength: 10.0
-allowLegStep: true
 legPairOffset: 0.5
 weapons: [
     {
@@ -15,7 +15,7 @@ weapons: [
         type: BasicBulletType
         lifetime: 20
         speed: 6
-        damage: 2
+        damage: 5
         pierce: true
         pierceCap: 100
     }
@@ -26,24 +26,19 @@ weapons: [
     }
     outlineColor: 357278
     reload: 1
-    x: 0
     }
     {
     bullet: {
-        type: BasicBulletType
-        lifetime: 20
-        speed: 6
-        damage: 2
+        type: RailBulletType
+        damage: 5000
+        hitSize: 4
         pierce: true
-        pierceCap: 100
-    }
-    shoot: {
-        shots: 2
-        shotDelay: 5
-        inaccuracy: 8
+        speed: 10
+        lifetime: 20
+        length: 200
+        shootEffect: titanSmokeLarge
     }
     outlineColor: 357278
-    reload: 1
-    x: 10
+    reload: 200
     }
 ]

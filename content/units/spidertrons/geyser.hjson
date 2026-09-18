@@ -4,6 +4,11 @@ description: Comes equiped with two rapid fire weapons and a large rocket launch
 health: 600
 outlineColor: 6e3282
 speed: 4
+legCount: 6
+legGroupSize: 3
+legLength: 15.0
+allowLegStep: true
+legPairOffset: 0.5
 weapons: [
     {
     bullet: {

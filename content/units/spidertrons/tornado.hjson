@@ -4,6 +4,10 @@ description: A small spider inspired mech unit that circles whatever it is attac
 health: 200
 outlineColor: 6e3282
 speed: 3
+allowLegStep: true
+legCount: 2
+legLength: 10.0
+legPairOffset: 0.5
 weapons: [
     {
     bullet: {
