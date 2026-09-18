@@ -10,8 +10,7 @@ requirements: [
   gear/150
   engine/20
 ]
-range: 500
-inaccuracy: 10
+range: 200
 reload: 70
 shoot: {
     shots: 12
@@ -23,10 +22,12 @@ consumes: {
 }
 shootType: {
     type: BasicBulletType
-    lifetime: 83
-    speed: 6
+    lifetime: 25
+    speed: 8
     damage: 15
     hitSize: 4
     width: 10
     height: 10
+    impact: true
+    knockback: 0.2
 }
