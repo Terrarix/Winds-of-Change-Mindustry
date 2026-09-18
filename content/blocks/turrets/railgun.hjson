@@ -26,6 +26,9 @@ ammoTypes: {
         shootEffect: titanSmokeLarge
     }
 }
+consumes: {
+    power: 50
+}
 drawMinRange: true
 minRange: 25.0
 range: 200.0
