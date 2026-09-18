@@ -1,0 +1,40 @@
+type: ItemTurret
+size: 4
+hasItems: true
+category: turret
+localizedName: Fragmentation Cannon
+description: Fires a large round that splits into a bunch of smaller rounds good for single target and multi target.
+requirements: [
+  engine/80
+  iron-plate/500
+  insulated-wire/30
+  gear/100
+  steel/300
+  electric-alloy/200
+]
+range: 320
+inaccuracy: 5
+reload: 200
+ammoTypes: {
+    steel: {
+        type: BasicBulletType
+        lifetime: 40
+        speed: 8
+        damage: 1500
+        hitSize: 6
+        height: 10
+        width: 5
+        fragBullets: 12
+        pierce: true
+        trailRotation: true
+        trailLength: 2.0
+        fragBullet: {
+            type: BasicBulletType
+            lifetime: 10
+            speed: 8
+            damage: 50
+            hitSize: 6
+            pierce: true
+        }
+    }
+}
