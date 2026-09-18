@@ -15,7 +15,7 @@ range: 200
 inaccuracy: 2
 reload: 200
 ammoTypes: {
-    magnetic-alloy: {
+    electromagnetic-alloy: {
         type: RailBulletType
         damage: 5000
         hitSize: 4
