@@ -13,8 +13,8 @@ requirements: [
   electric-alloy/200
 ]
 range: 320
-inaccuracy: 5
-reload: 200
+inaccuracy: 2
+reload: 100
 ammoTypes: {
     steel: {
         type: BasicBulletType
