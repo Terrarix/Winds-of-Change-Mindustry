@@ -1,5 +1,5 @@
 type: ItemTurret
-size: 4
+size: 3
 hasItems: true
 category: turret
 localizedName: Fragmentation Cannon
