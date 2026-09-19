@@ -2,7 +2,7 @@ type: ItemTurret
 size: 4
 hasItems: true
 category: turret
-localizedName: Froistbite
+localizedName: Frostbite
 description: Fires a large round that splits into a bunch of smaller rounds good for single target and multi target.
 requirements: [
   engine/80
