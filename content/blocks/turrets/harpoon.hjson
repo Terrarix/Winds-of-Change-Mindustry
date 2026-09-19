@@ -12,6 +12,6 @@ requirements: [
 range: 200
 inaccuracy: 0
 reload: 10
-force: 0.6
+force: 20.0
 targetGround: true
 shootLength: 30.0
