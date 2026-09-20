@@ -26,6 +26,7 @@ weapons: [
     }
     outlineColor: 357278
     reload: 4
+    mirror: false
     }
     {
     bullet: {

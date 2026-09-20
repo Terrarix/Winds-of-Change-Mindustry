@@ -31,5 +31,6 @@ weapons: [
     }
     outlineColor: 357278
     reload: 30
+    mirror: false
     }
 ]

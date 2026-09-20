@@ -26,6 +26,7 @@ weapons: [
         spawnUnit: garnet-missile
     }
     reload: 1800
+    mirror: false
     }
     {
     bullet: {
@@ -43,6 +44,7 @@ weapons: [
     }
     outlineColor: 357278
     reload: 5
+    mirror: false
     }
     {
     bullet: {
@@ -74,6 +76,7 @@ weapons: [
     }
     outlineColor: 357278
     reload: 20
+    mirror: false
     }
 ]
 abilities: [

@@ -27,6 +27,7 @@ weapons: [
     outlineColor: 357278
     reload: 4
     x: 0
+    mirror: false
     }
     {
     bullet: {
@@ -45,6 +46,7 @@ weapons: [
     outlineColor: 357278
     reload: 4
     x: 10
+    mirror: false
     }
     {
     bullet: {
@@ -63,6 +65,7 @@ weapons: [
     outlineColor: 357278
     reload: 4
     y: 0
+    mirror: false
     }
     {
     bullet: {
@@ -76,5 +79,6 @@ weapons: [
     outlineColor: 357278
     reload: 40
     y: -3
+    mirror: false
     }
 ]

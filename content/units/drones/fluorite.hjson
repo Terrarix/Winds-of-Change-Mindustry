@@ -40,6 +40,7 @@ weapons: [
     }
     outlineColor: 357278
     reload: 600
+    mirror: false
     }
     {
     bullet: {
@@ -82,6 +83,7 @@ weapons: [
     }
     outlineColor: 357278
     reload: 5
+    mirror: false
     }
 ]
 abilities: [
