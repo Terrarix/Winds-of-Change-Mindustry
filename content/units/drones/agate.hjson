@@ -20,7 +20,7 @@ weapons: [
         type: missileBulletType
         lifetime: 30
         speed: 8
-        damage: 15
+        damage: 10
         hitSize: 6
         splashDamage: 15
         splashDamageRadius: 15

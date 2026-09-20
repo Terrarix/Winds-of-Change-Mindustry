@@ -7,28 +7,30 @@ description: Basic early game cheap turret.
 requirements: [
   nickel/150
 ]
-range: 130
+range: 150
 inaccuracy: 1.5
 reload: 25
 ammoTypes: {
     iron-ice: {
         type: BasicBulletType
         lifetime: 60
-        speed: 2
+        speed: 4
         damage: 15
         hitSize: 4
+        rangeOverride: 240
     }
         ice: {
         type: BasicBulletType
-        lifetime: 180
-        speed: 0.5
+        lifetime: 70
+        speed: 3
         damage: 20
         hitSize: 1
+        rangeOverride: 200
     }
         iron: {
         type: BasicBulletType
-        lifetime: 60
-        speed: 3
+        lifetime: 25
+        speed: 6
         damage: 20
         pierce: true
     }
