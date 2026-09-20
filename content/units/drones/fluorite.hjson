@@ -3,7 +3,7 @@ name: fluorite
 health: 5000
 description: A massive hovering airship that can be used to instill fear upon your enemies, shreads through enemy units but has little health.
 outlineColor: 6e3282
-speed: 6
+speed: 3
 itemCapacity: 300
 weapons: [
     {

@@ -3,7 +3,7 @@ localizedName: Tornado
 description: A small spider inspired mech unit that circles whatever it is attacking.
 health: 200
 outlineColor: 6e3282
-speed: 3
+speed: 1.5
 allowLegStep: true
 legCount: 2
 legLength: 10.0
@@ -24,6 +24,6 @@ weapons: [
         inaccuracy: 8
     }
     outlineColor: 357278
-    reload: 1
+    reload: 4
     }
 ]

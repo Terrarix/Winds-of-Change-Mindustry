@@ -3,7 +3,7 @@ localizedName: Rain
 description: Double the weapons double the power.
 health: 600
 outlineColor: 6e3282
-speed: 4
+speed: 2
 legCount: 6
 legGroupSize: 3
 legLength: 10.0
@@ -25,7 +25,7 @@ weapons: [
         inaccuracy: 8
     }
     outlineColor: 357278
-    reload: 1
+    reload: 4
     x: 0
     }
     {
@@ -43,7 +43,7 @@ weapons: [
         inaccuracy: 8
     }
     outlineColor: 357278
-    reload: 1
+    reload: 4
     x: 10
     }
 ]

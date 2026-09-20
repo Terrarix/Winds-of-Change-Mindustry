@@ -3,7 +3,7 @@ name: Calcite
 health: 300
 description: Combat, utility, and exploration drone, cheap and mass producable! Used early in wars or as a constant pressure unit.
 outlineColor: 6e3282
-speed: 12
+speed: 6
 canMine: true
 mineTier: 1
 mineSpeed: 1.5
