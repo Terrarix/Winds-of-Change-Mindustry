@@ -5,6 +5,7 @@ description: A massive hovering airship that can be used to instill fear upon yo
 outlineColor: 6e3282
 speed: 1.5
 itemCapacity: 300
+flying: true
 weapons: [
     {
     bullet: {

@@ -6,6 +6,7 @@ outlineColor: 6e3282
 itemCapacity: 300
 rotateSpeed: 1.0
 speed: 1
+flying: true
 destroyBullet: {
   instantDisappear: true
   damage: 0

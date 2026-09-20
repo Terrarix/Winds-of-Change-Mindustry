@@ -13,6 +13,7 @@ drillPower: -1
 itemCapacity: 80
 turnCursor: true
 drawItems: true
+flying: true
 weapons: [
     {
     bullet: {
