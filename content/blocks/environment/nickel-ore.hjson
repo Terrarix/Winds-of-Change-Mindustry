@@ -1,0 +1,4 @@
+type: OreBlock
+name: Nickel
+itemDrop: nickel
+varients: 1
