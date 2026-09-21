@@ -1,4 +1,4 @@
-type: mech
+type: legs
 localizedName: Rain
 description: Double the weapons double the power.
 health: 600
@@ -26,7 +26,7 @@ weapons: [
     }
     outlineColor: 357278
     reload: 4
-    x: 0
+    x: 5
     mirror: false
     }
     {
@@ -45,7 +45,7 @@ weapons: [
     }
     outlineColor: 357278
     reload: 4
-    x: 10
+    x: -5
     mirror: false
     }
 ]

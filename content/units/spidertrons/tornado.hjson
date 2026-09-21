@@ -1,4 +1,4 @@
-type: mech
+type: legs
 localizedName: Tornado
 description: A small spider inspired mech unit that circles whatever it is attacking.
 health: 200
