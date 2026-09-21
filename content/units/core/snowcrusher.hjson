@@ -59,3 +59,12 @@ weapons: [
     reload: 35
     }
 ]
+abilities: [
+    {
+        type: ForceFieldAbility
+        max: 300
+        cooldown: 100
+        regen: 0.5
+        radius: 25
+    }
+]
