@@ -12,7 +12,7 @@ requirements: [
   battery/20
 ]
 range: 160
-inaccuracy: 15
+inaccuracy: 5
 reload: 5
 ammoTypes: {
     steel: {
