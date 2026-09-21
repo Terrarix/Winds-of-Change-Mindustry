@@ -7,7 +7,7 @@ speed: 0.325
 allowLegStep: true
 legCount: 6
 legGroupSize: 3
-legLength: 10.0
+legLength: 40.0
 legPairOffset: 0.5
 weapons: [
     {

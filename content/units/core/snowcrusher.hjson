@@ -19,6 +19,10 @@ drillPower: -1
 itemCapacity: 100
 turnCursor: true
 drawItems: true
+allowLegStep: true
+legCount: 2
+legLength: 10.0
+legPairOffset: 0.5
 weapons: [
     {
     x: 0.5
