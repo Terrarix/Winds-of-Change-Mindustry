@@ -28,7 +28,7 @@ weapons: [
     x: 0.5
     bullet: {
         type: missileBulletType
-        lifetime: 5
+        lifetime: 20
         speed: 16
         damage: 80
         hitSize: 6
