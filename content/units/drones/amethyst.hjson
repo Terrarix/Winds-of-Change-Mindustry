@@ -3,7 +3,7 @@ name: Amethyst
 health: 300
 description: Used as an interceptor that was fast, powerful, and easy to make loads of.
 outlineColor: 6e3282
-speed: 3.5
+speed: 1.75
 canMine: true
 mineTier: 1
 mineSpeed: 1.5

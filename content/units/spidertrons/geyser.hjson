@@ -3,7 +3,7 @@ localizedName: Geyser
 description: Comes equiped with two rapid fire weapons and a large rocket launcher.
 health: 600
 outlineColor: 6e3282
-speed: 1
+speed: 0.5
 legCount: 6
 legGroupSize: 3
 legLength: 15.0

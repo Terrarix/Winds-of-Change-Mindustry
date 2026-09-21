@@ -3,7 +3,7 @@ localizedName: Storm
 description: A large spider unit that deals insane damage but struggles with enemys around it.
 health: 200
 outlineColor: 6e3282
-speed: 0.75
+speed: 0.325
 allowLegStep: true
 legCount: 6
 legGroupSize: 3
