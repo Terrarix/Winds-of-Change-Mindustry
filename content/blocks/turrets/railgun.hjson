@@ -11,7 +11,6 @@ requirements: [
   engine/50
   battery/50
 ]
-range: 200
 inaccuracy: 2
 reload: 200
 ammoTypes: {
@@ -30,8 +29,8 @@ consumes: {
     power: 50
 }
 drawMinRange: true
-minRange: 25.0
-range: 200.0
+minRange: 200.0
+range: 800.0
 minWarmup: 5.0
 shootCone: 4.0
 warmupMaintainTime: 20
