@@ -45,5 +45,7 @@ weapons: [
     y: -3
     x: 0
     mirror: false
+    shootSound: railShoot
+    shootSoundVolume: 5.0
     }
 ]

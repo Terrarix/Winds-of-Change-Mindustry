@@ -4,7 +4,7 @@ description: A powerful defensive & construction unit for the engineer core.
 health: 800
 outlineColor: 6e3282
 outlineColor: 6e3282
-speed: 8
+speed: 3
 maxSpeed: 20
 boostSpeed: 8
 health: 4000

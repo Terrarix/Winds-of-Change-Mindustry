@@ -6,7 +6,7 @@ outlineColor: 6e3282
 flying: false
 canBoost: true
 outlineColor: 6e3282
-speed: 6
+speed: 2.5
 maxSpeed: 20
 boostSpeed: 8
 drag: 1.0
