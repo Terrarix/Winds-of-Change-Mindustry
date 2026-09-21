@@ -26,45 +26,45 @@ weapons: [
     }
     outlineColor: 357278
     reload: 4
+    x: -5
+    mirror: false
+    }
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 6
+        damage: 2
+        pierce: true
+        pierceCap: 100
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 5
+        inaccuracy: 8
+    }
+    outlineColor: 357278
+    reload: 4
+    x: 5
+    mirror: false
+    }
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 6
+        damage: 2
+        pierce: true
+        pierceCap: 100
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 5
+        inaccuracy: 8
+    }
+    outlineColor: 357278
+    reload: 4
     x: 0
-    mirror: false
-    }
-    {
-    bullet: {
-        type: BasicBulletType
-        lifetime: 20
-        speed: 6
-        damage: 2
-        pierce: true
-        pierceCap: 100
-    }
-    shoot: {
-        shots: 2
-        shotDelay: 5
-        inaccuracy: 8
-    }
-    outlineColor: 357278
-    reload: 4
-    x: 10
-    mirror: false
-    }
-    {
-    bullet: {
-        type: BasicBulletType
-        lifetime: 20
-        speed: 6
-        damage: 2
-        pierce: true
-        pierceCap: 100
-    }
-    shoot: {
-        shots: 2
-        shotDelay: 5
-        inaccuracy: 8
-    }
-    outlineColor: 357278
-    reload: 4
-    y: 0
     mirror: false
     }
     {

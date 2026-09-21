@@ -35,8 +35,9 @@ weapons: [
         hitSize: 4
         pierce: true
         speed: 10
-        lifetime: 20
+        lifetime: 100
         length: 200
+        width: 20
         shootEffect: titanSmokeLarge
     }
     outlineColor: 357278
