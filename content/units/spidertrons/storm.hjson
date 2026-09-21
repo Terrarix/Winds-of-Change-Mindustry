@@ -28,6 +28,7 @@ weapons: [
     outlineColor: 357278
     reload: 4
     mirror: false
+    controllable: false
     }
     {
     bullet: {
@@ -39,7 +40,6 @@ weapons: [
         lifetime: 100
         length: 200
         width: 20
-        shootEffect: titanSmokeLarge
     }
     outlineColor: 357278
     reload: 200
@@ -48,5 +48,7 @@ weapons: [
     mirror: false
     shootSound: railShoot
     shootSoundVolume: 5.0
+    shootEffect: titanSmokeLarge
+    rotationLimit: 30.0
     }
 ]
