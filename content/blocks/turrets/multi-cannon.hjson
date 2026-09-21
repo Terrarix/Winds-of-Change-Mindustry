@@ -2,8 +2,8 @@ type: ItemTurret
 size: 3
 hasItems: true
 category: turret
-localizedName: Fragmentation Cannon
-description: Fires a large round that splits into a bunch of smaller rounds good for single target and multi target.
+localizedName: Multi Cannon
+description: Large powerful weapon with the capability to fire 3 times in quick succesion
 requirements: [
   engine/80
   iron-plate/500
@@ -20,7 +20,7 @@ ammoTypes: {
         type: BasicBulletType
         lifetime: 40
         speed: 8
-        damage: 1500
+        damage: 750
         hitSize: 6
         height: 10
         width: 5
@@ -28,13 +28,10 @@ ammoTypes: {
         pierce: true
         trailRotation: true
         trailLength: 2.0
-        fragBullet: {
-            type: BasicBulletType
-            lifetime: 10
-            speed: 8
-            damage: 50
-            hitSize: 6
-            pierce: true
-        }
     }
+}
+shoot: {
+    shots: 3
+    shotDelay: 10
+    spread: 0
 }

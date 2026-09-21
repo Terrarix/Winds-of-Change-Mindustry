@@ -11,6 +11,7 @@ requirements: [
   gear/100
   steel/300
   electric-alloy/200
+  cryogenic-alloy/500
 ]
 range: 320
 inaccuracy: 2
