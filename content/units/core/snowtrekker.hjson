@@ -69,5 +69,7 @@ abilities: [
         cooldown: 100
         regen: 0.5
         radius: 25
+        sides: 4
+        rotation: 45
     }
 ]
