@@ -1,6 +1,6 @@
 type: flying
 localizedName: Wanan
-description: A powerful defensive & construction unit for the engineer core.
+description: A mid tier flying building unit with healing capabilities, a shield, and a higher base build speed.
 health: 800
 outlineColor: 6e3282
 flying: false
@@ -8,19 +8,40 @@ canBoost: true
 outlineColor: 6e3282
 speed: 3
 maxSpeed: 20
-health: 1000
 canMine: true
-buildSpeed: 1.5
+buildSpeed: 2.0
 hitSize: 10.0
 mineTier: 2
-mineSpeed: 3.0
-minerange: 30
+mineSpeed: 5.0
+minerange: 50
 rotateToBuilding: true
 drillPower: -1
-itemCapacity: 80
+itemCapacity: 120
 turnCursor: true
 drawItems: true
 flying: true
+weapons: [
+    {
+    x: 0.5
+    bullet: {
+        type: BasicBulletType
+        lifetime: 80
+        speed: 8
+        damage: 1
+        hitSize: 6
+        healAmount: 50
+    }
+    shoot: {
+        shots: 4
+        shotDelay: 5
+        inaccuracy: 0
+    }
+    outlineColor: 357278
+    alternate: true
+    mirror: true
+    reload: 30
+    }
+]
 abilities: [
     {
         type: ForceFieldAbility
@@ -31,6 +52,6 @@ abilities: [
     }
     {
         type: RegenAbility
-        percentAmount: 0.01
+        amount: 1
     }
 ]
