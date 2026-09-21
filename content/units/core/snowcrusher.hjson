@@ -20,8 +20,8 @@ itemCapacity: 100
 turnCursor: true
 drawItems: true
 allowLegStep: true
-legCount: 2
-legLength: 10.0
+legCount: 4
+legLength: 20.0
 legPairOffset: 0.5
 weapons: [
     {

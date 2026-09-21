@@ -6,7 +6,7 @@ outlineColor: 6e3282
 speed: 0.5
 legCount: 6
 legGroupSize: 3
-legLength: 15.0
+legLength: 30.0
 allowLegStep: true
 legPairOffset: 0.5
 weapons: [
