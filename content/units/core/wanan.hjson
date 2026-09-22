@@ -1,8 +1,7 @@
 type: flying
 localizedName: Wanan
 description: A mid tier flying building unit with healing capabilities, a shield, and a higher base build speed.
-health: 800
-outlineColor: 6e3282
+health: 120
 outlineColor: 6e3282
 speed: 3
 maxSpeed: 20
@@ -43,7 +42,7 @@ weapons: [
 abilities: [
     {
         type: ForceFieldAbility
-        max: 150
+        max: 300
         cooldown: 100
         regen: 0.5
         radius: 25
