@@ -10,6 +10,8 @@ legCount: 6
 legGroupSize: 3
 legLength: 40.0
 legPairOffset: 0.5
+circleTargetRadius: 50.0
+circleTarget: true
 weapons: [
     {
     bullet: {

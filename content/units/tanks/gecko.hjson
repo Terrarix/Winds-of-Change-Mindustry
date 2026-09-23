@@ -1,6 +1,23 @@
-//another placeholder
-//type: 
+type: tank
 name: Gecko
-description: A small tank.
-detail: smol
+description: A small basic attack tank good for traversing terrain, with mild armor, and good aoe on its cannon.
 outlineColor: 6e3282
+speed: 1
+rotateSpeed: 2.5
+health: 300
+armor: 2
+weapons: [
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 6
+        damage: 80
+        pierce: true
+        splashDamage: 20.0
+    }
+    outlineColor: 357278
+    reload: 60
+    mirror: false
+    }
+]
