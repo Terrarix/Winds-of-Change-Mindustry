@@ -1,1 +1,57 @@
-//wip
+type: legs
+localizedName: Zeno
+description: The pinnacle of all core units the best of them all in construction fields.
+health: 350
+outlineColor: 6e3282
+speed: 3.5
+maxSpeed: 20
+canMine: true
+buildSpeed: 5.0
+hitSize: 12.0
+mineTier: 3
+mineSpeed: 20.0
+minerange: 80
+rotateToBuilding: true
+drillPower: -1
+itemCapacity: 200
+turnCursor: true
+drawItems: true
+allowLegStep: true
+legCount: 6
+legLength: 30.0
+legPairOffset: 0.5
+weapons: [
+    {
+    x: 0.5
+    bullet: {
+        type: BasicBulletType
+        lifetime: 80
+        speed: 8
+        damage: 1
+        hitSize: 6
+        healAmount: 150
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 5
+        inaccuracy: 0
+    }
+    outlineColor: 357278
+    alternate: true
+    mirror: true
+    reload: 15
+    }
+]
+abilities: [
+    {
+        type: ForceFieldAbility
+        max: 600
+        cooldown: 100
+        regen: 0.5
+        radius: 25
+    }
+    {
+        type: RegenAbility
+        amount: 4
+    }
+]

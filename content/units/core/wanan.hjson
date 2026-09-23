@@ -1,6 +1,6 @@
 type: legs
 localizedName: Wanan
-description: A mid tier flying building unit with healing capabilities, a shield, and a higher base build speed.
+description: A mid tier crawler building unit with healing capabilities, a shield, and a higher base build speed.
 health: 120
 outlineColor: 6e3282
 speed: 3
@@ -16,7 +16,10 @@ drillPower: -1
 itemCapacity: 120
 turnCursor: true
 drawItems: true
-flying: false
+allowLegStep: true
+legCount: 4
+legLength: 20.0
+legPairOffset: 0.5
 weapons: [
     {
     x: 0.5
