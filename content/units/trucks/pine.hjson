@@ -1,6 +1,31 @@
-//more placeholder
-//type: 
+type: mech
 name: Pine
-description: Poor mans humvee
-detail: Basically a hilux but for the post-apocalypse, although it was already built for that
+description: Fast simplistic and good all rounder car type unit, good for the very early game, comes equiped with a pulse rifle.
 outlineColor: 6e3282
+speed: 1.25
+rotateSpeed: 1.5
+health: 200
+weapons: [
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 20
+        speed: 6
+        damage: 80
+        pierce: true
+    }
+    outlineColor: 357278
+    reload: 60
+    mirror: true
+    }
+    {
+    bullet: {
+        type: LaserBulletType
+        damage: 200
+        pierce: true
+    }
+    outlineColor: 357278
+    reload: 100
+    mirror: false
+    }
+]

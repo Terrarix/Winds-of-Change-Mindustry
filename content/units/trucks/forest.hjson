@@ -1,7 +1,24 @@
-//still wip
-//type:
+type: mech
 name: Forest
 health: 550
-description: pistol in the glovebox
-detail: basically a chevy silverado if you had an mg strapped to the bed
+description: A better all round veichle capable of firing two pulse rifles at the same time.
 outlineColor: 6e3282
+speed: 1.25
+rotateSpeed: 1.5
+weapons: [
+    {
+    bullet: {
+        type: LaserBulletType
+        damage: 20
+        pierce: true
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 2
+        inaccuracy: 0
+    }
+    outlineColor: 357278
+    reload: 20
+    mirror: true
+    }
+]
