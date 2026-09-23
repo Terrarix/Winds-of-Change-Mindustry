@@ -1,6 +1,39 @@
-//just a placeholder for now
 type: flying
 health: 100
 description: A small, armored helicopter
-detail: "I'm no Fortunate Son"
 outlineColor: 6e3282
+flying: true
+speed: 1
+armor: 2
+weapons: [
+    {
+    bullet: {
+        type: missileBulletType
+        lifetime: 50
+        speed: 4
+        damage: 5
+        hitSize: 6
+        splashDamage: 15
+        splashDamageRadius: 15
+        weaveMag: 1.0
+        weaveRandom: false
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 4
+        inaccuracy: 2
+    }
+    outlineColor: 357278
+    reload: 15
+    mirror: true
+    }
+]
+abilities: [
+    {
+        type: ForceFieldAbility
+        max: 100
+        cooldown: 100
+        regen: 0.5
+        radius: 30
+    }
+]

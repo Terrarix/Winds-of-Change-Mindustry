@@ -10,6 +10,8 @@ DONE
 [ ] Ice Drills - Terrarix
 [ ] Heat Prod - Terrarix
 [ ] Power Nodes - Terrarix
+[ ] T1 Units - Terrarix
+[ ] T2 Units - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -17,32 +19,37 @@ INCOMPLETE
     - doesn't have to be now but would be really nice to have done.
 [ ] Factories
     - Terrarix
+[ ] Factory Sprites & VFX
 [ ] Heat Piping
     - Java
+[ ] Heat Piping sprites
 [ ] Turrets
+[ ] Turret sprites & VFX
 [ ] Java Turrets
 [ ] Power Prod
     - fix solar panels
+[ ] Power Prod Sprites & VFX
 [ ] Solar Heat Prod
     - Java
-[ ] T1 Units
-    - Be nice to get this done soon
-[ ] T2 Units
+[ ] Heat Prod sprites
 [ ] T3 Units
 [ ] T4 & T5
-    - This is not a topmost priority right now.
+[ ] All Unit sprites
 [ ] Unit reconstructors
     - consolidated down into 2 trees, ground and air (air todo) - AnomalousWyvern
     - Also fix the coding errors with them first?
 [ ] Cryo Walls
     - Java
+[ ] Wall Sprites
 [ ] Solar Shields
     - Java
 [ ] Cores
     - Java
+[ ] Core sprites
 [ ] Core Units
-[ ] FIX ALL CODING ERRORS
-    -Topmost pirority right now.
 [ ] Mass Drivers
     - Java
 [ ] Logic
+[ ] Transportation Sprites
+[ ] Drill Sprites
+[ ] Make Ice Drills functional

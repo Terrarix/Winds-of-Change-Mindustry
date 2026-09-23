@@ -1,6 +1,48 @@
-//still not done
 type: flying
 health: 400
-description: More armor and bigger.
-detail: "Hello my name's Forrest, Forrest Gump"
+description: Melee range is usually reserved for grounded units, not anymore, with a high health pool, a strong shield and 10 DR it is hard to take down but it is limited due to its short range. (exploit its shield not being affected by its 10 DR)
 outlineColor: 6e3282
+flying: true
+speed: 1.25
+armor: 10
+weapons: [
+    {
+    bullet: {
+        type: LightningBulletType
+        lifetime: 50
+        speed: 4
+        damage: 10
+        hitSize: 6
+        lightning: 2
+        lightningLength: 10.0
+        lightningCone: 45.0
+        lightningType: {
+            type: LightningBulletType
+            lifetime: 50
+            speed: 4
+            damage: 10
+            hitSize: 6
+            lightning: 2
+            lightningLength: 10.0
+            lightningCone: 45.0
+        }
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 20
+        inaccuracy: 2
+    }
+    outlineColor: 357278
+    reload: 5
+    mirror: true
+    }
+]
+abilities: [
+    {
+        type: ForceFieldAbility
+        max: 300
+        cooldown: 100
+        regen: 0.5
+        radius: 30
+    }
+]
