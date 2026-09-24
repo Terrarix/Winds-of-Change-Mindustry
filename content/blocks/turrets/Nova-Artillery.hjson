@@ -24,7 +24,7 @@ ammoTypes: {
         hitSize: 8
         hitShake: 1.2
         splashDamage: 10000.0
-        splashDamageRadius: 50.0
+        splashDamageRadius: 800.0
         trailRotation: true
         trailLength: 20.0
         targetBlocks: true
