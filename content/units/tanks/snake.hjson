@@ -1,6 +1,47 @@
-//more wip
-//type
+type: tank
 name: Snake
-description: NO THAT IS NOT SOLID SNAKE!
-detail: this one is invisible (by duran duran) sometimes
+description: Powerful armored tank which can fire powerful rounds doing extremely good damage and having decent aoe effects.
 outlineColor: 6e3282
+speed: 0.625
+rotateSpeed: 2.5
+health: 1100
+armor: 6
+rotateMoveFirst: true
+weapons: [
+    {
+    bullet: {
+        type: BasicBulletType
+        lifetime: 30
+        speed: 6
+        damage: 200
+        pierce: true
+        splashDamage: 20.0
+        fragRandomSpread: 0
+        fragSpread: 30.0
+        fragBullets: 12
+        fragBullet: {
+            type: BasicBulletType
+            lifetime: 10
+            speed: 6
+            damage: 20
+            pierce: true
+            splashDamage: 20.0
+            rotateSpeed: 5.0
+        }
+        intervalBullets: 8
+        intervalRandomSpread: 0
+        intervalSpread: 45.0
+        intervalAngle: 0.0
+        intervalBullet: {
+            type: BasicBulletType
+            lifetime: 10
+            speed: 6
+            damage: 5
+            rotateSpeed: -5.0
+        }
+    }
+    outlineColor: 357278
+    reload: 120
+    mirror: false
+    }
+]

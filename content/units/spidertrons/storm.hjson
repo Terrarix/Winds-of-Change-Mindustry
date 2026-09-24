@@ -50,7 +50,6 @@ weapons: [
     mirror: false
     shootSound: railShoot
     shootSoundVolume: 5.0
-    shootEffect: titanSmokeLarge
     rotationLimit: 30.0
     }
 ]

@@ -1,5 +1,69 @@
 type: flying
 health: 750
 description: More armored and better
-detail: "You aint got no legs lieutenant dan"
 outlineColor: 6e3282
+flying: true
+speed: 0.625
+armor: 12
+weapons: [
+    {
+    bullet: {
+        type: LaserBulletType
+        damage: 80
+        length: 300.0
+        sideWidth: 0.1
+        hitSize: 6
+        lightning: 2
+        lightningLength: 10.0
+        lightningCone: 45.0
+        lightningType: {
+            type: LightningBulletType
+            lifetime: 50
+            speed: 4
+            damage: 80
+            hitSize: 6
+            lightning: 2
+            lightningLength: 10.0
+            lightningCone: 45.0
+        }
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 20
+        inaccuracy: 2
+    }
+    outlineColor: 357278
+    reload: 20
+    mirror: true
+    }
+    {
+    bullet: {
+        type: missileBulletType
+        lifetime: 50
+        speed: 4
+        damage: 100
+        hitSize: 6
+        splashDamage: 15
+        splashDamageRadius: 15
+        weaveMag: 1.0
+        weaveRandom: false
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 0
+        inaccuracy: 0
+    }
+    outlineColor: 357278
+    reload: 30
+    mirror: false
+    }
+]
+abilities: [
+    {
+        type: ForceFieldAbility
+        max: 500
+        cooldown: 100
+        regen: 0.5
+        radius: 40
+    }
+]

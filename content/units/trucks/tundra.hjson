@@ -1,7 +1,39 @@
-//still workin on it
-//type:
+type: mech
 health: 1000
 name: Tundra
-description: ok now its bigger, and better, and still worse than a damn hilux
-detail: just a longbed truck
+description: A more powerful car with even more weapons.
 outlineColor: 6e3282
+speed: 0.75
+rotateSpeed: 0.5
+weapons: [
+    {
+    bullet: {
+        type: LaserBulletType
+        damage: 80
+        pierce: true
+    }
+    shoot: {
+        shots: 2
+        shotDelay: 5
+        inaccuracy: 0
+    }
+    outlineColor: 357278
+    reload: 30
+    mirror: true
+    }
+    {
+    bullet: {
+        type: LaserBulletType
+        damage: 200
+        pierce: true
+        length: 260.0
+        sideLength: 0.0
+        width: 30.0
+        lengthFalloff: 0.2
+    }
+    outlineColor: 357278
+    reload: 60
+    mirror: false
+    x: 0
+    }
+]
