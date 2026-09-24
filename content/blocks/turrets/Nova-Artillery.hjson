@@ -17,17 +17,16 @@ inaccuracy: 0
 reload: 300
 ammoTypes: {
     iridium: {
-        type: ArtilleryBulletType
-        lifetime: 10000
+        type: BasicBulletType
+        lifetime: 10000.0
         speed: 5
-        damage: 100000
+        damage: 100000.0
         hitSize: 8
         hitShake: 1.2
         splashDamage: 5.0
         trailRotation: true
         trailLength: 20.0
         targetBlocks: true
-        scaleLife: true
         height: 40
         width: 40
     }
@@ -36,9 +35,7 @@ targetAir: false
 targetGround: true
 shootSound: shootTitan
 shootSoundVolume: 4.0
-minWarmup: 2.0
 recoil: 3.0
 shake: 8.0
-warmupMaintainTime: 1.0
 width: 10.0
 height: 14.0
