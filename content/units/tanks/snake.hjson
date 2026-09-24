@@ -16,7 +16,6 @@ weapons: [
         damage: 200
         pierce: true
         splashDamage: 20.0
-        status: Electrified
         fragRandomSpread: 0
         fragSpread: 30.0
         fragBullets: 12
@@ -28,7 +27,6 @@ weapons: [
             pierce: true
             splashDamage: 20.0
             rotateSpeed: 5.0
-            status: Electrified
         }
         intervalBullets: 8
         intervalRandomSpread: 0
@@ -40,7 +38,6 @@ weapons: [
             speed: 6
             damage: 5
             rotateSpeed: -5.0
-            status: Electrified
         }
     }
     outlineColor: 357278
