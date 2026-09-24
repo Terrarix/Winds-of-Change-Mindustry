@@ -11,7 +11,7 @@ weapons: [
         type: LightningBulletType
         lifetime: 50
         speed: 4
-        damage: 10
+        damage: 25
         hitSize: 6
         lightning: 2
         lightningLength: 10.0
@@ -20,7 +20,7 @@ weapons: [
             type: LightningBulletType
             lifetime: 50
             speed: 4
-            damage: 10
+            damage: 25
             hitSize: 6
             lightning: 2
             lightningLength: 10.0
@@ -33,7 +33,7 @@ weapons: [
         inaccuracy: 2
     }
     outlineColor: 357278
-    reload: 5
+    reload: 20
     mirror: true
     }
 ]
