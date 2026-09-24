@@ -6,6 +6,7 @@ speed: 0.75
 rotateSpeed: 2
 health: 700
 armor: 5
+rotateMoveFirst: true
 weapons: [
     {
     bullet: {
