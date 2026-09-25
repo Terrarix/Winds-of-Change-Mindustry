@@ -25,7 +25,7 @@ weapons: [
             lifetime: 36
             speed: 6
             damage: 5
-            rotateSpeed: -5.0
+            rotateSpeed: -10.0
         }
     }
     outlineColor: 357278
