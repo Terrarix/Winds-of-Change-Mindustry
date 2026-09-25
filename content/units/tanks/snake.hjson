@@ -11,30 +11,18 @@ weapons: [
     {
     bullet: {
         type: BasicBulletType
-        lifetime: 30
+        lifetime: 80
         speed: 6
         damage: 200
         pierce: true
         splashDamage: 20.0
-        fragRandomSpread: 0
-        fragSpread: 30.0
-        fragBullets: 12
-        fragBullet: {
-            type: BasicBulletType
-            lifetime: 10
-            speed: 6
-            damage: 20
-            pierce: true
-            splashDamage: 20.0
-            rotateSpeed: 5.0
-        }
         intervalBullets: 8
         intervalRandomSpread: 0
         intervalSpread: 45.0
         intervalAngle: 0.0
         intervalBullet: {
             type: BasicBulletType
-            lifetime: 10
+            lifetime: 36
             speed: 6
             damage: 5
             rotateSpeed: -5.0
