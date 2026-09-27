@@ -16,3 +16,6 @@ requirements: [
     gear/50
     engine/50
 ]
+consumes: {
+  power: 5
+}

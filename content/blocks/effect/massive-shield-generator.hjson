@@ -20,3 +20,6 @@ requirements: [
     electromagnetic-alloy/2000
     iridium/1200
 ]
+consumes: {
+  power: 80
+}

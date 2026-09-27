@@ -18,3 +18,6 @@ requirements: [
     electromagnetic-alloy/800
     electric-alloy/100
 ]
+consumes: {
+  power: 30
+}

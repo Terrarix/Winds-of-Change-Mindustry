@@ -19,3 +19,6 @@ requirements: [
     cryogenic-alloy/500
     electric-alloy/200
 ]
+consumes: {
+  power: 20
+}

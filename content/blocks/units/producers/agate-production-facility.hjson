@@ -1,0 +1,27 @@
+type: UnitFactory
+name: Agate Production Facility
+description: Makes the Agate, the base drone.
+category: units
+size: 3
+health: 100
+plans: [
+  {
+    unit: agate
+    requirements: [
+      iron/100
+      nickel/200
+      engine/2
+      gear/50
+    ]
+    time: 800
+  }
+]
+consumes: {
+  power: 20
+}
+requirements: [
+  iron/60
+  nickel/50
+  engine/1
+  gear/20
+]

@@ -20,3 +20,6 @@ requirements: [
     electric-alloy/600
     electromagnetic-alloy/1000
 ]
+consumes: {
+  power: 30
+}
