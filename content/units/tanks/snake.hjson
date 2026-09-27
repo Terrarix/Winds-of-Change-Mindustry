@@ -11,7 +11,7 @@ weapons: [
     {
     bullet: {
         type: BasicBulletType
-        lifetime: 80
+        lifetime: 81
         speed: 6
         damage: 200
         pierce: true
