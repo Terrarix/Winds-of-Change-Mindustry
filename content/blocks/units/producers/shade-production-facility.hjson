@@ -10,7 +10,6 @@ plans: [
     requirements: [
       iron/40
       nickel/40
-      copper/20
       engine/1
     ]
     time: 900
@@ -22,7 +21,6 @@ consumes: {
 requirements: [
   iron/60
   nickel/50
-  copper/30
   engine/1
   gear/20
 ]

@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
-localizedName: Copper Mill
-description: Takes in copper and turns it into Uninsulated wires
+localizedName: Nickel Mill
+description: Takes in nickel and turns it into Uninsulated wires
 hasPower: true
 craftTime: 400
 hasHeat: true
@@ -13,13 +13,12 @@ outputItem: {
 consumes: {
   power: 6
   items: [
-    copper/4
+    nickel/4
   ]
 }
 requirements: [
   nickel/150
   iron/90
-  copper/50
 ]
 category: crafting
 ambientSound: loopGrind

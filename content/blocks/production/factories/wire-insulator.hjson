@@ -21,7 +21,6 @@ requirements: [
   nickel/150
   iron-plate/90
   steel/80
-  copper/60
 ]
 category: crafting
 ambientSound: loopGrind

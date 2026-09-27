@@ -7,7 +7,6 @@ targetAir: true
 targetGround: true
 requirements: [
   nickel/200
-  copper/150
 ]
 range: 180
 inaccuracy: 10

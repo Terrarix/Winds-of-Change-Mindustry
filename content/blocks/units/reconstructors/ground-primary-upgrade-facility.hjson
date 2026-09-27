@@ -25,7 +25,6 @@ research: gecko-production-facility
 requirements: [
   iron/60
   nickel/50
-  copper/30
   engine/1
   gear/20
 ]
