@@ -2,13 +2,12 @@ type: reconstructor
 category: units
 health: 200
 size: 3
-name: Ground Primary Upgrade Facility
-description: A general ground unit upgrader.
+name: Air Primary Upgrade Facility
+description: A general air unit upgrader.
 constructTime: 3600
 upgrades: [
-    [gecko, salamander]
-    [pine, forest]
-    [tornado, rain]
+    [agate, calcite]
+    [shade, shadow]
 ]
 consumes: {
     power: 100
