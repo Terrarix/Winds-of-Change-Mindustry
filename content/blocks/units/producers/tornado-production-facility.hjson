@@ -1,6 +1,6 @@
 type: UnitFactory
 name: Tornado Production Facility
-description: Makes the Tornado, the base drone.
+description: Makes the Tornado, the base spooder.
 category: units
 size: 3
 health: 100
