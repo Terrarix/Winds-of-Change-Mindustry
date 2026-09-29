@@ -8,6 +8,7 @@ constructTime: 7200
 upgrades: [
     [salamander, snake]
     [forest, tundra]
+    [rain, geyser]
 ]
 consumes: {
     power: 500

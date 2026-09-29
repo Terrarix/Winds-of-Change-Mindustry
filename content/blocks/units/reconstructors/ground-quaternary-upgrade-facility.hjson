@@ -8,6 +8,7 @@ constructTime: 10800
 upgrades: [
     [wyrm, dragon]
     [alpine, mountain]
+    [storm, hurricane]
 ]
 consumes: {
     power: 2500
