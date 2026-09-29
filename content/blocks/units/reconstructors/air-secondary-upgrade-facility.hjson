@@ -1,17 +1,16 @@
 type: reconstructor
 category: units
-name: Ground Secondary Upgrade Facility
-health: 400
+health: 200
 size: 4
-description: Upgrades tier 2 ground units to their tier 3 variant.
-constructTime: 7200
+name: Air Secondary Upgrade Facility
+description: Upgrades tier 2 air units to their tier 3 variant.
+constructTime: 3600
 upgrades: [
-    [salamander, snake]
-    [forest, tundra]
-    [rain, geyser]
+    [calcite, amethyst]
+    [shadow, night]
 ]
 consumes: {
-    power: 500
+    power: 100
     items: {
         items: [
             iron-plate/175
@@ -21,7 +20,7 @@ consumes: {
         ]
     }
 }
-research: ground-primary-upgrade-facility
+research: gecko-production-facility
 requirements: [
   iron/60
   nickel/50
