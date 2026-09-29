@@ -1,0 +1,14 @@
+type: PayloadRouter
+localizedName: Steel Unit Router
+description: A router used for transporting units around.
+size: 3
+itemCapacity: 4
+category: distribution
+consumes: {
+  power: 2.0
+}
+conductivePower: true
+requirements: [
+  steel/75
+]
+research: steel-unit-conveyor-belt

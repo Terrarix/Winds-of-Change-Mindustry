@@ -1,0 +1,14 @@
+type: PayloadConveyor
+localizedName: Steel Unit Conveyor Belt
+description: A conveyor used for transporting units around.
+size: 3
+itemCapacity: 4
+category: distribution
+consumes: {
+  power: 2.0
+}
+conductivePower: true
+requirements: [
+  steel/50
+]
+research: nickel-router
