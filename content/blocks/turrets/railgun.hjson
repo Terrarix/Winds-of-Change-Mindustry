@@ -19,10 +19,13 @@ ammoTypes: {
         damage: 5000
         hitSize: 4
         pierce: true
-        speed: 10
-        lifetime: 20
+        speed: 200
+        lifetime: 4
         length: 200
         shootEffect: titanSmokeLarge
+        height: 40
+        width: 10
+        lineEffect: railTrail
     }
 }
 consumes: {
@@ -31,9 +34,8 @@ consumes: {
 drawMinRange: true
 minRange: 200.0
 range: 800.0
-minWarmup: 5.0
+minWarmup: 0.8
 shootCone: 4.0
-warmupMaintainTime: 20
 shake: 2.0
-rotateSpeed: 0.2
+rotateSpeed: 0.8
 shootSound: railShoot
