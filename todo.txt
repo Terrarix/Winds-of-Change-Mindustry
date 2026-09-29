@@ -13,6 +13,7 @@ DONE
 [ ] T1 Units - Terrarix
 [ ] T2 Units - Terrarix
 [ ] T3 Units - Terrarix
+[ ] Core Units - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -45,7 +46,6 @@ INCOMPLETE
 [ ] Cores
     - Java
 [ ] Core sprites
-[ ] Core Units
 [ ] Mass Drivers
     - Java
 [ ] Logic

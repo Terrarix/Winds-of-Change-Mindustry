@@ -18,14 +18,11 @@ consumes: {
             iron-plate/90
             gear/40
             steel/70
-            engine/7
         ]
     }
 }
 research: gecko-production-facility
 requirements: [
-  iron/60
   nickel/50
-  engine/1
   gear/20
 ]
