@@ -23,6 +23,8 @@ consumes: {
 }
 research: gecko-production-facility
 requirements: [
-  nickel/50
-  gear/20
+  nickel/200
+  gear/80
+  iron-plate/300
+  steel/250
 ]

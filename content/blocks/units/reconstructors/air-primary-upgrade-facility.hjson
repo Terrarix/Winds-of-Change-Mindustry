@@ -22,6 +22,8 @@ consumes: {
 }
 research: agate-production-facility
 requirements: [
-  nickel/200
-  gear/80
+  nickel/250
+  gear/100
+  iron-plate/200
+  steel/200
 ]
