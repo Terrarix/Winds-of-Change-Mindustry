@@ -1,13 +1,13 @@
 type: reconstructor
 category: units
 health: 200
-size: 4
+size: 5
 name: Air Tertiary Upgrade Facility
 description: Upgrades tier 3 air units to their tier 4 variant.
 constructTime: 10800
 upgrades: [
-    [calcite, amethyst]
-    [shadow, night]
+    [amethyst, flourite]
+    [night, blackout]
 ]
 consumes: {
     power: 100

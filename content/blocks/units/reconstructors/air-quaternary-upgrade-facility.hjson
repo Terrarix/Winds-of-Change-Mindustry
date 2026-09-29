@@ -1,0 +1,29 @@
+type: reconstructor
+size: 7
+health: 2500
+category: units
+name: Air Quaternary Upgrade Facility
+description: Upgrades tier 4 units into their final form.
+constructTime: 10800
+upgrades: [
+    [flourite, garnet]
+    [blackout, void]
+]
+consumes: {
+    power: 2500
+    items: {
+        items: [
+            engine/75
+            electromagnetic-alloy/350
+            electric-alloy/675
+            steel/625
+        ]
+    }
+}
+research: air-tertiary-upgrade-facility
+requirements: [
+  iron/60
+  nickel/50
+  engine/1
+  gear/20
+]
