@@ -12,6 +12,7 @@ DONE
 [ ] Power Nodes - Terrarix
 [ ] T1 Units - Terrarix
 [ ] T2 Units - Terrarix
+[ ] T3 Units - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -32,7 +33,6 @@ INCOMPLETE
 [ ] Solar Heat Prod
     - Java
 [ ] Heat Prod sprites
-[ ] T3 Units
 [ ] T4 & T5
 [ ] All Unit sprites
 [ ] Unit reconstructors
