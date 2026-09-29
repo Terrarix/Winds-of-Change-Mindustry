@@ -6,7 +6,7 @@ name: Air Tertiary Upgrade Facility
 description: Upgrades tier 3 air units to their tier 4 variant.
 constructTime: 10800
 upgrades: [
-    [amethyst, flourite]
+    [amethyst, fluorite]
     [night, blackout]
 ]
 consumes: {

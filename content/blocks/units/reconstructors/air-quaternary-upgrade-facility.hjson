@@ -6,7 +6,7 @@ name: Air Quaternary Upgrade Facility
 description: Upgrades tier 4 units into their final form.
 constructTime: 10800
 upgrades: [
-    [flourite, garnet]
+    [fluorite, garnet]
     [blackout, void]
 ]
 consumes: {

@@ -8,7 +8,7 @@ constructTime: 10800
 upgrades: [
     [snake, wyrm]
     [tundra, alpine]
-    [gesyer, storm]
+    [geyser, storm]
 ]
 consumes: {
     power: 1000
