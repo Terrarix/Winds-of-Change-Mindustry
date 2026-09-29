@@ -26,6 +26,7 @@ weapons: [
             speed: 6
             damage: 5
             rotateSpeed: -10.0
+            status: overload-error
         }
     }
     outlineColor: 357278

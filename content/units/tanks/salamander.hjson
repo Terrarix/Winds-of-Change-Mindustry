@@ -26,6 +26,7 @@ weapons: [
             lifetime: 20
             speed: 6
             damage: 50
+            status: overload-error
         }
     }
         shoot: {
