@@ -4,7 +4,7 @@ health: 200
 size: 4
 name: Air Secondary Upgrade Facility
 description: Upgrades tier 2 air units to their tier 3 variant.
-constructTime: 3600
+constructTime: 7200
 upgrades: [
     [calcite, amethyst]
     [shadow, night]
@@ -20,7 +20,7 @@ consumes: {
         ]
     }
 }
-research: gecko-production-facility
+research: agate-production-facility
 requirements: [
   iron/60
   nickel/50
