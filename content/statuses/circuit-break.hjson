@@ -3,7 +3,7 @@ name: Circuit break
 description: Shuts down enemy systems when applied
 healthMultiplier: 0.7
 speedMultiplier: 0
-damage: 1.0
+damage: 8.0
 disarm: true
 transitionDamage: 80.0
 affinities: [
