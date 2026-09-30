@@ -2,9 +2,10 @@ type: StatusEffect
 name: Circuit break
 description: Shuts down enemy systems when applied
 healthMultiplier: 0.7
+speedMultiplier: 0
 damage: 10.0
 disarm: true
-transitionDamage: 80.0
+transitionDamage: 8.0
 affinities: [
     overload-error
 ]
