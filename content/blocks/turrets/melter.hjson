@@ -23,4 +23,6 @@ shootType: {
     pierce: true
     status: burning
     inaccuracy: 10.0
+    makeFire: true
+    incendAmount: 2
 }
