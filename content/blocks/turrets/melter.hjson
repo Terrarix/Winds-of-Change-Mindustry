@@ -22,4 +22,5 @@ shootType: {
     radius: 2
     pierce: true
     status: burning
+    inaccuracy: 10.0
 }
