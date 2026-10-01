@@ -26,10 +26,11 @@ ammoTypes: {
         width: 250
         status: circuit-break
         pierce: true
-        pierceDamageFactor: 1.0
         pierceBuilding: true
         impact: true
-        knockback: 1.0
+        knockback: 10.0
+        pierceDamageFactor: 1.0
+        pierceCap: 1000
     }
 }
 consumes: {
