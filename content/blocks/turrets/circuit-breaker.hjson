@@ -1,0 +1,28 @@
+type: ItemTurret
+size: 5
+hasItems: true
+category: turret
+localizedName: Circuit Breaker
+description: Charges up and fires a large slow moving wall that applies circuit break nullfying enemy movement and weapons.
+requirements: [
+  engine/80
+  electric-alloy/300
+  insulated-wire/80
+  gear/100
+  battery/200
+]
+range: 200
+inaccuracy: 0
+reload: 500
+ammoTypes: {
+    nickel: {
+        type: BasicBulletType
+        lifetime: 400
+        speed: 0.5
+        damage: 20
+        hitSize: 5
+        height: 5
+        width: 50
+        status: circuit-break
+    }
+}
