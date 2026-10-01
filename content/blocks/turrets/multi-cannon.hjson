@@ -25,10 +25,25 @@ ammoTypes: {
         hitSize: 6
         height: 10
         width: 5
-        fragBullets: 12
         pierce: true
         trailRotation: true
         trailLength: 2.0
+        intervalBullets: 2
+        intervalRandomSpread: 0
+        intervalSpread: 90
+        intervalAngle: 90
+        bulletInterval: 50.0
+        intervalBullet: {
+            type: BasicBulletType
+            lifetime: 5
+            speed: 8
+            damage: 750
+            hitSize: 6
+            height: 10
+            width: 5
+            trailRotation: true
+            trailLength: 2.0
+        }
     }
 }
 shoot: {
