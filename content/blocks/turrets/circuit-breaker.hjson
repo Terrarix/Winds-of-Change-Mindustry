@@ -15,7 +15,7 @@ range: 200
 inaccuracy: 0
 reload: 500
 ammoTypes: {
-    nickel: {
+    electric-alloy: {
         type: BasicBulletType
         lifetime: 400
         speed: 0.5
