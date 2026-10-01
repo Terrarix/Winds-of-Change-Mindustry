@@ -1,0 +1,25 @@
+type: Turret
+size: 2
+category: turret
+localizedName: Melter
+description: Melts nearby enemies with its extremely high heat intake.
+requirements: [
+  steel/150
+]
+range: 100
+inaccuracy: 2
+reload: 5
+heatRequirement: 20.0
+maxHeatEfficiency: 1.0
+shootType: {
+    type: FireBulletType
+    lifetime: 10
+    speed: 10
+    damage: 5
+    hitSize: 4
+    width: 10
+    height: 10
+    radius: 2
+    pierce: true
+    status: burning
+}
