@@ -1,4 +1,4 @@
-type: solar-generator
+type: SolarGenerator
 size: 5
 name: Solar Structure
 description: A large solar array that makes power during the day, way more efficient than the singular solar array.

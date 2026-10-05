@@ -15,6 +15,7 @@ DONE
 [ ] T3 Units - Terrarix
 [ ] Core Units - Terrarix
 [ ] Logic - Terrarix
+[ ] Power Prod - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -29,8 +30,6 @@ INCOMPLETE
 [ ] Turrets
 [ ] Turret sprites & VFX
 [ ] Java Turrets
-[ ] Power Prod
-    - fix solar panels
 [ ] Power Prod Sprites & VFX
 [ ] Solar Heat Prod
     - Java

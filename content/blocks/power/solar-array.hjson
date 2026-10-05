@@ -1,4 +1,4 @@
-type: solar-generator
+type: SolarGenerator
 size: 3
 name: Solar Array
 description: A low power generator that uses solar.
