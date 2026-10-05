@@ -14,6 +14,7 @@ DONE
 [ ] T2 Units - Terrarix
 [ ] T3 Units - Terrarix
 [ ] Core Units - Terrarix
+[ ] Logic - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -39,7 +40,7 @@ INCOMPLETE
 [ ] Unit reconstructors
     - just need to fix values and thats about it :D - Terrarix
 [ ] Cryo Walls
-    - Java
+    -just use drawer and a turret class like in asthosus
 [ ] Wall Sprites
 [ ] Solar Shields
     - Java
@@ -48,7 +49,6 @@ INCOMPLETE
 [ ] Core sprites
 [ ] Mass Drivers
     - Java
-[ ] Logic
 [ ] Transportation Sprites
 [ ] Drill Sprites
 [ ] Make Ice Drills functional

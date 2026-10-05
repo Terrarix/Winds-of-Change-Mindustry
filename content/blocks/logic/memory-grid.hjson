@@ -1,0 +1,9 @@
+type: MemoryBlock
+name: Memory Grid
+description: Can store memory for MLOG (MEMORY CAPACITY: 512)
+size: 3
+category: logic
+requirements: [
+    iron-plate/100
+]
+memoryCapacity: 512

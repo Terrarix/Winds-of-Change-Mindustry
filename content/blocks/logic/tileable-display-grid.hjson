@@ -1,0 +1,8 @@
+type: TileableLogicDisplay
+name: Tileable display grid
+description: A display that can be tiled.
+size: 1
+category: logic
+requirements: [
+    iron-plate/50
+]
