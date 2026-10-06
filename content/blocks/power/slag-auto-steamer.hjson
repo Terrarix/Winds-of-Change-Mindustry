@@ -1,0 +1,21 @@
+type: ConsumeGenerator
+size: 3
+name: Slag Auto Steamer
+description: 3 in one machine takes in water and slag, and turns it into steam and straight goes to an inbuilt steam turbine.
+hasPower: true
+powerProduction: 4
+requirements: [
+  iron-plate/200
+  gear/50
+  steel/125
+  engine/10
+  cyrogenic-alloy/200
+]
+category: power
+itemDuration: 50
+consumes: {
+    liquids: [
+        water/10
+        slag/8
+    ]
+}

@@ -15,6 +15,7 @@ DONE
 [ ] T3 Units - Terrarix
 [ ] Core Units - Terrarix
 [ ] Logic - Terrarix
+[ ] Power Prod - Terrarix
 
 INCOMPLETE
 --------------------------------------------------
@@ -22,7 +23,6 @@ INCOMPLETE
     - doesn't have to be now but would be really nice to have done.
 [ ] Factories
     - Terrarix
-[ ] Power Prod - Terrarix
 [ ] Factory Sprites & VFX
 [ ] Heat Piping
     - Java

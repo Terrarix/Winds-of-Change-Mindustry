@@ -1,0 +1,13 @@
+type: ThermalGenerator
+size: 3
+name: Geothermal Auto Power Converter
+description: Automatically makes power when on tiles with high heat values.
+hasPower: true
+powerProduction: 2
+requirements: [
+  iron-plate/200
+  gear/100
+  steel/150
+  electric-alloy/225
+]
+category: power

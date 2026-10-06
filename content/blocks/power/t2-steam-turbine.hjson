@@ -3,7 +3,7 @@ size: 4
 name: T2 Steam Turbine
 description: Utilizes steam more efficiently to turn turbines generating power.
 hasPower: true
-powerProduction: 6
+powerProduction: 10
 requirements: [
   iron-plate/200
   gear/20
