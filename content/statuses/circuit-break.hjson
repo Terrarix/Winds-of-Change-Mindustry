@@ -1,6 +1,6 @@
 type: StatusEffect
 name: Circuit break
-description: Shuts down enemy systems when applied
+description: Causes units machinery to break, disabling them from working and putting them on pause for repairs.
 healthMultiplier: 0.7
 speedMultiplier: 0
 damage: 8.0

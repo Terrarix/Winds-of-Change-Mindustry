@@ -1,6 +1,6 @@
 type: StatusEffect
-name: Overload Error
-description: overloads the enemies systems making it overheat and slow down all systems.
-damage: 2.0
-speedMultiplier: 0.75
-reloadMultiplier: 0.75
+name: Overloaded
+description: Caused from getting temporarily over-buffed.
+damage: 0.5
+speedMultiplier: 0.5
+reloadMultiplier: 0.5

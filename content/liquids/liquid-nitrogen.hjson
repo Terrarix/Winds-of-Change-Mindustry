@@ -1,5 +1,6 @@
 type: liquid
-localizedName: Liquid nitrogen
+name: Nitrogen (Liquid)
+description: Nitrogen, but liqueified.
 barColor: e0dadaff
 color: c3c3c3ff
 temperature: 0.8

@@ -1,6 +1,6 @@
 type: MendProjector
 size: 3
-localizedName: Mending Tower
+name: Mending Tower
 description: Repairs all things inside its radius.
 health: 200
 hasHeat: true

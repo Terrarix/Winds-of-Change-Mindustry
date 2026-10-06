@@ -1,9 +1,9 @@
-name: "winds-of-change"
-displayName: "Winds Of Change"
+name: winds-of-change
+displayName: Winds Of Change
 author: Terrarix, AnomalousWyvern, Caboosket
-description: "A mod made by a small team to add new content for Mindustry. We hope you enjoy it!"
-version: "0.1"
-minGameVersion: "159.7"
+description: A mod made by a small team to add new content for Mindustry. We hope you enjoy it!
+version: 0.1
+minGameVersion: 159.7
 repo: Terrarix/Winds-of-Change-Mindustry
-dependencies: [ ]
+dependencies: []
 hidden: false

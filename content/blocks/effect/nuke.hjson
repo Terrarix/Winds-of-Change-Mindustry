@@ -1,11 +1,9 @@
 type: Wall
 name: Nuke
-description: Oh lord. Plead mercy. Forgive me for my sins. Allow me to Repent.
 buildVisibility: sandboxOnly
 category: effect
 health: 0
 destroyBullet: {
-  instantDisappear: true
   damage: 0
   speed: 0
   fragBullets: 50

@@ -1,7 +1,7 @@
 type: PointDefenseTurret
 size: 3
 category: effect
-localizedName: EMDS
+name: EMDS
 description: Shoots down physical projectiles, Recommended to have energy storage or else your power grid will take a hit whenever this weapon fires.
 targetAir: true
 targetGround: true

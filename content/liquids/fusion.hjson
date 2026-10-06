@@ -1,6 +1,5 @@
-type: liquid
-localizedName: Fusion
-description: Nuclear elements combined together.
+name: Radiaturanthorion
+description: Multiple nuclear elements combined together, into a blob of radiation and contamination.
 barColor: 390D42
 color: 310C38
 gas: true

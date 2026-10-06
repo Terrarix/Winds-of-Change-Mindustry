@@ -1,4 +1,3 @@
-type: item
 name: Battery
 description: A battery used to make machines.
 buildable: true

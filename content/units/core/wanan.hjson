@@ -22,7 +22,8 @@ legLength: 20.0
 legPairOffset: 0.5
 weapons: [
     {
-    x: 0.5
+    name: healer-drone
+    x: 1
     bullet: {
         type: BasicBulletType
         lifetime: 80

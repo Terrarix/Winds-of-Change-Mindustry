@@ -1,0 +1,7 @@
+/* uncomment when its type is java'ed -caboosket
+type: DecayStatusEffect
+name: De-limit Error
+description: Causes an error wich removes all limits temporarily before overloading the unit.
+speedMultiplier: 3
+reloadMultiplier: 3
+*/

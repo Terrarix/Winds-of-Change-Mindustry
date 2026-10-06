@@ -1,6 +1,6 @@
 type: ForceProjector
 size: 4
-localizedName: Shield Generator
+name: Shield Generator
 description: Creates a shielded area used for protecting your walls.
 radius: 300
 health: 75

@@ -38,5 +38,3 @@ shootSound: shootTitan
 shootSoundVolume: 4.0
 recoil: 3.0
 shake: 8.0
-width: 10.0
-height: 14.0

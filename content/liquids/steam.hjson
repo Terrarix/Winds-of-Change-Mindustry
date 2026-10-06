@@ -1,5 +1,6 @@
 type: liquid
-localizedName: Steam
+name: Steam
+description: Water heated to evaporation point.
 barColor: e0dadaff
 color: c3c3c3ff
 temperature: 0.6

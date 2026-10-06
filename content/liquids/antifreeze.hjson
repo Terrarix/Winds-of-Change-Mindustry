@@ -1,6 +1,5 @@
-type: liquid
-localizedName: Antifreeze
-description: A drop of antifreeze.
+localizedName: Antiwarmth
+description: A liquid cold enough to prevent any form of heat in anything its piped into.
 barColor: 71ead2
 color: 19e6b3
 temperature: 0
