@@ -1,17 +1,16 @@
-type: HeatCrafter
+type: GenericCrafter
 size: 3
-localizedName: Ice Heater
-description: Water from ice and heat
+localizedName: Powered Ice Heater
+description: Water from ice and power
 hasPower: true
 craftTime: 300
 hasHeat: true
-heatRequirement: 4
 outputLiquid: {
   liquid: water
   amount: 2
 }
 consumes: {
-  power: 2
+  power: 8
   items: [
     ice/2
   ]
