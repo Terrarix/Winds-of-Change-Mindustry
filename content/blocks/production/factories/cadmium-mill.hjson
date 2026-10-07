@@ -1,0 +1,26 @@
+type: HeatCrafter
+size: 3
+localizedName: Cadmium Mill
+description: Takes in cadmium and turns it into Uninsulated wires
+hasPower: true
+craftTime: 300
+hasHeat: true
+heatRequirement: 8
+outputItem: {
+  item: uninsulated-wire
+  amount: 14
+}
+consumes: {
+  power: 6
+  items: [
+    cadmium/4
+  ]
+}
+requirements: [
+  iron-plate/100
+  steel/200
+  cadmium/300
+]
+category: crafting
+ambientSound: loopGrind
+ambientSoundVolume: 0.1
