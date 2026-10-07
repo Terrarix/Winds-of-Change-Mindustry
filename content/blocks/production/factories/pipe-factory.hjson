@@ -1,0 +1,16 @@
+type: SingleBlockProducer
+size: 3
+localizedName: Pipe Factory
+description: Makes metal pipes
+result: metal-pipe
+consumes: {
+  power: 6
+}
+requirements: [
+  nickel/200
+  iron/50
+  steel/100
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
