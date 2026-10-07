@@ -1,10 +1,7 @@
-type: Drill
-tier: 0.1
+type: AttributeCrafter
 size: 3
 localizedName: Ice Drill
 description: A slow drill, used for drilling ice.
-warmupSpeed: 20.0
-drillTime: 2000
 hasPower: true
 consumes: {
   power: 3.0
@@ -12,6 +9,16 @@ consumes: {
 requirements: [
     nickel/500
 ]
+outputItem: {
+  item: ice
+  amount: 5
+}
+craftTime: 10.0
 category: production
-rotateSpeed: 0.1
+baseEfficiency: 0.0
+maxBoost: 1.0
+minEfficiency: 1.0
+displayScaledOutput: false
+displayEfficiency: false
 tint: ffffff
+//add a drawer class
