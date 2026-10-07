@@ -18,7 +18,9 @@ consumes: {
 requirements: [
   nickel/200
   iron/50
-  
+  insulated-wire/50
+  battery/5
+  cadmium/100
 ]
 category: crafting
 ambientSound: loopElectricHum
