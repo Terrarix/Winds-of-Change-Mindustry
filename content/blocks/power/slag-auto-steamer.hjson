@@ -9,7 +9,7 @@ requirements: [
   gear/50
   steel/125
   engine/10
-  cyrogenic-alloy/200
+  cryogenic-alloy/200
 ]
 category: power
 itemDuration: 50
