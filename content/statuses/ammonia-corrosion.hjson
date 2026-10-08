@@ -1,0 +1,5 @@
+type: StatusEffect
+name: Ammonia Corrosion
+description: Corrodes enemy units that decide to take a nice bath in ammonia.
+damage: 2.0
+disarm: true
