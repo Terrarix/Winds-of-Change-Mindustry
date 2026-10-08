@@ -1,0 +1,33 @@
+type: HeatCrafter
+size: 4
+localizedName: Battery Factory
+description: Makes batteries with iron plates, insulated wires, steam, and steel.
+hasPower: true
+craftTime: 600
+hasHeat: true
+heatRequirement: 6
+outputItem: {
+  item: battery
+  amount: 2
+}
+consumes: {
+    power: 4
+    items: [
+        iron-plate/8
+        steel/4
+        insulated-wire/8
+    ]
+    liquids: [
+        steam/1.25
+    ]
+}
+requirements: [
+  nickel/150
+  iron/100
+  cadmium/80
+  insulated-wire/20
+  steel/100
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
