@@ -1,19 +1,18 @@
 type: HeatCrafter
 size: 3
-localizedName: Steam Boiler
-description: Steam from ammonia, water, and heat.
+localizedName: T2 Steam Boiler
+description: Steam from just water, and heat.
 hasPower: true
 craftTime: 400
 hasHeat: true
-heatRequirement: 6
+heatRequirement: 5
 outputLiquid: {
   liquid: steam
-  amount: 1
+  amount: 4
 }
 consumes: {
-  power: 2
+  power: 3
   liquids: [
-    ammonia/1
     water/4
   ]
 }
@@ -21,6 +20,9 @@ requirements: [
   nickel/200
   iron-plate/100
   steel/80
+  cadmium/100
+  cryogenic-alloy/80
+  engine/2
 ]
 category: crafting
 ambientSound: loopElectricHum
