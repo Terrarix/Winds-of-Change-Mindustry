@@ -1,0 +1,28 @@
+type: GenericCrafter
+size: 5
+localizedName: Cryogenic Plant
+description: Makes cryogenic alloy, an important and usefull resource.
+hasPower: true
+craftTime: 1200
+outputItem: {
+  item: cryogenic-alloy
+  amount: 40
+}
+consumes: {
+  power: 30
+  liquids: [
+    ammonia/20
+    antifreeze/30
+    liquid-nitrogen/50
+  ]
+}
+requirements: [
+  nickel/500
+  steel/400
+  synthetic-insulation/200
+  battery/100
+  insulated-wire/100
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
