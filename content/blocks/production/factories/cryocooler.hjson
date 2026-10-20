@@ -1,0 +1,29 @@
+type: HeatCrafter
+size: 4
+localizedName: Cryocooler
+description: Nitrogen, antifreeze, and ammonia to make liquid nitrogen.
+hasPower: true
+craftTime: 600
+hasHeat: true
+heatRequirement: 6
+outputLiquid: {
+  liquid: liquid-nitrogen
+  amount: 50
+}
+consumes: {
+  power: 10
+  liquids: [
+    ammonia/50
+    antifreeze/80
+    nitrogen/50
+  ]
+}
+requirements: [
+  nickel/300
+  steel/200
+  gear/20
+  synthetic-insulation/80
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
