@@ -3,7 +3,7 @@ size: 2
 hasItems: true
 category: turret
 localizedName: Icicle
-description: Piercing hail
+description: Piercing hail.
 requirements: [
   nickel/150
 ]

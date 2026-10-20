@@ -1,7 +1,7 @@
 type: missile
 name: Garnet-Missile
 health: 4000
-description: Warhead for the garnet
+description: Warhead for the garnet.
 outlineColor: 6e3282
 speed: 10.0
 rotateSpeed: 0.1

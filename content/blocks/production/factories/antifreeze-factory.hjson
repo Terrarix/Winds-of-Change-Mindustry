@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Antifreeze Factory
-description: Using ammonia and water you can make antifreeze which acts like a coolant and is used in certain production chains
+description: Using ammonia and water you can make antifreeze which acts like a coolant and is used in certain production chains.
 hasPower: true
 craftTime: 600
 hasHeat: true

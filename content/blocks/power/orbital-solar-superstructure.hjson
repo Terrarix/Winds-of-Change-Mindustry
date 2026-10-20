@@ -1,7 +1,7 @@
 type: SolarGenerator
 size: 10.0
 name: Orbital Solar SuperStructure
-description: A supermassive machine that harvests the energy from the sun with greater potency from space
+description: A supermassive machine that harvests the energy from the sun with greater potency from space.
 hasPower: true
 powerProduction: 55.0
 requirements: [

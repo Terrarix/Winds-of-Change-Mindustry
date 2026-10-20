@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Cadmium Mill
-description: Takes in cadmium and turns it into Uninsulated wires
+description: Takes in cadmium and turns it into Uninsulated wires.
 hasPower: true
 craftTime: 300
 hasHeat: true

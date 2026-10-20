@@ -1,6 +1,6 @@
 type: MassDriver
 localizedName: Teleportation Driver
-description: Links with another teleportation driver letting it teleport items to the linked location in a mere instant
+description: Links with another teleportation driver letting it teleport items to the linked location in a mere instant.
 size: 1
 itemCapacity: 5
 reload: 0.01

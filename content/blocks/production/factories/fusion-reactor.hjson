@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 10
 localizedName: Fusion Reactor
-description: A supermassive reactor used for making fusion to make insane amounts of power with fusion turbines
+description: A supermassive reactor used for making fusion to make insane amounts of power with fusion turbines.
 hasPower: true
 craftTime: 50
 hasLiquids: true

@@ -1,7 +1,7 @@
 type: CoreBlock
 localizedName: Core: Quasar
 unitType: wanan
-description: The first core based more around building and production, has starting power like every other core but also comes with an overdrive dome effect
+description: The first core based more around building and production, has starting power like every other core but also comes with an overdrive dome effect.
 alwaysUnlocked: true
 size: 4
 category: effect

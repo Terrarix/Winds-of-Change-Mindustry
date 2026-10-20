@@ -1,6 +1,6 @@
 type: DirectionalUnloader
 localizedName: Cadmium Unloader
-description: An unloader made out of cadmium
+description: An unloader made out of cadmium.
 size: 1
 speed: 8
 itemCapacity: 10

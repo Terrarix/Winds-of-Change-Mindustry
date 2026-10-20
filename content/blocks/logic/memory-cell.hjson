@@ -1,6 +1,6 @@
 type: MemoryBlock
 name: Memory Cell
-description: Can store memory for MLOG (MEMORY CAPACITY: 64)
+description: Can store memory for MLOG. (MEMORY CAPACITY: 64)
 size: 2
 category: logic
 requirements: [

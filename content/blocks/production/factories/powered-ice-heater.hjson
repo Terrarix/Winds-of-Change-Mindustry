@@ -1,7 +1,7 @@
 type: GenericCrafter
 size: 3
 localizedName: Powered Ice Heater
-description: Water from ice and power
+description: Water from ice and power.
 hasPower: true
 craftTime: 300
 hasHeat: true

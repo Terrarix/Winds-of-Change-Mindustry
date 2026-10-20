@@ -3,7 +3,7 @@ size: 4
 hasItems: true
 category: turret
 localizedName: Avalanche
-description: Fires a large snowball
+description: Fires a large snowball.
 requirements: [
   engine/10
   iron-plate/100

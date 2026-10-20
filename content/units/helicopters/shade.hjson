@@ -1,6 +1,6 @@
 type: flying
 health: 100
-description: A small, armored helicopter
+description: A small, armored helicopter.
 outlineColor: 6e3282
 flying: true
 speed: 1
