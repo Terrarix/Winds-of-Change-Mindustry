@@ -7,10 +7,6 @@ size: 7
 category: effect
 health: 15000
 itemCapacity: 5000
-outputsPower: true
-conductivePower: true
-powerProduction: 20.0
-hasPower: true
 unitCapModifier: 50
 isFirstTier: false
 BuildVisibility: coreZoneOnly

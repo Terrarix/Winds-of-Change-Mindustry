@@ -1,0 +1,19 @@
+type: CoreBlock
+localizedName: Core: Quasar
+unitType: wanan
+description: The first core based more around building and production, has starting power like every other core but also comes with an overdrive dome effect
+alwaysUnlocked: true
+size: 4
+category: effect
+health: 2500
+itemCapacity: 3000
+unitCapModifier: 15
+isFirstTier: false
+BuildVisibility: coreZoneOnly
+requirements: [
+  nickel/500
+  steel/2000
+  cadmium/100
+  engine/50
+]
+research: core-engineer

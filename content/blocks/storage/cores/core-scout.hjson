@@ -7,10 +7,6 @@ size: 5
 category: effect
 health: 1000
 itemCapacity: 500
-outputsPower: true
-conductivePower: true
-powerProduction: 2
-hasPower: true
 unitCapModifier: 12 #12 should work - Terrarix
 isFirstTier: true
 BuildVisibility: coreZoneOnly
