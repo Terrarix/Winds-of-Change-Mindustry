@@ -1,0 +1,30 @@
+type: HeatCrafter
+size: 5
+localizedName: Explosives Factory
+description: Turns nickel into slag by superheating water.
+hasPower: true
+craftTime: 50
+heatRequirement: 20
+outputItem: {
+  item: explosives
+  amount: 40
+}
+consumes: {
+  power: 6
+  items: [
+    steel/10
+  ]
+  liquids: [
+    steam/10
+    slag/5
+  ]
+}
+requirements: [
+  nickel/200
+  steel/100
+  gear/50
+  insulated-wire/30
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 1.0

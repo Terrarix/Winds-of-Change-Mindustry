@@ -1,0 +1,10 @@
+#These are considered blocks currently for functionality purposes
+#DO NOT CHANGE THESE TO ITEMS
+type: wall
+localizedName: Fusion Swarmer Ammo
+size: 2
+health: 1500
+requirements: [
+    nickel/1
+]
+buildCostMultiplier: 0.4
