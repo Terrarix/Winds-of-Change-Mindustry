@@ -1,0 +1,19 @@
+type: SingleBlockProducer
+size: 4
+localizedName: Freezing Swarmer Ammo Factory
+description: Makes Freezing Swarmer ammo.
+result: Freezing-swarmer-ammo
+consumes: {
+  power: 25
+}
+requirements: [
+  steel/400
+  battery/100
+  engine/50
+  gear/100
+  uninsulated-wire/100
+  cryogenic-alloy/200
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08

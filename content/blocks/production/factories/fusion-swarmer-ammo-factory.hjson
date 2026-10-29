@@ -1,0 +1,21 @@
+type: SingleBlockProducer
+size: 5
+localizedName: Fusion Swarmer Ammo Factory
+description: Makes Fusion Swarmer ammo.
+result: Fusion-swarmer-ammo
+consumes: {
+  power: 30
+}
+requirements: [
+  steel/600
+  battery/200
+  engine/200
+  gear/200
+  uninsulated-wire/100
+  cryogenic-alloy/300
+  iridium/150
+  electromagnetic-alloy/200
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
