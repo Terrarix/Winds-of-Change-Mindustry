@@ -1,0 +1,18 @@
+type: SingleBlockProducer
+size: 4
+localizedName: Fragmentation Swarmer Ammo Factory
+description: Makes Fragmentation Swarmer ammo.
+result: fragmentation-swarmer-ammo
+consumes: {
+  power: 20
+}
+requirements: [
+  steel/200
+  battery/50
+  engine/20
+  gear/50
+  uninsulated-wire/50
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
