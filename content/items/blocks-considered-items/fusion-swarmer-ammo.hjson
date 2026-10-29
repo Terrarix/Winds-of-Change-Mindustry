@@ -5,6 +5,6 @@ localizedName: Fusion Swarmer Ammo
 size: 2
 health: 1500
 requirements: [
-    nickel/1
+    iridium/50
 ]
 buildCostMultiplier: 0.4
