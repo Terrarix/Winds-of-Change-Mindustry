@@ -1,0 +1,24 @@
+type: HeatCrafter
+size: 4
+localizedName: Supernova Simulator
+description: Creates iridium by simulating supernovas by creating and ripping apart stars in a controlled enviroment, LOG #3294C: SUPERNOVA SIM DESTROYED, LOCATION: OUTPOST #3568D, OUTPOST #3568D STATUS: LOST COMMUNICATIONS, *ATTEMPTING SIGNAL ON #3568D* *FAILURE* *REATTEMPTING* ... *FAILURE* ... *REATTEMPTING* ... *FAILURE* *COMMAND: SENDING CALCITE DRONES* (CORE AI - CORE ID: #8549P) TERMINATING LOG
+hasPower: true
+craftTime: 1400
+heatRequirement: 50
+outputItem: {
+  item: iridium
+  amount: 500
+}
+consumes: {
+  power: 100
+}
+requirements: [
+  steel/1000
+  electromagnetic-alloy/2000
+  insulated-wire/200
+  battery/200
+  engine/200
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 1.0

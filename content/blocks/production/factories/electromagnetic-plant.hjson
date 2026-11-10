@@ -1,6 +1,6 @@
 type: HeatCrafter
 size: 4
-localizedName: Electromagnetic-plant
+localizedName: Electromagnetic Plant
 description: Makes electromagnetic alloy
 hasPower: true
 craftTime: 45
