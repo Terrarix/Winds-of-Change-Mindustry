@@ -1,0 +1,31 @@
+type: HeatCrafter
+size: 4
+localizedName: Electromagnetic-plant
+description: Makes electromagnetic alloy
+hasPower: true
+craftTime: 45
+heatRequirement: 10
+outputItem: {
+  item: electromagnetic-alloy
+  amount: 10
+}
+consumes: {
+  power: 50
+  items: [
+    electric-alloy/20
+    cryogenic-alloy/20
+    battery/5
+    uninsulated-wire/50
+  ]
+}
+requirements: [
+  steel/200
+  gear/150
+  insulated-wire/100
+  electric-alloy/100
+  engine/80
+  cadmium/150
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 1.0
