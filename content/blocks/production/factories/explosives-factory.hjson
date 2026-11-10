@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 5
 localizedName: Explosives Factory
-description: Turns nickel into slag by superheating water.
+description: Makes big boom!
 hasPower: true
 craftTime: 50
 heatRequirement: 20

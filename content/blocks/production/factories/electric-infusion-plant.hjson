@@ -1,0 +1,32 @@
+type: HeatCrafter
+size: 4
+localizedName: Electric Infusion Plant
+description: Makes electric alloy
+hasPower: true
+craftTime: 30
+heatRequirement: 15
+outputItem: {
+  item: electric-alloy
+  amount: 10
+}
+consumes: {
+  power: 40
+  items: [
+    insulated-wire/10
+    gear/20
+    engine/1
+    battery/10
+    cadmium/20
+  ]
+}
+requirements: [
+  steel/200
+  gear/100
+  insulated-wire/10
+  battery/20
+  engine/4
+  cadmium/150
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 1.0
