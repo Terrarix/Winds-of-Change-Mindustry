@@ -2,7 +2,7 @@ type: SingleBlockProducer
 size: 4
 localizedName: Freezing Swarmer Ammo Factory
 description: Makes Freezing Swarmer ammo.
-result: Freezing-swarmer-ammo
+result: freezing-swarmer-ammo
 consumes: {
   power: 25
 }

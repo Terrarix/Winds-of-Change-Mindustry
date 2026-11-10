@@ -2,9 +2,12 @@ type: SingleBlockProducer
 size: 5
 localizedName: Fusion Swarmer Ammo Factory
 description: Makes Fusion Swarmer ammo.
-result: Fusion-swarmer-ammo
+result: fusion-swarmer-ammo
 consumes: {
   power: 30
+  liquids: [
+    fusion/100
+  ]
 }
 requirements: [
   steel/600
