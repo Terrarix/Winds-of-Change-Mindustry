@@ -19,7 +19,7 @@ consumes: {
 requirements: [
   nickel/500
   steel/400
-  synthetic-insulation/200
+  synthetic-rubber/200
   battery/100
   insulated-wire/100
 ]

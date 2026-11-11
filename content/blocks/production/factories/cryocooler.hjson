@@ -22,7 +22,7 @@ requirements: [
   nickel/300
   steel/200
   gear/20
-  synthetic-insulation/80
+  synthetic-rubber/80
 ]
 category: crafting
 ambientSound: loopElectricHum
