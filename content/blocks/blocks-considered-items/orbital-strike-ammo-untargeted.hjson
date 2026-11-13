@@ -1,0 +1,13 @@
+#These are considered blocks currently for functionality purposes
+#DO NOT CHANGE THESE TO ITEMS
+type: wall
+localizedName: Orbital Strike Ammo [UNTARGETED]
+size: 2
+health: 2500
+requirements: [
+    explosives/150
+    iridium/2000
+    electromagnetic-alloy/100
+    battery/30
+]
+buildCostMultiplier: 0.4

@@ -1,0 +1,17 @@
+type: SingleBlockProducer
+size: 4
+localizedName: Orbital Strike Ammo Constructor
+description: LOG: #4839C *TEST 32: SUCCESS* *DESTRUCTION LEVEL: 97%* *TERMINATING LOG*
+result: orbital-strike-ammo-untargeted
+consumes: {
+  power: 20
+}
+requirements: [
+  steel/1000
+  battery/100
+  engine/50
+  iridium/5000
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
