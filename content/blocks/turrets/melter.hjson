@@ -25,4 +25,5 @@ shootType: {
     inaccuracy: 10.0
     makeFire: true
     incendAmount: 2
+    fireTrailChance: 1.0
 }

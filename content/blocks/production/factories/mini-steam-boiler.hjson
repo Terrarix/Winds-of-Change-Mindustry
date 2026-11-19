@@ -1,0 +1,26 @@
+type: HeatCrafter
+size: 2
+localizedName: Mini Steam boiler
+description: Steam from liquid ammonia, water, and heat. (inefficient)
+hasPower: true
+craftTime: 600
+hasHeat: true
+heatRequirement: 10
+outputLiquid: {
+  liquid: steam
+  amount: 1
+}
+consumes: {
+  power: 2
+  liquids: [
+    liquid-ammonia/1
+    water/4
+  ]
+}
+requirements: [
+  nickel/200
+  iron/100
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08

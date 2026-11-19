@@ -1,6 +1,6 @@
 type: DirectionalUnloader
 localizedName: Iridium Unloader
-description: An unloader made out of iridium
+description: An unloader made out of iridium.
 size: 1
 speed: 1.0
 itemCapacity: 50

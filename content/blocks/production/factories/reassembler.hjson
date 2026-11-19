@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Reassembler
-description: Turns nickel into slag but superheating water
+description: Turns nickel into slag but superheating water.
 hasPower: true
 craftTime: 100
 hasHeat: true

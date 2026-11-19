@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 4
 localizedName: Metal Air Filter
-description: Filters air for nitrogen
+description: Filters air for nitrogen.
 hasPower: true
 craftTime: 100
 hasHeat: true

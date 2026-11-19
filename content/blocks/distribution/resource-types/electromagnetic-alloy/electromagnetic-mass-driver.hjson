@@ -1,6 +1,6 @@
 type: MassDriver
 localizedName: Electromagnetic Mass Driver
-description: Accelerates payload at extremely high speeds to transport resources across long distances
+description: Accelerates payload at extremely high speeds to transport resources across long distances.
 size: 1
 itemCapacity: 500
 reload: 500

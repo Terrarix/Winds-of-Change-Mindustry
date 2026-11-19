@@ -1,0 +1,29 @@
+type: HeatCrafter
+size: 3
+localizedName: T2 Steam Boiler
+description: Steam from just water, and heat.
+hasPower: true
+craftTime: 400
+hasHeat: true
+heatRequirement: 5
+outputLiquid: {
+  liquid: steam
+  amount: 4
+}
+consumes: {
+  power: 3
+  liquids: [
+    water/4
+  ]
+}
+requirements: [
+  nickel/200
+  iron-plate/100
+  steel/80
+  cadmium/100
+  cryogenic-alloy/80
+  engine/2
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08

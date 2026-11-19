@@ -1,0 +1,27 @@
+type: GenericCrafter
+size: 3
+localizedName: Powered Ice Heater
+description: Water from ice and power.
+hasPower: true
+craftTime: 300
+hasHeat: true
+outputLiquid: {
+  liquid: water
+  amount: 2
+}
+consumes: {
+  power: 8
+  items: [
+    ice/2
+  ]
+}
+requirements: [
+  nickel/200
+  iron/50
+  insulated-wire/50
+  battery/5
+  cadmium/100
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08

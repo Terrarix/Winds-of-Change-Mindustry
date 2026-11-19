@@ -1,0 +1,11 @@
+#These are considered blocks currently for functionality purposes
+#DO NOT CHANGE THESE TO ITEMS
+type: wall
+localizedName: Swarmer T1 Ammo
+size: 2
+health: 1500
+requirements: [
+    steel/50
+    explosives/30
+]
+buildCostMultiplier: 0.4

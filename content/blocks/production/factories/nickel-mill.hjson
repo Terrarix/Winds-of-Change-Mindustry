@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Nickel Mill
-description: Takes in nickel and turns it into Uninsulated wires
+description: Takes in nickel and turns it into Uninsulated wires.
 hasPower: true
 craftTime: 400
 hasHeat: true

@@ -4,7 +4,7 @@ size: 3
 hasItems: true
 category: turret
 localizedName: Multi Cannon
-description: Large powerful weapon with the capability to fire 3 times in quick succesion
+description: Large powerful weapon with the capability to fire 3 times in quick succesion.
 requirements: [
   engine/80
   iron-plate/500
@@ -32,7 +32,7 @@ ammoTypes: {
         intervalBullets: 2
         intervalRandomSpread: 0
         intervalSpread: 90
-        intervalAngle: 90
+        intervalAngle: 180
         bulletInterval: 50.0
         intervalBullet: {
             type: BasicBulletType

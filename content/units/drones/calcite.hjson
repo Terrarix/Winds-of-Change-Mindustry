@@ -1,7 +1,7 @@
 type: flying
 name: Calcite
 health: 300
-description: Combat, utility, and exploration drone, cheap and mass producable! Used early in wars or as a constant pressure unit.
+description: Combat, utility, and exploration drone, cheap and mass producable! Used early in wars or as a constant pressure unit. LOG #3295C: *OUTPOST STATUS: DESTROYED* *CAUSE: UNKNOWN* *PREDICTED CAUSE: ERROR* *INCOMING COMMAND: REPORT FILES, CHECK IR* *UPLOADING: C_DATA.MP4, IR_DATA.txt* *SITE CLEAR* *REQUESTING: SNOWTREKKERS* *REQUEST APPROVED, RETURN* (DRONE ID: #749) TERMINATING LOG
 outlineColor: 6e3282
 speed: 1.5
 canMine: true

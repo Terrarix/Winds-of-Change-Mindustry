@@ -1,7 +1,7 @@
 type: HeatCrafter
 size: 3
 localizedName: Wire Insulator
-description: Takes in uninsulated wires and insulation to insulate wires
+description: Takes in uninsulated wires and insulation to insulate wires.
 hasPower: true
 craftTime: 200
 hasHeat: true

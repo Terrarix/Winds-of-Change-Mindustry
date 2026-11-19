@@ -3,7 +3,7 @@ size: 2
 hasItems: true
 category: turret
 localizedName: Whiteout
-description: Rapid fire
+description: Rapid fire.
 requirements: [
   nickel/150
   iron-plate/150

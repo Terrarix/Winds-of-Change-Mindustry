@@ -1,6 +1,6 @@
 type: Unloader
 localizedName: Omni Iridium Unloader
-description: An unloader made out of iridium that dispenses items on every side
+description: An unloader made out of iridium that dispenses items on every side.
 size: 1
 speed: 25.0
 itemCapacity: 50

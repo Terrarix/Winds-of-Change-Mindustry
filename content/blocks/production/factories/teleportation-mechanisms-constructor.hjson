@@ -1,0 +1,32 @@
+type: HeatCrafter
+size: 3
+localizedName: Teleportation Mechanisms Constructor
+description: Makes mechanisms crucial for teleportation technology. LOG #4821C: *TELEPORTATION TEST: SUCCESS* *SUMMARY: 800 STEEL, TRANSFERED 400 KM, INSTANTLY* [IN PROGRESS] *TEST 2: LIQUID TELEPORTATION*
+hasPower: true
+craftTime: 500
+hasHeat: true
+heatRequirement: 40
+outputItem: {
+  item: teleportation-mechanism
+  amount: 4
+}
+consumes: {
+  power: 6
+  items: [
+    iridium/20
+    steel/20
+    battery/2
+    cryogenic-alloy/20
+    electromagnetic-alloy/4
+  ]
+}
+requirements: [
+  iridium/300
+  steel/500
+  battery/50
+  insulated-wire/100
+  engine/100
+]
+category: crafting
+ambientSound: loopGrind
+ambientSoundVolume: 0.1
