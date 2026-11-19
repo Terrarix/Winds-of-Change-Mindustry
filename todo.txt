@@ -19,6 +19,8 @@ DONE
 
 INCOMPLETE
 --------------------------------------------------
+[ ] Create sprites for unsprited content
+    - :sob: - caboosket
 [ ] Mod Plan Slides Cleanup
     - doesn't have to be now but would be really nice to have done.
 [ ] Factories
