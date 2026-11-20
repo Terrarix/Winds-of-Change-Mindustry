@@ -2,7 +2,7 @@
 #DO NOT CHANGE THESE TO ITEMS
 type: wall
 localizedName: Freezing Swarmer Ammo
-size: 2
+size: 1
 health: 1500
 requirements: [
     cryogenic-alloy/100
