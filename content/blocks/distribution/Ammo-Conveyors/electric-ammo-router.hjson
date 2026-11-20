@@ -1,0 +1,16 @@
+type: PayloadRouter
+localizedName: Electric Ammo Router
+description: utilized for moving around ammo for turrets that require larger prebuilt ammunition
+size: 1
+itemCapacity: 20
+category: distribution
+consumes: {
+  power: 5.0
+}
+conductivePower: true
+requirements: [
+  nickel/5
+  steel/5
+  uninsulated-wire/5
+  gear/5
+]
