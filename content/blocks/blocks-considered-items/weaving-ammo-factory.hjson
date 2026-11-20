@@ -1,0 +1,12 @@
+#These are considered blocks currently for functionality purposes
+#DO NOT CHANGE THESE TO ITEMS
+type: wall
+localizedName: Weaving Ammo
+size: 2
+health: 1500
+requirements: [
+    steel/200
+    iridium/200
+    electromagnetic-alloy/100
+]
+buildCostMultiplier: 0.4

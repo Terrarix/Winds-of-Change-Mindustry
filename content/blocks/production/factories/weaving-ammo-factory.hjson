@@ -1,0 +1,18 @@
+type: SingleBlockProducer
+size: 4
+localizedName: Weaving Ammo Factory
+description: ...
+result: weaving-ammo
+consumes: {
+  power: 30
+}
+requirements: [
+  steel/450
+  battery/200
+  engine/100
+  gear/200
+  iridium/600
+]
+category: crafting
+ambientSound: loopElectricHum
+ambientSoundVolume: 0.08
