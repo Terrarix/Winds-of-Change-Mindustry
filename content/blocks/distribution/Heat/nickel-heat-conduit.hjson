@@ -1,6 +1,6 @@
 type: HeatConductor
-localizedName: Nickel Heat Conduit
-description: A basic heat conduit made of nickel & synthetic rubber.
+localizedName: Nickel Heat Router
+description: A basic heat router made of nickel & synthetic rubber.
 size: 1
 category: distribution
 requirements: [
